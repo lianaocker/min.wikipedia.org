@@ -1,0 +1,720 @@
+{{Infobox Planet
+| bgcolour = #c0c0ff
+| name = Bumi
+| symbol = [[File:Earth symbol.svg|25px|Astronomical symbol of Earth]]
+| image = [[File:The Earth seen from Apollo 17.jpg|250px|A color image of Earth as seen from Apollo 17|alt=A planetary disk of white cloud formations, brown and green land masses, and dark blue oceans against a black background. The Arabian peninsula, Africa and Madagascar lie in the upper half of the disk, while Antarctica is at the bottom.]]
+| caption = "Pualam Biru" foto bumi,<br>diambiak dari ''[[Apollo 17|Apollo 17]]''
+| flag = {{Flagicon|world}}
+| epoch = [[J2000.0|J2000.0]]<ref group=note name=epoch/>
+| aphelion = 152,098,232&nbsp;km<br> 1.01671388&nbsp;[[Astronomi unit|AU]]<ref group=note name=apsis/>
+| perihelion = 147,098,290&nbsp;km<br> 0.98329134&nbsp;AU<ref group=note name=apsis/>
+| semimajor = 149,598,261&nbsp;km<br> 1.00000261&nbsp;AU<ref name=standish_williams_iau/>
+| eccentricity = 0.01671123<ref name=standish_williams_iau/>
+| inclination = 7.155° dari [[Equator|equator]] [[Matohari|Matohari]]<br>1.57869°<ref name=Allen294/> to [[invariable plane]]
+| asc_node = 348.73936°<ref name="earth_fact_sheet"/><ref group=note name=asc_node/>
+| arg_peri = 114.20783°<ref name="earth_fact_sheet"/><ref group=note name=arg_peri/>
+| mean_anomaly = 357.51716°<ref name="earth_fact_sheet"/>
+| period = 365.256363004&nbsp;days<ref name="IERS"/><br>1.000017421&nbsp;[[Tahun Matohari|tahun]]
+| avg_speed = 29.78&nbsp;km/s<ref name="earth_fact_sheet"/><br>107,200&nbsp;km/h
+| satellites = 1 natural&nbsp;([[Bulan|Bulan]])
+<br /> 8,300+ artificial ({{As of|2001|3|1|lc=on}})<ref>{{Cite web|url=http://www.spaceref.com/news/viewpr.html?pid=4008|title=Reentry Assessment - US Space Command Fact Sheet|author=[[US Space Command]]|date=March 1, 2001|publisher=SpaceRef Interactive|accessdate=2011-05-07}}</ref>
+| physical_characteristics = yes
+| flattening = 0.0033528<ref name=iers/>
+| equatorial_radius = 6,378.1&nbsp;km<ref name=usno/><ref name="WGS-84"/>
+| polar_radius = 6,356.8&nbsp;km<ref name=cazenave_ahrens1995/>
+| mean_radius = 6,371.0&nbsp;km<ref name=hbcp2000/>
+| circumference = 40,075.017&nbsp;km&nbsp;([[Equator|equatorial]])<ref name="WGS-84">[[World Geodetic System]] (''WGS-84'').  [http://earth-info.nga.mil/GandG/wgs84/ Available online] from [[National Geospatial-Intelligence Agency]].</ref><br>40,007.86&nbsp;km&nbsp;([[meridional]])<ref name="WGS-84-2"/>
+| surface_area = 510,072,000&nbsp;km<sup>2</sup><ref name="Pidwirny 2006" /><ref name=cia /><ref group=note name=surfacecover/>
+{{Nowrap|148,940,000 km<sup>2</sup> land  (29.2 %)}}<br>
+{{Nowrap|361,132,000 km<sup>2</sup> water (70.8 %)}}
+| volume = [[Kandungan Bumi|1.08321{{E|12}}]]&nbsp;km<sup>3</sup><ref name="earth_fact_sheet"/>
+| mass = 5.9736{{E|24}}&nbsp;kg<ref name="earth_fact_sheet"/>
+| density = 5.515&nbsp;g/cm<sup>3</sup><ref name="earth_fact_sheet"/>
+| surface_grav = [[Grafitasi Bumi|9.780327]] [[Meter per detik kuadrat|m/s<sup>2</sup>]]<ref name="yoder12"/><br>0.99732&nbsp;[[G-force|''g'']]
+| escape_velocity = 11.186&nbsp;km/s<ref name="earth_fact_sheet"/>
+| sidereal_day = 0.99726968&nbsp;d<ref name=Allen296 /> <br>23{{Smallsup|h}}&nbsp;56{{Smallsup|m}}&nbsp;4.100{{Smallsup|s}}
+| rot_velocity = {{Convert|1674.4|km/h|m/s|abbr=on}}<ref name="Cox2000"/>
+| axial_tilt = 23°26'21".4119<ref name="IERS"/>
+| albedo = 0.367 ([[Geometrik albedo|geometric]])<ref name="earth_fact_sheet"/><br/>
+0.306 ([[Bond albedo|Bond]])<ref name="earth_fact_sheet"/>
+| adjectives = earthly, tellurian, telluric, terran, terrestrial.
+| pronounce = {{IPAc-en|en-us-earth.ogg|ˈ|ɝː|θ}}
+| atmosphere = ya
+| temperatures = ya
+| temp_name1  = [[Kelvin]]
+| min_temp_1  = 184&nbsp;K<ref name=asu_lowest_temp/>
+| mean_temp_1 = 287.2&nbsp;K<ref name=kinver20091210/>
+| max_temp_1  = 331&nbsp;K<ref name=asu_highest_temp/>
+| temp_name2  = [[Celsius]]
+| min_temp_2  = -89.2&nbsp;°C
+| mean_temp_2 = 14&nbsp;°C
+| max_temp_2  = 57.8&nbsp;°C
+| surface_pressure = [[Atmosfir (unit)|101.325]]&nbsp;[[Pascal (unit)|kPa]] ([[Parmukaan Laut|MSL]])
+| atmosphere_composition = 78.08%&nbsp;[[Nitrogen]] (N<sub>2</sub>)<ref name="earth_fact_sheet"/><br> 20.95%&nbsp;[[oxygen]] (O<sub>2</sub>)<br> 0.93%&nbsp;[[Argon]]<br> 0.038%&nbsp;[[Karbon diosida]]<br>About 1% [[water vapor]] (varies with [[Klimak]])
+|note = no
+}}   <!-- Main contents of article below this line -->
+
+'''Bumi''' adolah [[Planet|planet]] katigo dari [[Matohari|matohari]], dan marupokan planet yang tapadek jo gadang nan ka limo dari salapan planet di [[Tata Surya|tata surya]]. Inyo ko juo tamasuak paliang gadang dari nan ampek buah planet terrestrial. Bumi ko dirujuak juo sabagai [[Dunia|dunia]], planet biru,<ref name="blueplanet"/> atau namo [[Latin|latin]]nyo, ''Terra''.<ref group=note name="Terra" />
+
+Bumi ko rumah bagi jutaan [[Spesies|spesies]], tamasuak [[Manusia|manusia]], bumi kini ko manjadi satu-satunyo [[Benda Astronomi|benda astronomi]] yang di situ ado [[Kehidupan|kehidupan]].<ref name=science_241_4872_1441 /> Planet ko tabantuak [[Umua Bumi|4.54 billion tahun]] lalu, dan [[Abiogenesis|kehidupan muncul]] di permukaan bumi sekitar satu billion tahun.<ref name="age_earth1" /> Adonyo [[Biosfir|biosfir]] di bumi yang signifikan maubah [[WEp/min/Atmosfir|atmosfir]] dan kondisi [[Abiotik|abiotik]] lainnyo di bumi, mamungkinkan proliferasi [[Organisme aerobik|organisme aerobik]] sarato pambentukan lapisan [[Ozon|ozon]], basamo jo [[Medan Magnet Bumi|medan magnet bumi]], mahalangi [[Radiasi Matohari|radiasi matohari]], sahinggo mamungkinkan adonyo kehidupan di darek.<ref name="Harrison 2002" /> Sacaro [[Geofisik|geofisik bumi]], seperti sajarah [[Geologi|geologi]] dan orbit, mamungkinkan kehidupan lah bertahan salamo periode ko. Planet ko dihrapakan dapek taruih batahan untuak mandukuang kehidupan satidaknyo sampai {{Nowrap|500 milyar}} tahun lai.<ref name="britt2000" /><ref name=carrington />
+
+== Kronologi ==
+Urang cadiak pandai kini lah mampu marekonstruksi ulang maklumat rinci tentang maso lalu planet ko. Penanggalan awal tabantuaknyo sistem surya ko {{Nowrap|4.5672 ± 0.0006 billion tahun}} lalu,<ref name=bowring_housch1995/> atau 4.54&nbsp;billion&nbsp;tahun lalu (1% indak pasti)<ref name="age_earth1" /> the Earth and the other planets in the Solar System had formed out of the [[solar nebula]]—a disk-shaped mass of dust and gas left over from the formation of the Sun. This assembly of the Earth through accretion was thus largely completed within 10–20&nbsp;million&nbsp;years.<ref name=nature418_6901_949/> Initially [[molten]], the outer layer of the planet Earth cooled to form a solid crust when water began accumulating in the atmosphere. The Moon formed shortly thereafter, {{Nowrap|4.53 billion years}} ago.<ref name=science310_5754_1671/>
+
+
+== Catatan==
+{{Reflist|colwidth=30em|group=note|refs=
+<ref name=apsis>aphelion = ''a'' × (1 + ''e''); perihelion = ''a'' × (1 - ''e''), where ''a'' is the semi-major axis and ''e'' is the eccentricity.</ref>
+
+<ref name=epoch>All astronomical quantities vary, both [[Secular phenomena|secularly]] and [[Frequency|periodically]]. The quantities given are the values at the instant [[J2000.0]] of the secular variation, ignoring all periodic variations.</ref>
+
+<ref name=asc_node>The reference lists the longitude of the ascending node as -11.26064°, which is equivalent to 348.73936° by the fact that any angle is equal to itself plus 360°.</ref>
+
+<ref name=arg_peri>The reference lists the [[longitude of periapsis|longitude of perihelion]], which is the sum of the longitude of the ascending node and the argument of perihelion. That is, 114.20783° + (-11.26064°) = 102.94719°.</ref>
+
+<ref name="Terra">By [[International Astronomical Union]] convention, the term ''terra'' is used only for naming extensive land masses on celestial bodies other than the Earth. ''Cf.'' {{Cite web|last=Blue|first=Jennifer|date=2007-07-05|url=http://planetarynames.wr.usgs.gov/jsp/append5.jsp|title=Descriptor Terms (Feature Types)|work=Gazetteer of Planetary Nomenclature|publisher=USGS|accessdate=2007-07-05}}</ref>
+
+<ref name=surfacecover>Due to natural fluctuations, ambiguities surrounding [[Ice shelf|ice shelves]], and mapping conventions for [[vertical datum]]s, exact values for land and ocean coverage are not meaningful. Based on data from the [[Vector Map]] and [http://www.landcover.org Global Landcover] datasets, extreme values for coverage of lakes and streams are 0.6% and 1.0% of the Earth's surface. The ice shields of [[Antarctica]] and [[Greenland]] are counted as land, even though much of the rock which supports them lies below sea level.</ref>
+
+<!--
+<ref name=sidereal_solar>The number of solar days is one less than the number of [[sidereal day]]s because the orbital motion of the Earth about the Sun results in one additional revolution of the planet about its axis.</ref>
+
+<ref name="water vapor">At present, the other planets in the Solar System are either too hot or too cold to support liquid water on the surface in vapor-liquid equilibrium. As of 2007, water vapor has been detected in the atmosphere of only one extrasolar planet, and it is a gas giant. See: {{Cite journal|last=Tinetti|first=G.|coauthors=Vidal-Madjar, A.; Liang, M.C.; Beaulieu, J. P.; Yung, Y.; Carey, S.; Barber, R. J.; Tennyson, J.; Ribas, I|title=Water vapour in the atmosphere of a transiting extrasolar planet|journal=Nature|month=July|year=2007|volume=448|pages=169–171|url=http://www.nature.com/nature/journal/v448/n7150/abs/nature06002.html|doi = 10.1038/nature06002|pmid=17625559|issue=7150|bibcode = 2007Natur.448..169T }}
+</ref>
+
+<ref name=jaes41_3_379>Including the [[Somali Plate]], which is currently in the process of formation out of the African Plate. See: {{Cite journal|first=Jean|last=Chorowicz|month=October|year=2005|title=The East African rift system|journal=Journal of African Earth Sciences|volume=43|issue=1–3|pages=379–410|doi=10.1016/j.jafrearsci.2005.07.019|bibcode = 2005JAfES..43..379C }}</ref>
+
+<ref name=trench_depth>This is the measurement taken by the vessel ''[[Kaikō]]'' in March 1995 and is believed to be the most accurate measurement to date. See the [[Challenger Deep]] article for more details.</ref>
+
+<ref name=Aoki>Aoki, the ultimate source of these figures, uses the term "seconds of UT1" instead of "seconds of mean solar time".—{{Cite journal|last=Aoki|first=S.|title=The new definition of universal time|journal=Astronomy and Astrophysics|year=1982|volume=105|issue=2|pages=359–361|bibcode=1982A&A...105..359A}}</ref>
+
+<ref name=hill_radius>For the Earth, the [[Hill radius]] is
+
+:<math>\begin{smallmatrix} R_H = a\left ( \frac{m}{3M} \right )^{\frac{1}{3}} \end{smallmatrix}</math>,
+
+where ''m'' is the mass of the Earth, ''a'' is an Astronomical Unit, and ''M'' is the mass of the Sun. So the radius in A.U. is about:
+
+<math>\begin{smallmatrix} \left ( \frac{1}{3 \cdot 332,946} \right )^{\frac{1}{3}} = 0.01 \end{smallmatrix}</math>.</ref>
+
+<ref name=solar_energy>Aphelion is 103.4% of the distance to perihelion. Due to the inverse square law, the radiation at perihelion is about 106.9% the energy at aphelion.</ref>
+-->
+}}
+
+== Rujukan ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="blueplanet">{{Cite journal|date=February 2009|title=Exploring the Water Cycle of the ‘Blue Planet’: The Soil Moisture and Ocean Salinity (SMOS) mission|journal=ESA Bulletin|publisher=[[European Space Agency]]|issue=137|pages=6–15 |url=http://www.esa.int/esapub/bulletin/bulletin137/bul137b_drinkwater.pdf |first1=Mark |last1=Drinkwater |first2=Yann |last2=Kerr |first3=Jordi |last3=Font |first4=Michael |last4=Berger |quote=A view of Earth, the ‘Blue Planet’ [...] When astronauts first went into the space, they looked back at our Earth for the first time, and called our home the ‘Blue Planet’.}}</ref>
+
+<ref name=standish_williams_iau>{{Cite web|author=Standish, E. Myles; Williams, James C|title=Orbital Ephemerides of the Sun, Moon, and Planets|publisher=International Astronomical Union Commission 4: (Ephemerides)|url=http://iau-comm4.jpl.nasa.gov/XSChap8.pdf|format=PDF|accessdate=2010-04-03}} See table 8.10.2. Calculation based upon 1 AU = 149,597,870,700(3) m.</ref>
+
+<ref name=iers>{{Cite conference|author=IERS Working Groups|editor=McCarthy, Dennis D.; Petit, Gérard|title=General Definitions and Numerical Standards|year=2003|booktitle=IERS Technical Note No. 32|publisher=U.S. Naval Observatory and Bureau International des Poids et Mesures|url=http://www.iers.org/MainDisp.csl?pid=46-25776|accessdate=2008-08-03}}</ref>
+
+<ref name=cazenave_ahrens1995>{{Cite book|first=Anny|last=Cazenave|editor=Ahrens, Thomas J|year=1995|title=Global earth physics a handbook of physical constants|publisher=American Geophysical Union|location=Washington, DC|isbn=0-87590-851-9|url=http://www.agu.org/reference/gephys/5_cazenave.pdf|archiveurl=http://web.archive.org/web/20061016024803/http://www.agu.org/reference/gephys/5_cazenave.pdf|archivedate=2006-10-16|accessdate=2008-08-03|format=PDF|chapter=Geoid, Topography and Distribution of Landforms}}</ref>
+
+<ref name=hbcp2000>{{Cite book|author=Various|editor=David R. Lide|year=2000|title=Handbook of Chemistry and Physics|edition=81st|publisher=CRC|isbn=0-8493-0481-4}}</ref>
+
+<ref name="Cox2000">{{Cite book|editor=Arthur N. Cox|title=Allen's Astrophysical Quantities|url=http://books.google.com/?id=w8PK2XFLLH8C&pg=PA244|edition=4th|year=2000|publisher=AIP Press|location=New York|isbn=0-387-98746-0|page=244|accessdate=2010-08-17}}</ref>
+
+<ref name="WGS-84-2">{{Cite web | first=Sigurd | last=Humerfelt | date=October 26, 2010 | title=How WGS 84 defines Earth | url=http://home.online.no/~sigurdhu/WGS84_Eng.html | accessdate=2011-04-29 }}</ref>
+
+<ref name="yoder12">{{Cite book|last=Yoder|first=Charles F.|editor=T. J. Ahrens|year=1995|title=Global Earth Physics: A Handbook of Physical Constants|publisher=American Geophysical Union|location=Washington|url=http://www.agu.org/reference/gephys.html|archiveurl=http://replay.waybackmachine.org/20090421092502/http://www.agu.org/reference/gephys.html|archivedate=2007-03-08|accessdate=2007-03-17|isbn=0-87590-851-9 |page=12}}</ref>
+
+<ref name=kinver20091210>{{Cite news|url=http://news.bbc.co.uk/2/hi/science/nature/8406839.stm|title=Global average temperature may hit record level in 2010|last=Kinver|first=Mark|date=December 10, 2009|work=[[BBC Online]]|accessdate=2010-04-22}}</ref>
+
+<ref name="Pidwirny 2006">{{Cite journal|last=Pidwirny|first=Michael|date=2006-02-02|title=Surface area of our planet covered by oceans and continents.(Table 8o-1)|publisher=University of British Columbia, Okanagan|url=http://www.physicalgeography.net/fundamentals/8o.html|accessdate=2007-11-26}}</ref>
+
+<ref name=Allen294>{{Cite book|title=Allen's Astrophysical Quantities|author=Allen, Clabon Walter; Cox, Arthur N.|publisher=Springer|year=2000|isbn=0-387-98746-0|url=http://books.google.com/?id=w8PK2XFLLH8C&pg=PA294|page=294|accessdate=2011-03-13}}</ref>
+
+<ref name=Allen296>{{Cite book|title=Allen's Astrophysical Quantities|author=Allen, Clabon Walter; Cox, Arthur N.|publisher=Springer|year=2000|isbn=0-387-98746-0|url=http://books.google.com/?id=w8PK2XFLLH8C&pg=PA296|page=296|accessdate=2010-08-17}}</ref>
+
+<ref name=science_241_4872_1441>{{Cite journal|last=May|first=Robert M.|title=How many species are there on earth?|journal=Science|year=1988|volume=241|issue=4872|pages=1441–1449|bibcode=1988Sci...241.1441M|doi=10.1126/science.241.4872.1441|pmid=17790039}}</ref>
+
+<ref name="age_earth1">See:
+* {{Cite book|first=G.B.|last=Dalrymple|year=1991|title=The Age of the Earth|publisher=Stanford University Press|location=California|isbn=0-8047-1569-6}}
+* {{Cite web|last=Newman|first=William L.|date=2007-07-09|url=http://pubs.usgs.gov/gip/geotime/age.html|title=Age of the Earth|publisher=Publications Services, USGS|accessdate=2007-09-20}}
+* {{Cite journal|last=Dalrymple|first=G. Brent|title=The age of the Earth in the twentieth century: a problem (mostly) solved|journal=Geological Society, London, Special Publications|year=2001|volume=190|issue=1|pages=205–221|url=http://sp.lyellcollection.org/cgi/content/abstract/190/1/205|accessdate=2007-09-20|doi = 10.1144/GSL.SP.2001.190.01.14}}
+* {{Cite web|last=Stassen|first=Chris|date=2005-09-10|url=http://www.talkorigins.org/faqs/faq-age-of-earth.html|title=The Age of the Earth|publisher=[[TalkOrigins Archive]]|accessdate=2008-12-30}}
+</ref>
+
+<ref name="Harrison 2002">{{Cite book|first=Roy M.|last=Harrison|coauthors=Hester, Ronald E.|year=2002|title=Causes and Environmental Implications of Increased UV-B Radiation|publisher=Royal Society of Chemistry|isbn=0-85404-265-2}}</ref>
+
+<ref name=carrington>{{Cite news|first=Damian|last=Carrington|title=Date set for desert Earth|publisher=BBC News|date=2000-02-21|url=http://news.bbc.co.uk/1/hi/sci/tech/specials/washington_2000/649913.stm|accessdate=2007-03-31}}</ref>
+
+<ref name="britt2000">{{Cite web|first=Robert|last=Britt|url=http://replay.waybackmachine.org/20090605231345/http://www.space.com/scienceastronomy/solarsystem/death_of_earth_000224.html |title=Freeze, Fry or Dry: How Long Has the Earth Got?|date=2000-02-25}}</ref>
+
+<ref name=IERS>{{Cite web|author=Staff|date=2007-08-07|url=http://hpiers.obspm.fr/eop-pc/models/constants.html|title=Useful Constants|publisher=[[International Earth Rotation and Reference Systems Service]]| accessdate=2008-09-23}}</ref>
+
+<ref name=cia>{{Cite web|author=Staff|date=2008-07-24|url=https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html|title=World|work=The World Factbook|publisher=Central Intelligence Agency|accessdate=2008-08-05}}</ref>
+
+<ref name="earth_fact_sheet">{{Cite web|last=Williams|first=David R.|date=2004-09-01|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html|title=Earth Fact Sheet|publisher=NASA|accessdate=2010-08-09}}</ref>
+
+<ref name=asu_lowest_temp>{{Cite web|url=http://wmo.asu.edu/world-lowest-temperature|title=World: Lowest Temperature|work=[[WMO]] Weather and Climate Extremes Archive|publisher=[[Arizona State University]]|accessdate=2010-08-07}}</ref>
+
+<ref name=asu_highest_temp>{{Cite web|url=http://wmo.asu.edu/world-highest-temperature|title=World: Highest Temperature|work=[[WMO]] Weather and Climate Extremes Archive|publisher=[[Arizona State University]]|accessdate=2010-08-07}}</ref>
+
+<ref name=usno>{{Cite web|title=Selected Astronomical Constants, 2011|work=The Astronomical Almanac|url=http://asa.usno.navy.mil/SecK/2011/Astronomical_Constants_2011.txt|accessdate=2011-02-25}}</ref>
+
+<ref name=bowring_housch1995>{{Cite journal|author=Bowring, S.|coauthors=Housh, T.|title=The Earth's early evolution|year=1995|doi=10.1126/science.7667634|journal=Science|volume=269|page=1535|pmid=7667634|issue=5230|bibcode = 1995Sci...269.1535B }}</ref>
+
+<ref name=nature418_6901_949>{{Cite journal|last=Yin|first=Qingzhu|title=A short timescale for terrestrial planet formation from Hf-W chronometry of meteorites|journal=Nature|year=2002|volume=418|issue=6901|pages=949–952|doi=10.1038/nature00995|pmid=12198540|last2=Jacobsen|first2=S. B.|last3=Yamashita|first3=K.|last4=Blichert-Toft|first4=J.|last5=Télouk|first5=P.|last6=Albarède|first6=F.|bibcode = 2002Natur.418..949Y }}</ref>
+
+<ref name=science310_5754_1671>{{Cite journal|author=Kleine, Thorsten; Palme, Herbert; Mezger, Klaus; Halliday, Alex N.|title=Hf-W Chronometry of Lunar Metals and the Age and Early Differentiation of the Moon|journal=Science|volume=310|issue=5754|date=2005-11-24|pages=1671–1674|doi=10.1126/science.1118842|pmid=16308422|bibcode = 2005Sci...310.1671K }}</ref>
+
+
+<!--
+<ref name=yoder1995>{{Cite book|last=Yoder|first=Charles F.|editor=T. J. Ahrens|year=1995|title=Global Earth Physics: A Handbook of Physical Constants|publisher=American Geophysical Union|location=Washington|url=http://replay.waybackmachine.org/20090421092502/http://www.agu.org/reference/gephys.html|accessdate=2007-03-17|isbn=0-87590-851-9 |page=8}}</ref>
+
+<ref name=reilly20091022>{{Cite news|first=Michael|last=Reilly|date=October 22, 2009|title=Controversial Moon Origin Theory Rewrites History|url=http://news.discovery.com/space/moon-earth-formation.html|accessdate=2010-01-30}}</ref>
+
+<ref name=canup_asphaug2001a>{{Cite conference|author=Canup, R. M.; Asphaug, E.|title=An impact origin of the Earth-Moon system|booktitle=Abstract #U51A-02|publisher=American Geophysical Union|date=Fall Meeting 2001|bibcode=2001AGUFM.U51A..02C|accessdate=2007-03-10}}</ref>
+
+<ref name=canup_asphaug2001b>{{Cite journal|author=Canup, R.; Asphaug, E.|title=Origin of the Moon in a giant impact near the end of the Earth's formation|journal=Nature|volume=412|pages=708–712|year=2001|url=http://www.nature.com/nature/journal/v412/n6848/abs/412708a0.html|doi = 10.1038/35089010|pmid = 11507633|issue=6848|bibcode=2001Natur.412..708C}}</ref>
+
+<ref name="watersource">{{Cite journal|author=Morbidelli, A.; Chambers, J.; Lunine, J. I.; Petit, J. M.; Robert, F.; Valsecchi, G. B.; Cyr, K. E.|title=Source regions and time scales for the delivery of water to Earth|journal=Meteoritics & Planetary Science|year=2000|volume=35|issue=6|pages=1309–1320|bibcode=2000M&PS...35.1309M|doi=10.1111/j.1945-5100.2000.tb01518.x}}</ref>
+
+<ref name=asp2002>{{Cite conference|author=Guinan, E. F.; Ribas, I|editor=Benjamin Montesinos, Alvaro Gimenez and Edward F. Guinan|title=Our Changing Sun: The Role of Solar Nuclear Evolution and Magnetic Activity on Earth's Atmosphere and Climate|booktitle=ASP Conference Proceedings: The Evolving Sun and its Influence on Planetary Environments|location=San Francisco|isbn=1-58381-109-5|publisher=Astronomical Society of the Pacific|bibcode=2002ASPC..269...85G|accessdate=2009-07-27}}</ref>
+
+<ref name=physorg20100304>{{Cite news|author=Staff|title=Oldest measurement of Earth's magnetic field reveals battle between Sun and Earth for our atmosphere|date=March 4, 2010|work=Physorg.news|url=http://www.physorg.com/news186922627.html|accessdate=2010-03-27}}</ref>
+
+<ref name=williams_santosh2004>{{Cite book|first=John James William|last=Rogers|coauthors=Santosh, M.|year=2004|title=Continents and Supercontinents|page=48|publisher=Oxford University Press US|isbn=0-19-516589-6}}</ref>
+
+<ref name=science164_1229>{{Cite journal|last=Hurley|first=P. M.|year=1969|title=Pre-drift continental nuclei|journal=Science|volume=164 |pages=1229–1242|doi=10.1126/science.164.3885.1229|pmid=17772560|month=Jun|author=Hurley, Pm; Rand, Jr|issue=3885 |bibcode = 1969Sci...164.1229H }}</ref>
+
+<ref name=rg6_175>{{Cite journal|last=Armstrong|first=R. L.|year=1968|title=A model for the evolution of strontium and lead isotopes in a dynamic earth| journal=Reviews of Geophysics|volume=6|issue=2|pages=175–199|doi=10.1029/RG006i002p00175|bibcode=1968RvGSP...6..175A}}</ref>
+
+<ref name=tp322_19>{{Cite journal|doi=10.1016/S0040-1951(00)00055-X|title=Early formation and long-term stability of continents resulting from decompression melting in a convecting mantle|year=2000|author=De Smet, J.|journal=Tectonophysics|volume=322|issue=1-2|page=19|bibcode=2000Tectp.322...19D}}</ref>
+
+<ref name=science310_5756_1947>{{Cite journal|doi=10.1126/science.1117926|year=2005|month=December|author=Harrison, T.; Blichert-Toft, J.; Müller, W.; Albarede, F.; Holden, P.; Mojzsis, S.|title=Heterogeneous Hadean hafnium: evidence of continental crust at 4.4 to 4.5 ga|volume=310|issue=5756|pages=1947–50|pmid=16293721|journal=Science|bibcode = 2005Sci...310.1947H }}</ref>
+
+<ref name=jaes23_799>{{Cite journal|doi=10.1016/S1367-9120(03)00134-2|title=Continental crustal growth and the supercontinental cycle: evidence from the Central Asian Orogenic Belt|year=2004|author=Hong, D.|journal=Journal of Asian Earth Sciences|volume=23|issue=5|page=799|bibcode = 2004JAESc..23..799H }}</ref>
+
+<ref name=ajes38_613>{{Cite journal|last=Armstrong|first=R. L.|year=1991|title=The persistent myth of crustal growth|journal=Australian Journal of Earth Sciences|volume=38|issue=5|pages=613–630|doi=10.1080/08120099108727995|bibcode = 1991AuJES..38..613A }}</ref>
+
+<ref name=as92_324>{{Cite journal|author=Murphy, J. B.; Nance, R. D.|title=How do supercontinents assemble?|journal=American Scientist|year=1965|volume=92|issue=4|pages=324–33|url=http://scienceweek.com/2004/sa040730-5.htm|accessdate=2007-03-05|doi=10.1511/2004.4.324}}</ref>
+
+<ref name=purves_et_al2001>{{Cite book|author=Purves, William Kirkwood; Sadava, David; Orians, Gordon H.; Heller, Craig|title=Life, the Science of Biology: The Science of Biology|publisher=Macmillan|page=455|year=2001|isbn=0-7167-3873-2}}</ref>
+
+<ref name=sa282_6_90>{{Cite journal|last=Doolittle|first=W. Ford|title=Uprooting the tree of life|journal=Scientific American|month=February|year=2000|volume=282|issue=6|pages=90–95|doi=10.1038/nature03582|last2=Worm|first2=Boris|bibcode = 2005Natur.434E...2M }}</ref>
+
+<ref name=jas22_3_225>{{Cite journal|author=Berkner, L. V.; Marshall, L. C.|title=On the Origin and Rise of Oxygen Concentration in the Earth's Atmosphere|journal=Journal of Atmospheric Sciences|year=1965|volume=22|issue=3|pages=225–261|bibcode=1965JAtS...22..225B|doi=10.1175/1520-0469(1965)022<0225:OTOARO>2.0.CO;2}}</ref>
+
+<ref name=burton20021129>{{Cite web|last=Burton|first=Kathleen|date=2002-11-29|url=http://www.nasa.gov/centers/ames/news/releases/2000/00_79AR.html|title=Astrobiologists Find Evidence of Early Life on Land|publisher=NASA|accessdate=2007-03-05}}</ref>
+
+<ref name=kirschvink1992>{{Cite book|last=Kirschvink|first=J. L.|editors=Schopf, J.W.; Klein, C. and Des Maris, D|year=1992|title=Late Proterozoic low-latitude global glaciation: the Snowball Earth|series=The Proterozoic Biosphere: A Multidisciplinary Study|pages=51–52|publisher=Cambridge University Press|isbn=0-521-36615-1}}</ref>
+
+<ref name=sci215_4539_1501>{{Cite journal|author=Raup, D. M.; Sepkoski, J. J.|title=Mass Extinctions in the Marine Fossil Record|journal=Science|year=1982|volume=215|issue=4539|pages=1501–1503|bibcode=1982Sci...215.1501R|doi =10.1126/science.215.4539.1501|pmid=17788674}}</ref>
+
+<ref name=gould1994>{{Cite journal|last=Gould|first=Stephan J.|title=The Evolution of Life on Earth|journal=Scientific American|month=October|year=1994|url=http://brembs.net/gould.html|accessdate=2007-03-05}}</ref>
+
+<ref name=bgsa119_1_140>{{Cite journal|author=Wilkinson, B. H.; McElroy, B. J.|title=The impact of humans on continental erosion and sedimentation|journal=Bulletin of the Geological Society of America|year=2007|volume=119|issue=1–2|pages=140–156|url=http://bulletin.geoscienceworld.org/cgi/content/abstract/119/1-2/140|accessdate=2007-04-22|doi = 10.1130/B25899.1}}</ref>
+
+<ref name=psc>{{Cite web|author=Staff|url=http://www.lakepowell.net/sciencecenter/paleoclimate.htm|title=Paleoclimatology&nbsp;– The Study of Ancient Climates|publisher = Page Paleontology Science Center|accessdate = 2007-03-02}}</ref>
+
+<ref name="sun_future">{{Cite journal|author=Sackmann, I.-J.; Boothroyd, A. I.; Kraemer, K. E.|title=Our Sun. III. Present and Future|journal=Astrophysical Journal|year=1993|volume=418|pages=457–468|doi=10.1086/173407|bibcode=1993ApJ...418..457S|format=PDF}}</ref>
+
+<ref name=icarus74_472>{{Cite journal|last=Kasting|first=J.F.|year=1988|title=Runaway and Moist Greenhouse Atmospheres and the Evolution of Earth and Venus|journal=Icarus|volume=74|issue=3|pages=472–494|doi=10.1016/0019-1035(88)90116-9|bibcode=1988Icar...74..472K|pmid=11538226}}</ref>
+
+<ref name=ward_brownlee2002>{{Cite book|author=Ward, Peter D.; Brownlee, Donald|year=2002|title=The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World|publisher=Times Books, Henry Holt and Company|location=New York|isbn=0-8050-6781-7}}</ref>
+
+<ref name=pnas1_24_9576>{{Cite journal|author=Li, King-Fai; Pahlevan, Kaveh; Kirschvink, Joseph L.; Yung, Yuk L.|year=2009|title=Atmospheric Pressure as a Natural Climate Regulator for a Terrestrial Planet with a Biosphere|journal=Proceedings of the National Academy of Sciences|volume=1–6|issue=24|pages=9576–9579|url=http://www.gps.caltech.edu/~kfl/paper/Li_PNAS2009.pdf|accessdate=2009-07-19|doi=10.1073/pnas.0809436106|pmid=19487662|pmc=2701016|bibcode = 2009PNAS..106.9576L }}</ref>
+
+<ref name=sec1014>{{Cite journal|author=Guillemot, H.; Greffoz, V.|title=Ce que sera la fin du monde|journal=Science et Vie|month=March|year=2002|volume=N° 1014|language=French}}</ref>
+
+<ref name=hess5_4_569>{{Cite journal|last=Bounama|first=Christine|year=2001|last2=Franck|first2=S.|last3=Von Bloh|first3=W.|title=The fate of Earth's ocean|journal=Hydrology and Earth System Sciences|volume=5|issue=4|pages=569–575|publisher=Potsdam Institute for Climate Impact Research|location=Germany|url=http://www.hydrol-earth-syst-sci.net/5/569/2001/hess-5-569-2001.pdf|accessdate=2009-07-03|doi=10.5194/hess-5-569-2001|bibcode=2001HESS....5..569B}}</ref>
+
+<ref name="sun_future_schroder">{{Cite journal|first=K.-P.|last=Schröder|last2=Connon Smith|first2=Robert|year=2008|title=Distant future of the Sun and Earth revisited|doi=10.1111/j.1365-2966.2008.13022.x|journal=Monthly Notices of the Royal Astronomical Society|arxiv=0801.4031|volume=386|issue=1|page=155|bibcode=2008MNRAS.386..155S}}<br>See also {{cite news|first=Jason|last=Palmer|url=http://space.newscientist.com/article/dn13369-hope-dims-that-earth-will-survive-suns-death.html?feedId=online-news_rss20|title=Hope dims that Earth will survive Sun's death|date=2008-02-22|work=NewScientist.com news service|accessdate=2008-03-24}}</ref>
+
+<ref name=stern20011125>{{Cite web|last=Stern|first=David P.|date=2001-11-25|url= http://astrogeology.usgs.gov/HotTopics/index.php?/archives/147-Names-for-the-Columbia-astronauts-provisionally-approved.html|title=Planetary Magnetism|publisher=NASA|accessdate=2007-04-01}}</ref>
+
+<ref name=science288_5473_2002>{{Cite journal|last=Tackley|first=Paul J.|title=Mantle Convection and Plate Tectonics: Toward an Integrated Physical and Chemical Theory|journal=Science|date=2000-06-16|volume=288|issue=5473|pages=2002–2007|doi=10.1126/science.288.5473.2002|pmid=10856206|bibcode = 2000Sci...288.2002T }}</ref>
+
+<ref name=milbert_smith96>{{Cite web|author=Milbert, D. G.; Smith, D. A|url=http://www.ngs.noaa.gov/PUBS_LIB/gislis96.html|title=Converting GPS Height into NAVD88 Elevation with the GEOID96 Geoid Height Model|publisher=National Geodetic Survey, NOAA|accessdate=2007-03-07}}</ref>
+
+<ref name="ngdc2006">{{Cite web|author=Sandwell, D. T.; Smith, W. H. F.|date=2006-07-07|url=http://www.ngdc.noaa.gov/mgg/bathymetry/predicted/explore.HTML|title=Exploring the Ocean Basins with Satellite Altimeter Data|publisher=NOAA/NGDC|accessdate=2007-04-21}}</ref>
+
+<ref name=nist_length2000>{{Cite web|author=Mohr, P.J.; Taylor, B.N.|month=October|year=2000|url=http://physics.nist.gov/cuu/Units/meter.html|title=Unit of length (meter)|work=NIST Reference on Constants, Units, and Uncertainty|publisher=NIST Physics Laboratory|accessdate=2007-04-23}}</ref>
+
+<ref name=wpba2001>{{Cite web|author=Staff|month=November|year=2001|url=http://www.wpa-pool.com/index.asp?content=rules_spec|title=WPA Tournament Table & Equipment Specifications|publisher=World Pool-Billiards Association|accessdate=2007-03-10}}</ref>
+
+<ref name=ps20_5_16>{{Cite journal|last=Senne|first=Joseph H.|title=Did Edmund Hillary Climb the Wrong Mountain|journal=Professional Surveyor|year=2000|volume=20|issue=5|pages=16–21}}</ref>
+
+<ref name=lancet365_9462_831>{{Cite journal|last=Sharp|first=David|title=Chimborazo and the old kilogram|journal=The Lancet|date=2005-03-05|volume=365|issue=9462|pages=831–832|doi=10.1016/S0140-6736(05)71021-7}}</ref>
+
+<ref name=tall_tales>{{Cite web|url=http://www.abc.net.au/science/k2/moments/s1086384.htm|title=Tall Tales about Highest Peaks|publisher=Australian Broadcasting Corporation|accessdate=2008-12-29}}</ref>
+
+<ref name=brown_mussett1981>{{Cite book|author=Brown, Geoff C.; Mussett, Alan E.|title=The Inaccessible Earth|edition=2nd|year=1981|page=166|publisher=Taylor & Francis|isbn=0-04-550028-2}} Note: After Ronov and Yaroshevsky (1969).</ref>
+
+<ref name=pnas71_12_6973>{{Cite journal|author=Morgan, J. W.; Anders, E.|title=Chemical composition of Earth, Venus, and Mercury|journal=Proceedings of the National Academy of Science|year=1980|volume=71|issue=12|pages=6973–6977|accessdate=2007-02-04|doi=10.1073/pnas.77.12.6973|pmid=16592930|pmc=350422|bibcode = 1980PNAS...77.6973M }}</ref>
+
+<ref name=tanimoto_ahrens1995>{{Cite book|first=Toshiro|last=Tanimoto|editor=Thomas J. Ahrens|year=1995|title=Crustal Structure of the Earth|booktitle=Global Earth Physics: A Handbook of Physical Constants|publisher=American Geophysical Union|location=Washington, DC|isbn=0-87590-851-9|url=http://www.agu.org/reference/gephys/15_tanimoto.pdf|archiveurl=http://web.archive.org/web/20061016194153/http://www.agu.org/reference/gephys/15_tanimoto.pdf|archivedate=2006-10-16|format=PDF|accessdate=2007-02-03}}</ref>
+
+<ref name=science309_5739_1313>{{Cite journal|last=Kerr|first=Richard A.|title=Earth's Inner Core Is Running a Tad Faster Than the Rest of the Planet|journal=Science|date=2005-09-26|volume=309|issue=5739|page=1313|doi=10.1126/science.309.5739.1313a|pmid=16123276}}</ref>
+
+<ref name=pnas76_9_4192>{{Cite journal|last=Jordan|first=T. H.|title=Structural Geology of the Earth's Interior|journal=Proceedings National Academy of Science|year=1979|volume=76|issue=9|pages=4192–4200|accessdate=2007-03-24|doi=10.1073/pnas.76.9.4192|pmid=16592703|pmc=411539|bibcode = 1979PNAS...76.4192J }}</ref>
+
+<ref name=robertson2001>{{Cite web|last=Robertson|first=Eugene C.|date=2001-07-26|url=http://pubs.usgs.gov/gip/interior/|title=The Interior of the Earth|publisher=USGS|accessdate=2007-03-24}}</ref>
+
+<ref name="turcotte">{{Cite book|last=Turcotte|first=D. L.|coauthors=Schubert, G.|title=Geodynamics|publisher=Cambridge University Press|location=Cambridge, England, UK| year=2002|edition=2|pages=136–137|chapter=4|isbn=978-0-521-66624-4}}</ref>
+
+<ref name=sanders20031210>{{Cite news|first=Robert|last=Sanders|title=Radioactive potassium may be major heat source in Earth's core|publisher=UC Berkeley News|date=2003-12-10|url=http://www.berkeley.edu/news/media/releases/2003/12/10_heat.shtml|accessdate=2007-02-28}}</ref>
+
+<ref name=ptrsl360_1795_1227>{{Cite journal|author=Alfè, D.; Gillan, M. J.; Vocadlo, L.; Brodholt, J; Price, G. D.|title=The ''ab initio'' simulation of the Earth's core|journal= Philosophical Transaction of the Royal Society of London|year=2002|volume=360|issue=1795|pages=1227–1244|url=http://chianti.geol.ucl.ac.uk/~dario/pubblicazioni/PTRSA2002.pdf|format=PDF|accessdate=2007-02-28}}</ref>
+
+<ref name=epsl121_1>{{Cite journal|last=Vlaar|first=N|title=Cooling of the Earth in the Archaean: Consequences of pressure-release melting in a hotter mantle|year=1994|journal=Earth and Planetary Science Letters|volume=121|issue=1-2|page=1|doi=10.1016/0012-821X(94)90028-0|coauthors=Vankeken, P.; Vandenberg, A. |url=http://www.geo.lsa.umich.edu/~keken/papers/Vlaar_EPSL94.pdf |format=PDF|bibcode=1994E&PSL.121....1V}}</ref>
+
+<ref name="T&S 137">{{Cite book|last=Turcotte|first=D. L.|coauthors=Schubert, G.|title=Geodynamics|publisher=Cambridge University Press|location=Cambridge, England, UK|year=2002|edition=2|page=137|chapter=4|isbn=978-0-521-66624-4}}</ref>
+
+<ref name="heat loss">{{Cite journal|doi=10.1029/JB086iB12p11535|title=Oceans and Continents: Similarities and Differences in the Mechanisms of Heat Loss|year=1981|last=Sclater|first=John G|journal=Journal of Geophysical Research|volume=86|issue=B12 |page=11535|coauthors=Parsons, Barry; Jaupart, Claude|bibcode=1981JGR....8611535S}}</ref>
+
+<ref name=science246_4926_103>{{Cite journal|author=Richards, M. A.; Duncan, R. A.; Courtillot, V. E.|title=Flood Basalts and Hot-Spot Tracks: Plume Heads and Tails|journal=Science|year=1989|volume=246|issue=4926|pages=103–107|bibcode=1989Sci...246..103R|doi=10.1126/science.246.4926.103|pmid=17837768}}</ref>
+
+<ref name=brown_wohletz2005>{{Cite web|author=Brown, W. K.; Wohletz, K. H.|year=2005|url=http://www.ees1.lanl.gov/Wohletz/SFT-Tectonics.htm|title=SFT and the Earth's Tectonic Plates|publisher=Los Alamos National Laboratory|accessdate=2007-03-02}}</ref>
+
+<ref name=kious_tilling1999>{{Cite web|author=Kious, W. J.; Tilling, R. I.|date = 1999-05-05|url=http://pubs.usgs.gov/gip/dynamic/understanding.html|title=Understanding plate motions|publisher=USGS|accessdate=2007-03-02}}</ref>
+
+<ref name=seligman2008>{{Cite web|first=Courtney|last=Seligman|year=2008|url=http://cseligman.com/text/planets/innerstructure.htm|title=The Structure of the Terrestrial Planets|work=Online Astronomy eText Table of Contents|publisher=cseligman.com|accessdate=2008-02-28}}</ref>
+
+<ref name=duennebier1999>{{Cite web|last=Duennebier|first=Fred|date=1999-08-12|url=http://www.soest.hawaii.edu/GG/ASK/plate-tectonics2.html|title=Pacific Plate Motion|publisher=University of Hawaii|accessdate=2007-03-14}}</ref>
+
+<ref name=noaa20070307>{{Cite web|author=Mueller, R.D.; Roest, W.R.; Royer, J.-Y.; Gahagan, L.M.; Sclater, J.G.|date=2007-03-07|url=http://www.ngdc.noaa.gov/mgg/fliers/96mgg04.html|title=Age of the Ocean Floor Poster|publisher=NOAA|accessdate=2007-03-14}}</ref>
+
+<ref name=cmp134_3>{{Cite journal|doi=10.1007/s004100050465|title=Priscoan (4.00–4.03 Ga) orthogneisses from northwestern Canada|year=1999|last=Bowring|first=Samuel A.|journal=Contributions to Mineralogy and Petrology|volume=134|issue=1|page=3|last2=Williams|first2=Ian S.|bibcode = 1999CoMP..134....3B }}</ref>
+
+<ref name=podp2000>{{Cite web|author=Meschede, M.; Udo Barckhausen, U.|date=2000-11-20|url=http://www-odp.tamu.edu/publications/170_SR/chap_07/chap_07.htm|title=Plate Tectonic Evolution of the Cocos-Nazca Spreading Center|work=Proceedings of the Ocean Drilling Program|publisher=Texas A&M University|accessdate=2007-04-02}}</ref>
+
+<ref name=gps_time_series>{{Cite web|author=Staff|url=http://sideshow.jpl.nasa.gov/mbh/series.html|title=GPS Time Series|publisher=NASA JPL|accessdate=2007-04-02}}</ref>
+
+<ref name="Pidwirny2006">{{Cite web|last=Pidwirny|first=Michael|year=2006|url=http://www.physicalgeography.net/fundamentals/7h.html|title=Fundamentals of Physical Geography (2nd Edition)|publisher=PhysicalGeography.net|accessdate=2007-03-19}}</ref>
+
+<ref name=kring>{{Cite web|last=Kring|first=David A|url=http://www.lpi.usra.edu/science/kring/epo_web/impact_cratering/intro/|title=Terrestrial Impact Cratering and Its Environmental Effects|publisher=Lunar and Planetary Laboratory|accessdate=2007-03-22}}</ref>
+
+<ref name=layers_earth>{{Cite web|author=Staff|url=http://volcano.oregonstate.edu/vwdocs/vwlessons/plate_tectonics/part1.html|title=Layers of the Earth|publisher=Volcano World|accessdate=2007-03-11}}</ref>
+
+<ref name=jessey>{{Cite web|last=Jessey|first=David|url=http://geology.csupomona.edu/drjessey/class/Gsc101/Weathering.html|title=Weathering and Sedimentary Rocks|publisher=Cal Poly Pomona|accessdate=2007-03-20}}</ref>
+
+<ref name=de_pater_lissauer2010>{{Cite book|author=de Pater, Imke; Lissauer, Jack J.|title=Planetary Sciences|page=154|edition=2nd|publisher=Cambridge University Press|year=2010|isbn=0-521-85371-0}}</ref>
+
+<ref name=wekn_bulakh2004>{{Cite book|author=Wenk, Hans-Rudolf; Bulakh, Andreĭ Glebovich|title=Minerals: their constitution and origin|page=359|publisher=Cambridge University Press|year=2004|isbn=0-521-52958-1}}</ref>
+
+<ref name=fao1994>{{Cite book|author=FAO Staff|year=1995|title=FAO Production Yearbook 1994|edition=Volume 48|publisher=Food and Agriculture Organization of the United Nations|location=Rome, Italy|isbn=92-5-003844-5}}</ref>
+
+<ref name=sverdrup>{{Cite book|first=H. U.|last=Sverdrup|coauthors=Fleming, Richard H.|date=1942-01-01|title=The oceans, their physics, chemistry, and general biology|publisher=Scripps Institution of Oceanography Archives|url=http://repositories.cdlib.org/sio/arch/oceans/|accessdate=2008-06-13|isbn=0-13-630350-1}}</ref>
+
+<ref name=kaiko7000>{{Cite web|title=7,000&nbsp;m Class Remotely Operated Vehicle ''KAIKO 7000''|url=http://www.jamstec.go.jp/e/about/equipment/ships/kaiko7000.html|publisher=Japan Agency for Marine-Earth Science and Technology (JAMSTEC)|accessdate=2008-06-07}}</ref>
+
+<ref name=ocean23_2_112>{{Cite journal|last=Charette|first=Matthew A.|coauthors=Smith, Walter H. F.|title=The Volume of Earth's Ocean|journal=Oceanography|volume=23|issue=2|pages=112–114|year=2010|month=June|url=http://www.tos.org/oceanography/issues/issue_archive/issue_pdfs/23_2/23-2_charette.pdf|accessdate=2010-06-04}}</ref>
+
+<ref name=shiklomanov_et_al_1999>{{Cite web|author=Shiklomanov, Igor A.|coauthors=''et al.''|year=1999|url=http://webworld.unesco.org/water/ihp/db/shiklomanov/|title=World Water Resources and their use Beginning of the 21st century Prepared in the Framework of IHP UNESCO|publisher=State Hydrological Institute, St. Petersburg|accessdate=2006-08-10}}</ref>
+
+<ref name=kennish2001>{{Cite book|first=Michael J.|last=Kennish|year=2001|title=Practical handbook of marine science|page=35|edition=3rd|publisher=CRC Press|series=Marine science series|isbn=0-8493-2391-6}}</ref>
+
+<ref name=mullen2002>{{Cite web|last=Mullen|first=Leslie|date=2002-06-11|url=http://www.astrobio.net/news/article223.html|title=Salt of the Early Earth|publisher=NASA Astrobiology Magazine|accessdate=2007-03-14}}</ref>
+
+<ref name=natsci_oxy4>{{Cite web|last=Morris|first=Ron M|url=http://replay.waybackmachine.org/20090415082741/http://seis.natsci.csulb.edu/rmorris/oxy/oxy4.html|title=Oceanic Processes|publisher=NASA Astrobiology Magazine|accessdate=2007-03-14}}</ref>
+
+<ref name=michon2006>{{Cite web|last=Scott|first=Michon|date=2006-04-24|url=http://earthobservatory.nasa.gov/Study/HeatBucket/|title=Earth's Big heat Bucket|publisher=NASA Earth Observatory|accessdate=2007-03-14}}</ref>
+
+<ref name=sample2005>{{Cite web|first=Sharron|last=Sample|date=2005-06-21|url=http://science.hq.nasa.gov/oceans/physical/SST.html|title=Sea Surface Temperature|publisher=NASA|accessdate=2007-04-21}}</ref>
+
+<ref name=geerts_linacre97>{{Cite web|last=Geerts|first=B.|coauthors=Linacre, E.|url=http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html|title=The height of the tropopause|month=November|year=1997|work=Resources in Atmospheric Sciences|publisher=University of Wyoming|accessdate=2006-08-10}}</ref>
+
+<ref name="atmosphere">{{Cite web|author=Staff|date=2003-10-08|url=http://www.nasa.gov/audience/forstudents/9-12/features/912_liftoff_atm.html|title=Earth's Atmosphere|publisher=NASA|accessdate=2007-03-21}}</ref>
+
+<ref name="moran2005">{{Cite web|last=Moran|first=Joseph M.|year=2005|url=http://www.nasa.gov/worldbook/weather_worldbook.html|title=Weather|work=World Book Online Reference Center|publisher=NASA/World Book, Inc|accessdate=2007-03-17}}</ref>
+
+<ref name="berger2002">{{Cite web|last=Berger|first=Wolfgang H.|year=2002|url=http://earthguide.ucsd.edu/virtualmuseum/climatechange1/cc1syllabus.shtml|title=The Earth's Climate System|publisher=University of California, San Diego|accessdate=2007-03-24}}</ref>
+
+<ref name=rahmstorf2003>{{Cite web|first=Stefan|last=Rahmstorf|year=2003|url =http://www.pik-potsdam.de/~stefan/thc_fact_sheet.html|title =The Thermohaline Ocean Circulation|publisher=Potsdam Institute for Climate Impact Research|accessdate=2007-04-21}}</ref>
+
+<ref name=hydrologic_cycle>{{Cite web|author=Various|date=1997-07-21|url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/hyd/home.rxml|title=The Hydrologic Cycle|publisher=University of Illinois|accessdate=2007-03-24}}</ref>
+
+<ref name=sadava_heller2006>{{Cite book|author=Sadava, David E.; Heller, H. Craig; Orians, Gordon H.|title=Life, the Science of Biology|publisher=MacMillan|year=2006|edition=8th|page=1114|isbn=0-7167-7671-5}}</ref>
+
+<ref name=climate_zones>{{Cite web|author=Staff|url=http://www.ace.mmu.ac.uk/eae/Climate/Older/Climate_Zones.html|title=Climate Zones|publisher=UK Department for Environment, Food and Rural Affairs|accessdate=2007-03-24}}</ref>
+
+<ref name=sciweek2004>{{Cite web|author=Staff|year=2004|url=http://scienceweek.com/2004/rmps-23.htm|title=Stratosphere and Weather; Discovery of the Stratosphere|publisher=Science Week|accessdate=2007-03-14}}</ref>
+
+<ref name=cordoba2004>{{Cite web|first=S. Sanz Fernández|last=de Córdoba|date=2004-06-21|url=http://www.fai.org/astronautics/100km.asp|title=Presentation of the Karman separation line, used as the boundary separating Aeronautics and Astronautics|publisher=Fédération Aéronautique Internationale|accessdate=2007-04-21}}</ref>
+
+<ref name=jas31_4_1118>{{Cite journal|author=Liu, S. C.; Donahue, T. M.|title=The Aeronomy of Hydrogen in the Atmosphere of the Earth|journal=Journal of Atmospheric Sciences|year=1974|volume=31|issue=4|pages=1118–1136|bibcode=1974JAtS...31.1118L|doi=10.1175/1520-0469(1974)031<1118:TAOHIT>2.0.CO;2}}</ref>
+
+<ref name=sci293_5531_839>{{Cite journal|title=Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth|author=Catling, David C.; Zahnle, Kevin J.; McKay, Christopher P.|journal=Science|volume=293|issue=5531|pages=839–843|url=http://www.sciencemag.org/cgi/content/full/293/5531/839|doi=10.1126/science.1061976|year=2001|pmid=11486082|bibcode = 2001Sci...293..839C }}</ref>
+
+<ref name=abedon1997>{{Cite web|last=Abedon|first=Stephen T.|date=1997-03-31|url=http://www.mansfield.ohio-state.edu/~sabedon/biol1010.htm|title=History of Earth|publisher=Ohio State University|accessdate=2007-03-19}}</ref>
+
+<ref name=arwps4_265>{{Cite journal|last=Hunten|first=D. M.|title=Hydrogen loss from the terrestrial planets|journal=Annual review of earth and planetary sciences|year=1976|volume=4|issue=1|pages=265–292|bibcode=1976AREPS...4..265H|doi=10.1146/annurev.ea.04.050176.001405|last2=Donahue|first2=T. M}}</ref>
+
+<ref name=fitzpatrick2006>{{Cite web|last=Fitzpatrick|first=Richard|date = 2006-02-16|url=http://farside.ph.utexas.edu/teaching/plasma/lectures/node69.html|title=MHD dynamo theory|publisher=NASA WMAP|accessdate=2007-02-27}}</ref>
+
+<ref name=campbelwh>{{Cite book|last=Campbell|first=Wallace Hall|title=Introduction to Geomagnetic Fields|publisher=Cambridge University Press|year=2003|location=New York|page=57|isbn=0-521-82206-8}}</ref>
+
+<ref name=stern2005>{{Cite web|last=Stern|first=David P.|date=2005-07-08|url=http://www-spof.gsfc.nasa.gov/Education/wmap.html|title=Exploration of the Earth's Magnetosphere|publisher=NASA|accessdate=2007-03-21}}</ref>
+
+<ref name=USNO_TSD>{{Cite web|title=Leap seconds|publisher=Time Service Department, USNO|url=http://tycho.usno.navy.mil/leapsec.html|accessdate=2008-09-23}}</ref>
+
+<ref name=seidelmann1992>{{Cite book|last=Seidelmann|first=P. Kenneth|year=1992|title=Explanatory Supplement to the Astronomical Almanac|page=48|publisher=University Science Books|location=Mill Valley, CA|isbn=0-935702-68-7}}</ref>
+
+<ref name=iers1623>{{Cite web|author=Staff|url=http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/lod-1623.html|title=IERS Excess of the duration of the day to 86400s&nbsp;... since 1623|publisher=International Earth Rotation and Reference Systems Service (IERS)|accessdate=2008-09-23}}—Graph at end.</ref>
+
+<ref name=iers1962>{{Cite web|author=Staff|url=http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/figure3.html|archiveurl=http://web.archive.org/web/20070813203913/http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/figure3.html|archivedate=2007-08-13|title=IERS Variations in the duration of the day 1962–2005|publisher=International Earth Rotation and Reference Systems Service (IERS)|accessdate=2008-09-23}}</ref>
+
+<ref name=zeilik1998>{{Cite book|last=Zeilik|first=M.|coauthors=Gregory, S. A.|title=Introductory Astronomy & Astrophysics|edition=4th|page=56|publisher=Saunders College Publishing|isbn=0-03-006228-4|year=1998}}</ref>
+
+<ref name=angular>{{Cite web|last=Williams|first=David R.|date=2006-02-10|url=http://nssdc.gsfc.nasa.gov/planetary/planetfact.html|title=Planetary Fact Sheets|publisher=NASA|accessdate=2008-09-28}}—See the apparent diameters on the Sun and Moon pages.</ref>
+
+<ref name="moon_fact_sheet">{{Cite web|last=Williams|first=David R.|date=2004-09-01|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html|title=Moon Fact Sheet|publisher=NASA|accessdate=2007-03-21}}</ref>
+
+<ref name=vazquez_etal2006>{{Cite web|author=Vázquez, M.; Montañés Rodríguez, P.; Palle, E.|year=2006|url =http://www.iac.es/folleto/research/preprints/files/PP06024.pdf|title=The Earth as an Object of Astrophysical Interest in the Search for Extrasolar Planets|publisher=Instituto de Astrofísica de Canarias|accessdate=2007-03-21 |format=PDF}}</ref>
+
+<ref name=nasa20051201>{{Cite web|author=Astrophysicist team|date=2005-12-01|url=http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/030827a.html|title=Earth's location in the Milky Way|publisher=NASA|accessdate=2008-06-11}}</ref>
+
+<ref name=bromberg2008>{{Cite web|last=Bromberg|first=Irv|date=2008-05-01|url=http://www.sym454.org/seasons/|title=The Lengths of the Seasons (on Earth)|publisher=University of Toronto|accessdate=2008-11-08}}</ref>
+
+<ref name=lin2006>{{Cite web|first=Haosheng|last=Lin|title=Animation of precession of moon orbit|work=Survey of Astronomy AST110-6|year=2006|publisher=University of Hawaii at Manoa|url=http://www.ifa.hawaii.edu/users/lin/ast110-6/applets/precession_of_moon_orbit.htm |accessdate=2010-09-10}}</ref>
+
+<ref name=williams20051230>{{Cite web|last=Williams|first=Jack|date=2005-12-20|url=http://www.usatoday.com/weather/tg/wseason/wseason.htm|title=Earth's tilt creates seasons|publisher=USAToday|accessdate=2007-03-17}}</ref>
+
+<ref name=fisher19960205>{{Cite web|last=Fisher|first=Rick|date=1996-02-05|url=http://www.cv.nrao.edu/~rfisher/Ephemerides/earth_rot.html|title=Earth Rotation and Equatorial Coordinates|publisher=National Radio Astronomy Observatory|accessdate=2007-03-21}}</ref>
+
+<ref name=espenak_meeus20070207>{{Cite web|author=Espenak, F.; Meeus, J.|date=2007-02-07|url=http://sunearth.gsfc.nasa.gov/eclipse/SEcat5/secular.html|title=Secular acceleration of the Moon|publisher=NASA|accessdate=2007-04-20}}</ref>
+
+<ref name=hannu_poropudas19911216>{{Cite web|first=Hannu K. J.|last=Poropudas|date=1991-12-16|url=http://www.skepticfiles.org/origins/coralclo.htm|title=Using Coral as a Clock|publisher=Skeptic Tank|accessdate = 2007-04-20}}</ref>
+
+<ref name=aaa428_261>{{Cite journal|author=Laskar, J.; Robutel, P.; Joutel, F.; Gastineau, M.; Correia, A.C.M.; Levrard, B.|title=A long-term numerical solution for the insolation quantities of the Earth|journal=Astronomy and Astrophysics|year=2004|volume=428|issue=1|pages=261–285|bibcode=2004A&A...428..261L|doi = 10.1051/0004-6361:20041335}}</ref>
+
+<ref name=nature410_6830_773>{{Cite journal|last=Murray|first=N.|last2=Holman|first2=M|title=The role of chaotic resonances in the solar system|journal=Nature|year=2001|volume=410|issue=6830|pages=773–779|arxiv=astro-ph/0111602|accessdate=2008-08-05|doi=10.1038/35071000|pmid=11298438}}</ref>
+-->
+<!-- unused reference
+<ref name=lps27_1437>{{Cite journal|author=Williams, D.M.; J.F. Kasting|title=Habitable planets with high obliquities|journal=Lunar and Planetary Science|year=1996|volume=27|pages=1437–1438|bibcode=1996LPI....27.1437W}}</ref> -->
+<!--
+<ref name=nature412_708>{{Cite journal|author=Canup, R.; Asphaug, E.|title=Origin of the Moon in a giant impact near the end of the Earth's formation|journal=Nature|volume=412|pages=708–712|year=2001|doi=10.1038/35089010|pmid=11507633|issue=6848|bibcode=2001Natur.412..708C}}</ref>
+
+<ref name=whitehouse20021021>{{Cite news|first=David|last=Whitehouse|title=Earth's little brother found|publisher=BBC News|date=2002-10-21|url=http://news.bbc.co.uk/1/hi/sci/tech/2347663.stm|accessdate=2007-03-31}}</ref>
+
+<ref name=ab2003>{{Cite web|author=Staff|month=September|year=2003|url=http://astrobiology.arc.nasa.gov/roadmap/g1.html|title=Astrobiology Roadmap|publisher=NASA, Lockheed Martin|accessdate=2007-03-10}}</ref>
+
+<ref name=dole1970>{{Cite book|first=Stephen H.|last=Dole|year=1970|title=Habitable Planets for Man|edition=2nd|publisher=American Elsevier Publishing Co|url=http://www.rand.org/pubs/reports/R414/|accessdate=2007-03-11|isbn=0-444-00092-5}}</ref>
+
+<ref name=amnat163_2_192>{{Cite journal|last=Hillebrand|first=Helmut|title=On the Generality of the Latitudinal Gradient|journal=American Naturalist|year=2004|volume=163|issue=2|pages=192–211|doi=10.1086/381004|pmid=14970922}}</ref>
+
+<ref name=mnpl_utx2006>{{Cite web|author=Staff|date=2006-11-24|url=http://www.utexas.edu/tmm/npl/mineralogy/mineral_genesis/|title=Mineral Genesis: How do minerals form?|publisher=Non-vertebrate Paleontology Laboratory, Texas Memorial Museum|accessdate=2007-04-01}}</ref>
+
+<ref name=science299_5607_673>{{Cite journal|last=Rona|first=Peter A.|title=Resources of the Sea Floor|journal=Science|year=2003|volume=299|issue=5607|pages=673–674|url=http://www.sciencemag.org/cgi/content/full/299/5607/673?ijkey=AHVbRrqUsmdHY&keytype=ref&siteid=sci|accessdate=2007-02-04|doi = 10.1126/science.1080679|pmid = 12560541}}</ref>
+
+<ref name=un20070202>{{Cite web|author=Staff|date = 2007-02-02|url=http://www.un.org/apps/news/story.asp?NewsID=21429&Cr=climate&Cr1=change|title=Evidence is now 'unequivocal' that humans are causing global warming&nbsp;– UN report|publisher=United Nations|accessdate=2007-03-07|archiveurl=http://replay.waybackmachine.org/20081221031717/http://www.un.org/apps/news/story.asp?NewsID=21429&Cr=climate&Cr1=change|archivedate=21 December 2008}}</ref>
+
+<ref name="World Population Clock">{{Cite web|author=United States Census Bureau|url=http://www.census.gov/ipc/www/popclockworld.html|title=World POP Clock Projection|work=United States Census Bureau International Database|date=2008-01-07|accessdate= 2008-01-07}}</ref>
+
+<ref name=un2006>{{Cite web|author=Staff|url=http://www.un.org/esa/population/publications/wpp2006/wpp2006.htm|archiveurl=http://replay.waybackmachine.org/20090905200753/http://www.un.org/esa/population/publications/wpp2006/wpp2006.htm|archivedate=5 September 2009|title=World Population Prospects: The 2006 Revision|publisher=United Nations|accessdate=2007-03-07}}</ref>
+
+<ref name=prb2007>{{Cite web|author=Staff|year=2007|url=http://www.prb.org/Educators/TeachersGuides/HumanPopulation/PopulationGrowth/QuestionAnswer.aspx|title=Human Population: Fundamentals of Growth: Growth|publisher=Population Reference Bureau|accessdate=2007-03-31}}</ref>
+
+<ref name=hessd4_439>{{Cite journal|author=Peel, M. C.; Finlayson, B. L.; McMahon, T. A.|title=Updated world map of the Köppen-Geiger climate classification|journal=Hydrology and Earth System Sciences Discussions|year=2007|volume=4|issue=2|pages=439–473|url=http://www.hydrol-earth-syst-sci-discuss.net/4/439/2007/hessd-4-439-2007.html|accessdate=2007-03-31|doi=10.5194/hessd-4-439-2007}}</ref>
+
+<ref name=biodiv>{{Cite web|author=Staff|url=http://www.biodiv.org/programmes/default.shtml|title=Themes & Issues|publisher=Secretariat of the Convention on Biological Diversity|accessdate=2007-03-29}}</ref>
+
+<ref name=cfsa2006>{{Cite web|author=Staff|date=2006-08-15|url=http://www.tscm.com/alert.html|title=Canadian Forces Station (CFS) Alert|publisher=Information Management Group|accessdate=2007-03-31}}</ref>
+
+<ref name=kennedy1989>{{Cite book|first=Paul|last=Kennedy|authorlink=Paul Kennedy|year=1989|title=[[The Rise and Fall of the Great Powers]]|edition=1st|publisher=Vintage|isbn=0-679-72019-7}}</ref>
+
+<ref name=uncharter>{{Cite web|url=http://www.un.org/aboutun/charter/|title=U.N. Charter Index|publisher=United Nations|accessdate=2008-12-23|archiveurl=http://replay.waybackmachine.org/20090220011242/http://www.un.org/aboutun/charter/|archivedate=20 February 2009}}</ref>
+
+<ref name=un_int_law>{{Cite web|author=Staff|url=http://www.un.org/law/|title=International Law|publisher=United Nations|accessdate=2007-03-27|archiveurl=http://replay.waybackmachine.org/20081231055149/http://www.un.org/law/|archivedate=31 December 2009}}</ref>
+
+<ref name=kuhn2006>{{Cite book|first=Betsy|last=Kuhn|year=2006|title=The race for space: the United States and the Soviet Union compete for the new frontier|page=34|publisher=Twenty-First Century Books|isbn=0-8225-5984-6}}</ref>
+
+<ref name=ellis2004>{{Cite book|first=Lee|last=Ellis|year=2004|title=Who's who of NASA Astronauts|publisher=Americana Group Publishing|isbn=0-9667961-4-4
+}}</ref>
+
+<ref name=shayler_vis2005>{{Cite book|first=David|last=Shayler|first2=Bert|last2=Vis|year=2005|title=Russia's Cosmonauts: Inside the Yuri Gagarin Training Center|publisher=Birkhäuser|isbn=0-387-21894-7}}</ref>
+
+<ref name=wade2008>{{Cite web|last=Wade|first=Mark|date=2008-06-30|url=http://www.astronautix.com/articles/aststics.htm|accessdate=2008-12-23|title=Astronaut Statistics|publisher=Encyclopedia Astronautica}}</ref>
+
+<ref name=nasa_rg_iss2007>{{Cite web|date=2007-01-16|url=http://www.nasa.gov/mission_pages/station/news/ISS_Reference_Guide.html|title=Reference Guide to the International Space Station|publisher=NASA|accessdate=2008-12-23}}</ref>
+
+<ref name=cramb2007>{{Cite news|first=Auslan|last=Cramb|publisher=Telegraph|title=Nasa's Discovery extends space station|date=2007-10-28|url=http://www.telegraph.co.uk/earth/earthnews/3311903/Nasas-Discovery-extends-space-station.html|accessdate=2009-03-23}}</ref>
+
+<ref name=randhouse2005>{{Cite book|month=July|year=2005|title=Random House Unabridged Dictionary|publisher=Random House|isbn=0-375-42599-3}}</ref>
+
+<ref name=liungman2004>{{Cite book|first=Carl G.|last=Liungman|year=2004|chapter=Group 29: Multi-axes symmetric, both soft and straight-lined, closed signs with crossing lines|title=Symbols&nbsp;– Encyclopedia of Western Signs and Ideograms|pages=281–282|publisher=Ionfox AB|location=New York|isbn=91-972705-0-4}}</ref>
+
+<ref name=arnett20060716>{{Cite web|first=Bill|last=Arnett|date=July 16, 2006|title=Earth|work=The Nine Planets, A Multimedia Tour of the Solar System: one star, eight planets, and more|url=http://nineplanets.org/earth.html|accessdate=2010-03-09}}</ref>
+
+<ref name=Dutch2002>{{Cite journal|author=Dutch, S.I.|year=2002|title=Religion as belief versus religion as fact|journal=Journal of Geoscience Education|volume=50|issue=2|pages=137–144|url=http://nagt.org/files/nagt/jge/abstracts/Dutch_v50n2p137.pdf|accessdate=2008-04-28|format=PDF}}</ref>
+
+<ref name=edis2003>{{Cite book|first=Taner|last=Edis|year=2003|title=A World Designed by God: Science and Creationism in Contemporary Islam|publisher=Amherst: Prometheus|url=http://www2.truman.edu/~edis/writings/articles/CFI-2001.pdf|isbn=1-59102-064-6|accessdate=2008-04-28|format=PDF}}</ref>
+
+<ref name=jge53_3_319>{{Cite journal|author=Ross, M.R.|year=2005|title=Who Believes What? Clearing up Confusion over Intelligent Design and Young-Earth Creationism|journal=Journal of Geoscience Education|volume=53|issue=3|page=319|url=http://www.nagt.org/files/nagt/jge/abstracts/Ross_v53n3p319.pdf|accessdate=2008-04-28|format=PDF}}</ref>
+
+<ref name=arghg4_143>{{Cite journal|author=Pennock, R. T.|title=Creationism and intelligent design|journal=Annual Review of Genomics Human Genetics|volume=4|issue=1|pages=143–63|year=2003|pmid=14527300|doi=10.1146/annurev.genom.4.070802.110400}}</ref>
+
+<ref name=sec_nap2008>{{Cite book|title=Science, Evolution, and Creationism|url=http://books.nap.edu/openbook.php?record_id=11876&page=R1|year=2008|publisher=National Academies Press|location=Washington, D.C|isbn=0-309-10586-2|accessdate=2011-03-13}}</ref>
+
+<ref name=jrst43_4_419>{{Cite journal|last=Colburn,|first=A.|last2=Henriques|first2=Laura|year=2006|title=Clergy views on evolution, creationism, science, and religion|journal=Journal of Research in Science Teaching|volume=43|issue=4|pages=419–442|doi=10.1002/tea.20109|bibcode = 2006JRScT..43..419C }}</ref>
+
+<ref name=frye1983>{{Cite book|last=Frye|first=Roland Mushat|year = 1983|title=Is God a Creationist? The Religious Case Against Creation-Science|publisher=Scribner's|isbn=0-684-17993-8}}</ref>
+
+<ref name=nathist106_2_16>{{Cite journal|author=Gould, S. J.|year=1997|title=Nonoverlapping magisteria|journal=Natural History|volume=106|issue=2|pages=16–22|url=http://www.jbburnett.com/resources/gould_nonoverlapping.pdf|accessdate=2008-04-28|format=PDF}}</ref>
+
+<ref name=russell1997>{{Cite web|last=Russell|first=Jeffrey B|url=http://www.asa3.org/ASA/topics/history/1997Russell.html|title=The Myth of the Flat Earth|publisher=American Scientific Affiliation|accessdate=2007-03-14}}; but see also [[Cosmas Indicopleustes]].</ref>
+
+<ref name=jacobs19980201>{{Cite web|last=Jacobs|first=James Q.|date=1998-02-01|url=http://www.jqjacobs.net/astro/aegeo.html|title=Archaeogeodesy, a Key to Prehistory|accessdate=2007-04-21}}</ref>
+
+<ref name=fuller1963>{{Cite book|first=R. Buckminster|last=Fuller|authorlink=Buckminster Fuller|year=1963|title=[[Operating Manual for Spaceship Earth]]|edition=First|publisher=E.P. Dutton & Co|location=New York|isbn=0-525-47433-1|url=http://www.futurehi.net/docs/OperatingManual.html|accessdate=2007-04-21}}</ref>
+
+<ref name=lovelock1979>{{Cite book|first=James E.|last=Lovelock|authorlink=James Lovelock|year=1979|title=Gaia: A New Look at Life on Earth|edition=First|publisher=Oxford University Press|location=Oxford|isbn=0-19-286030-5}}</ref>
+
+<ref name=mcmichael1993>For example: {{Cite book|first=Anthony J.|last=McMichael|year=1993|title=Planetary Overload: Global Environmental Change and the Health of the Human Species|publisher=Cambridge University Press|isbn=0-521-45759-9}}</ref>
+
+<ref name=aj136_5_1906>{{Cite journal|author=McCarthy, Dennis D.; Hackman, Christine; Nelson, Robert A.|title=The Physical Basis of the Leap Second|journal=The Astronomical Journal|volume=136|issue=5|pages=1906–1908|month=November|year=2008|doi=10.1088/0004-6256/136/5/1906|bibcode=2008AJ....136.1906M}}</ref>
+
+<ref name=jg31_3_267>{{Cite journal|author=Pollack, Henry N.; Hurter, Suzanne J.; Johnson, Jeffrey R.|title=Heat flow from the Earth's interior: Analysis of the global data set|journal=Reviews of Geophysics|volume=31|issue=3|pages=267–280|month=August|year=1993|doi=10.1029/93RG01249|bibcode=1993RvGeo..31..267P |url=http://www.agu.org/journals/ABS/1993/93RG01249.shtml}}</ref>
+
+<ref name=lang2003>{{Cite book|first=Kenneth R.|last=Lang|year=2003|title=The Cambridge guide to the solar system|page=92|publisher=Cambridge University Press|isbn=0-521-81306-9}}</ref>
+
+<ref name=christou_asher2011>{{Cite arXiv | author=Christou, Apostolos A.; Asher, David J. | date=March 31, 2011 | title=A long-lived horseshoe companion to the Earth | eprint=1104.0036 | version=v1 }} See table 2, p. 5.</ref>
+--><!--
+<ref name=ucs>{{Cite web | title=UCS Satellite Database | date=January 31, 2011 | work=Nuclear Weapons & Global Security | publisher=Union of Concerned Scientists | url=http://www.ucsusa.org/nuclear_weapons_and_global_security/space_weapons/technical_issues/ucs-satellite-database.html | accessdate=2011-05-12 }}</ref>-->
+
+}}
+
+==Kepustakaan==
+* {{Cite book
+ |first=Neil F. |last=Comins
+ |year=2001
+ |title=Discovering the Essential Universe
+ |edition=2nd
+ |publisher=W. H. Freeman
+ |bibcode=2003deu..book.....C
+ |isbn=0-7167-5804-0
+}}
+
+==Pranala lua==
+{{Sisterlinks|Bumi}}
+* [http://geomag.usgs.gov/ USGS Geomagnetism Program]
+* [http://earthobservatory.nasa.gov/ NASA Earth Observatory]
+* Audio—Cain/Gay (2007) [http://www.astronomycast.com/stars/episode-51-earth/ Astronomy Cast] Earth
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Earth Earth Profile] by [http://solarsystem.nasa.gov/ NASA's Solar System Exploration]
+* [http://www.nasa.gov/centers/goddard/earthandsun/earthshape.html Climate changes cause Earth's shape to change&nbsp;– NASA]
+* [http://eol.jsc.nasa.gov/Coll/weekly.htm The Gateway to Astronaut Photography of Earth]
+*[http://www.ncdc.noaa.gov/oa/climate/globalextremes.html Global Measured Extremes of Temperature and Precipitation] National Climatic Data Center
+{{DEFAULTSORT:Bumi}}
+
+[[Category:Bumi| ]]
+[[Category:Geografi]]
+[[Category:Geologi]]
+[[Category:Planet terestrial]]
+[[Category:!Main category]]
+
+[[ab:Адгьыл]]
+[[ace:Bumoë]]
+[[af:Aarde]]
+[[als:Erde]]
+[[am:መሬት]]
+[[an:Tierra]]
+[[ang:Eorðe]]
+[[ar:الأرض]]
+[[arc:ܐܪܥܐ]]
+[[arz:الارض]]
+[[as:পৃথিৱী]]
+[[ast:Tierra]]
+[[ay:Aka pacha]]
+[[az:Yer]]
+[[bar:Eadn]]
+[[bat-smg:Žemė]]
+[[bcl:Kinaban]]
+[[be:Планета Зямля]]
+[[be-x-old:Зямля]]
+[[bg:Земя]]
+[[bh:पृथ्वी]]
+[[bn:পৃথিবী]]
+[[bo:སའི་གོ་ལ།]]
+[[br:Douar (planedenn)]]
+[[bs:Zemlja (planeta)]]
+[[ca:Terra]]
+[[cbk-zam:Tierra]]
+[[cdo:Dê-giù]]
+[[ceb:Kalibotan (planeta)]]
+[[chr:ᎡᎶᎯ]]
+[[ckb:زەوی]]
+[[crh:Dünya]]
+[[cs:Země]]
+[[csb:Zemia]]
+[[cu:Ꙁємлꙗ]]
+[[cv:Çĕр (планета)]]
+[[cy:Y Ddaear]]
+[[da:Jorden]]
+[[de:Erde]]
+[[diq:Dınya]]
+[[dsb:Zemja]]
+[[dv:ބިން]]
+[[el:Γη]]
+[[eml:Tèra]]
+[[en:Earth]]
+[[eo:Tero]]
+[[es:Tierra]]
+[[et:Maa (planeet)]]
+[[eu:Lurra]]
+[[ext:Tierra]]
+[[fa:زمین]]
+[[fi:Maa]]
+[[fiu-vro:Maa (hod'otäht)]]
+[[fo:Jørðin]]
+[[fr:Terre]]
+[[frp:Tèrra]]
+[[frr:Jard]]
+[[fur:Tiere]]
+[[fy:Ierde]]
+[[ga:An Domhan]]
+[[gan:地球]]
+[[gd:Saoghal]]
+[[gl:Terra]]
+[[gn:Yvy]]
+[[gu:પૃથ્વી]]
+[[gv:Yn Chruinney]]
+[[ha:Duniya]]
+[[hak:Thi-khiù]]
+[[haw:Honua]]
+[[he:כדור הארץ]]
+[[hi:पृथ्वी]]
+[[hif:Dunia]]
+[[hr:Zemlja]]
+[[hsb:Zemja]]
+[[ht:Latè]]
+[[hu:Föld]]
+[[hy:Երկիր]]
+[[ia:Terra]]
+[[id:Bumi]]
+[[ig:Àlà]]
+[[ilo:Daga (planeta)]]
+[[io:Tero]]
+[[is:Jörðin]]
+[[it:Terra]]
+[[iu:ᓄᓇ]]
+[[ja:地球]]
+[[jbo:terdi]]
+[[jv:Bumi]]
+[[ka:დედამიწა]]
+[[kg:Ntoto]]
+[[kk:Жер (ғаламшар)]]
+[[kl:Nunarsuaq]]
+[[km:ផែនដី]]
+[[kn:ಭೂಮಿ]]
+[[ko:지구]]
+[[koi:Мушар]]
+[[krc:Джер]]
+[[ksh:Ääd (Planeet)]]
+[[ku:Erd]]
+[[kv:Му]]
+[[kw:Dor]]
+[[ky:Жер]]
+[[la:Tellus (planeta)]]
+[[lad:Tierra]]
+[[lb:Äerd]]
+[[lez:Чил (планета)]]
+[[li:Eerd]]
+[[lij:Tæra]]
+[[lmo:Tera]]
+[[ln:Mabelé]]
+[[lo:ໂລກ]]
+[[lt:Žemė]]
+[[ltg:Zeme]]
+[[lv:Zeme]]
+[[map-bms:Bumi]]
+[[mdf:Мода (шары тяште)]]
+[[mg:Tany]]
+[[mhr:Мланде]]
+[[mk:Земја (планета)]]
+[[ml:ഭൂമി]]
+[[mn:Дэлхий]]
+[[mr:पृथ्वी]]
+[[ms:Bumi]]
+[[mt:Art]]
+[[mwl:Tierra]]
+[[my:ကမ္ဘာဂြိုဟ်]]
+[[myv:Мода (пертпельксэнь вал)]]
+[[mzn:زمین]]
+[[nah:Tlālticpactli]]
+[[nap:Terra]]
+[[nds:Eer]]
+[[nds-nl:Eerde]]
+[[ne:पृथ्वी]]
+[[nl:Aarde (planeet)]]
+[[nn:Jorda]]
+[[no:Jorden]]
+[[nov:Tere]]
+[[nrm:Tèrre]]
+[[nso:Lefase]]
+[[nv:Nahasdzáán]]
+[[oc:Tèrra]]
+[[or:ପୃଥିବୀ]]
+[[os:Зæхх]]
+[[pa:ਧਰਤੀ]]
+[[pam:Yatu]]
+[[pap:Tera]]
+[[pcd:Tière]]
+[[pfl:Erd]]
+[[pih:Erth]]
+[[pl:Ziemia]]
+[[pms:Tèra (pianeta)]]
+[[pnb:زمین]]
+[[ps:ځمکه]]
+[[pt:Terra]]
+[[qu:Tiksimuyu]]
+[[rm:Terra]]
+[[rmy:Phuv]]
+[[ro:Pământ]]
+[[ru:Земля]]
+[[rue:Земля (планета)]]
+[[rw:Isi]]
+[[sa:पृथ्वी]]
+[[sah:Сир]]
+[[sc:Terra]]
+[[scn:Terra (pianeta)]]
+[[sco:The Yird]]
+[[se:Eana]]
+[[sh:Zemlja (planet)]]
+[[si:මහ පොළොව]]
+[[simple:Earth]]
+[[sk:Zem]]
+[[sl:Zemlja]]
+[[sn:Rinopasi]]
+[[so:Aduunka]]
+[[sq:Toka]]
+[[sr:Земља]]
+[[st:Lefatshe]]
+[[su:Marcapada]]
+[[sv:Jorden]]
+[[sw:Dunia]]
+[[szl:Źymja]]
+[[ta:புவி]]
+[[te:భూమి]]
+[[tg:Замин]]
+[[th:โลก (ดาวเคราะห์)]]
+[[tl:Daigdig]]
+[[tpi:Giraun]]
+[[tr:Dünya]]
+[[tt:Җир]]
+[[ug:يەر شارى]]
+[[uk:Земля]]
+[[ur:زمین]]
+[[uz:Yer]]
+[[vec:Tera]]
+[[vep:Ma]]
+[[vi:Trái Đất]]
+[[vls:Eirde (planete)]]
+[[vo:Tal]]
+[[wa:Daegne]]
+[[war:Kalibutan (planeta)]]
+[[wo:Suuf]]
+[[wuu:地球]]
+[[xal:Делкә һариг]]
+[[xmf:დიხაუჩა]]
+[[yi:ערד-פלאנעט]]
+[[yo:Ayé]]
+[[za:Giuznamh]]
+[[zea:Aerde]]
+[[zh:地球]]
+[[zh-classical:地球]]
+[[zh-min-nan:Tē-kiû]]
+[[zh-yue:地球]]
