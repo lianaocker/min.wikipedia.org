@@ -10,7 +10,7 @@
 | perihelion = 147,098,290&nbsp;km<br> 0.98329134&nbsp;AU<ref group=note name=apsis/>
 | semimajor = 149,598,261&nbsp;km<br> 1.00000261&nbsp;AU<ref name=standish_williams_iau/>
 | eccentricity = 0.01671123<ref name=standish_williams_iau/>
-| inclination = 7.155° dari [[equator]] [[Matohari]]<br>1.57869°<ref name=Allen294/> to [[invariable plane]]
+| inclination = 7.155° dari equator Matohari<br>1.57869°<ref name=Allen294/> to [[invariable plane]]
 | asc_node = 348.73936°<ref name="earth_fact_sheet"/><ref group=note name=asc_node/>
 | arg_peri = 114.20783°<ref name="earth_fact_sheet"/><ref group=note name=arg_peri/>
 | mean_anomaly = 357.51716°<ref name="earth_fact_sheet"/>
@@ -23,7 +23,7 @@
 | equatorial_radius = 6,378.1&nbsp;km<ref name=usno/><ref name="WGS-84"/>
 | polar_radius = 6,356.8&nbsp;km<ref name=cazenave_ahrens1995/>
 | mean_radius = 6,371.0&nbsp;km<ref name=hbcp2000/>
-| circumference = 40,075.017&nbsp;km&nbsp;([[equator]]ial)<ref name="WGS-84">[[World Geodetic System]] (''WGS-84'').  [http://earth-info.nga.mil/GandG/wgs84/ Available online] from [[National Geospatial-Intelligence Agency]].</ref><br>40,007.86&nbsp;km&nbsp;([[meridional]])<ref name="WGS-84-2"/>
+| circumference = 40,075.017&nbsp;km&nbsp;(equatorial)<ref name="WGS-84">[[World Geodetic System]] (''WGS-84'').  [http://earth-info.nga.mil/GandG/wgs84/ Available online] from [[National Geospatial-Intelligence Agency]].</ref><br>40,007.86&nbsp;km&nbsp;([[meridional]])<ref name="WGS-84-2"/>
 | surface_area = 510,072,000&nbsp;km<sup>2</sup><ref name="Pidwirny 2006" /><ref name=cia /><ref group=note name=surfacecover/>
 {{Nowrap|148,940,000 km<sup>2</sup> land  (29.2 %)}}<br>
 {{Nowrap|361,132,000 km<sup>2</sup> water (70.8 %)}}
@@ -65,7 +65,7 @@ Urang cadiak pandai kini lah mampu marekonstruksi ulang maklumat rinci tentang m
 {{Reflist|colwidth=30em|group=note|refs=
 <ref name=apsis>aphelion = ''a'' × (1 + ''e''); perihelion = ''a'' × (1 - ''e''), where ''a'' is the semi-major axis and ''e'' is the eccentricity.</ref>
 
-<ref name=epoch>All astronomical quantities vary, both [[Secular phenomena|secularly]] and [[Frequency|periodically]]. The quantities given are the values at the instant [[J2000.0]] of the secular variation, ignoring all periodic variations.</ref>
+<ref name=epoch>All astronomical quantities vary, both [[Secular phenomena|secularly]] and [[Frequency|periodically]]. The quantities given are the values at the instant J2000.0 of the secular variation, ignoring all periodic variations.</ref>
 
 <ref name=asc_node>The reference lists the longitude of the ascending node as -11.26064°, which is equivalent to 348.73936° by the fact that any angle is equal to itself plus 360°.</ref>
 
@@ -147,9 +147,9 @@ where ''m'' is the mass of the Earth, ''a'' is an Astronomical Unit, and ''M'' i
 
 <ref name="earth_fact_sheet">{{Cite web|last=Williams|first=David R.|date=2004-09-01|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html|title=Earth Fact Sheet|publisher=NASA|accessdate=2010-08-09}}</ref>
 
-<ref name=asu_lowest_temp>{{Cite web|url=http://wmo.asu.edu/world-lowest-temperature|title=World: Lowest Temperature|work=[[WMO]] Weather and Climate Extremes Archive|publisher=[[Arizona State University]]|accessdate=2010-08-07}}</ref>
+<ref name=asu_lowest_temp>{{Cite web|url=http://wmo.asu.edu/world-lowest-temperature|title=World: Lowest Temperature|work=[[WMO]] Weather and Climate Extremes Archive|publisher=Arizona State University|accessdate=2010-08-07}}</ref>
 
-<ref name=asu_highest_temp>{{Cite web|url=http://wmo.asu.edu/world-highest-temperature|title=World: Highest Temperature|work=[[WMO]] Weather and Climate Extremes Archive|publisher=[[Arizona State University]]|accessdate=2010-08-07}}</ref>
+<ref name=asu_highest_temp>{{Cite web|url=http://wmo.asu.edu/world-highest-temperature|title=World: Highest Temperature|work=WMO Weather and Climate Extremes Archive|publisher=[[Arizona State University]]|accessdate=2010-08-07}}</ref>
 
 <ref name=usno>{{Cite web|title=Selected Astronomical Constants, 2011|work=The Astronomical Almanac|url=http://asa.usno.navy.mil/SecK/2011/Astronomical_Constants_2011.txt|accessdate=2011-02-25}}</ref>
 
