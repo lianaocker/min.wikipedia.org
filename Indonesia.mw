@@ -1,37 +1,94 @@
-{{Nagara
-| namorasmi    = Rapublik Indonesia
-| bandera      = Flag of Indonesia.svg
-| lambang      = Coat of Arms of Indonesia Garuda Pancasila.svg
-| lambang_gadang = 85px
-| peta         = Indonesia (orthographic projection).svg
-| motto        = [[Bhinneka Tunggal Ika|Bhinneka Tunggal Ika]]
-| ideologi     = [[Pancasila|Pancasila]]
-| lagu         = [[Indonesia Raya|Indonesia Raya]]
-| ibukota      = [[Jakarta|Jakarta]]
-| bahaso       = [[Bahaso Indonesia|Bahaso Indonesia]]
-| pamarintahan = [[Rapublik Presidensial|Rapublik Presidensial]]
-| presiden     = [[Susilo Bambang Yudhoyono|Susilo Bambang Yudhoyono]]
-| wakil        = [[Boediono|Boediono]]
-| dpr          = [[Marzuki Alie|Marzuki Alie]]
-| mpr          = [[Taufiq Kiemas|Taufiq Kiemas]]
-| dpd          = [[Irman Gusman|Irman Gusman]]
-| kamardekaan  = [[Balando|Balando]]
-| proklamasi   = [[17 Agustus|17 Agustus]] [[1945|1945]]
-| lueh         = 1,904,569 km<sup>2</sup>
-| aia          = 4,85%
-| panduduak    = 237.556.363
-| pdb_kkb_tahun = 2009
-| pdb_kkb_total = 8,576 triliun
-| pdb_kkb_parkapita = 37,538 juta
-| pdb_nominal_tahun = 2009
-| pdb_nominal_total = 4,821 triliun
-| pdb_nominal_parkapita = 21.113 juta juta
-| ipm_tahun     = 2006
-| ipm           = 0.734
-| pitih         = [[Piah|Piah]]
-| zona_wakatu   = [[Waktu Indonesia Barat|WIB]] ([[UTC+7|+7]]), [[Waktu Indonesia Tengah|WITA]] ([[UTC+8|+8]]), [[Waktu Indonesia Timur|WIT]] ([[UTC+9|+9]])
-| internet      = [[.id|.id]]
-| talepon       = +62
+{{Infobox Country
+|conventional_long_name   = Republik Indonesia
+|common_name              = Indonesia
+|image_flag               = Flag of Indonesia.svg
+|image_coat               = National emblem of Indonesia Garuda Pancasila.svg
+|image_map                = Indonesia (orthographic projection).svg
+|national_motto           = [[Bhinneka Tunggal Ika]]<br/><small>(''[[Bahasa Jawa|Bahasa Jawa Kuno]]: "Berbeda-beda tetapi tetap Satu"'')</small><br/>'''[[Ideologi|Ideologi nasional]]''': [[Pancasila]]
+|national_anthem = <center>[[File:Indonesiaraya.ogg]]</center><br>
+''[[Indonesia Raya]]''
+|capital                  = [[Jakarta]]
+|latd                     = 6
+|latm                     = 10.5
+|latNS                    = S
+|longd                    = 106
+|longm                    = 49.7
+|longEW                   = E
+|largest_city             = capital
+|official_languages       = [[Bahasa Indonesia]]
+|Endonim                  = [[Demografi Indonesia|Bangsa Indonesia]]
+|government_type          = [[Republik]] [[Sistem presidensial|presidensial]]
+|leader_title1            = [[Presiden Indonesia|Presiden]]
+|leader_title2            = [[Wakil Presiden Indonesia|Wakil Presiden]]
+|leader_title3            = [[Daftar Ketua Majelis Permusyawaratan Rakyat|Ketua MPR]]
+|leader_title4            = [[Daftar Ketua Dewan Perwakilan Rakyat|Ketua DPR]]
+|leader_title5            = [[Daftar Ketua Dewan Perwakilan Daerah|Ketua DPD]]
+|leader_title6            = [[Ketua Mahkamah Agung Indonesia|Ketua Mahkamah Agung]]
+|leader_title7            = [[Ketua Mahkamah Konstitusi Indonesia|Ketua Mahkamah Konstitusi]]
+|leader_name1             = {{Kepala negara indonesia}}
+|leader_name2             = [[Boediono]]
+|leader_name3             = [[Taufiq Kiemas]]
+|leader_name4             = [[Marzuki Alie]]
+|leader_name5             = [[Irman Gusman]]
+|leader_name6             = [[Ariffien H Tumpa]]
+|leader_name7             = [[Mahfud MD]]
+|legislature              = [[Majelis Permusyawaratan Rakyat]]
+|lower_house              = [[Dewan Perwakilan Rakyat]]
+|upper_house              = [[Dewan Perwakilan Daerah]]
+|sovereignty_type         = [[Kemerdekaan]]
+|sovereignty_note         = dari [[Belanda]]
+|established_event1       = [[Proklamasi Kemerdekaan Indonesia|Diproklamasikan]]
+|established_event2       = [[Pengakuan kemerdekaan Indonesia oleh Belanda|Diakui]] (sebagai [[Republik Indonesia Serikat|RIS]])
+|established_event3       = Kembali ke RI
+|established_date1        = [[17 Agustus]] [[1945]]
+|established_date2        = [[27 Desember]] [[1949]]
+|established_date3        = [[17 Agustus]] [[1950]]
+|area_km2                 = 1.904.569
+|area_rank                = 15
+|area_magnitude           = 
+|percent_water            = 4,85%
+|population_estimate      = 230.472.833<ref>[http://www.bps.go.id/~ntt/vary/popi.htm Jam penduduk Indonesia]</ref>
+|population_estimate_year = 19&nbsp;Juni&nbsp;2009
+|population_estimate_rank = 4
+|population_census        = 237.556.363<ref>{{cite web
+ | year = 2010
+ | url = http://www.bps.go.id/download_file/SP2010_agregat_data_perProvinsi.pdf
+ | title = Hasil Sensus Penduduk 2010 Data Agregrat per Provinsi
+ | format = PDF
+ | work = 
+ | publisher = Badan Pusat Statistik
+ | accessdate = 21 August 2010
+ | archiveurl = 
+ | archivedate =
+ | quote =
+}}</ref>
+|population_census_year   = [[Sensus Penduduk Indonesia 2010|2010]]
+|population_density_km2   = 124
+|population_density_rank  = 84
+|GDP_PPP_year             = 2011
+|GDP_PPP                  = Rp. 10,706 triliun{{br}}(AS$ 1,121 miliar)<ref name="IMF">{{cite press release |publisher=[[International Monetary Fund]] |url=http://imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2008&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124%2C684%2C339%2C273%2C638%2C921%2C514%2C948%2C218%2C943%2C963%2C686%2C616%2C688%2C223%2C518%2C516%2C728%2C918%2C558%2C748%2C138%2C618%2C196%2C522%2C278%2C622%2C692%2C156%2C694%2C624%2C142%2C626%2C449%2C628%2C564%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C453%2C960%2C968%2C423%2C922%2C935%2C714%2C128%2C862%2C611%2C716%2C321%2C456%2C243%2C722%2C248%2C942%2C469%2C718%2C253%2C724%2C642%2C576%2C643%2C936%2C939%2C961%2C644%2C813%2C819%2C199%2C172%2C184%2C132%2C524%2C646%2C361%2C648%2C362%2C915%2C364%2C134%2C732%2C652%2C366%2C174%2C734%2C328%2C144%2C258%2C146%2C656%2C463%2C654%2C528%2C336%2C923%2C263%2C738%2C268%2C578%2C532%2C537%2C944%2C742%2C176%2C866%2C534%2C369%2C536%2C744%2C429%2C186%2C433%2C925%2C178%2C746%2C436%2C926%2C136%2C466%2C343%2C112%2C158%2C111%2C439%2C298%2C916%2C927%2C664%2C846%2C826%2C299%2C542%2C582%2C443%2C474%2C917%2C754%2C544%2C698&s=NGDPD&grp=0&a=&pr.x=35&pr.y=9 |accessdate=30 November|accessyear= 2011|title=World Economic Outlook Database |date=November 2011}}</ref>
+|GDP_PPP_rank             = <!-- 15 -->
+|GDP_PPP_per_capita       = Rp. 44,885 juta{{br}}(AS$  $4.700)<ref name="IMF"/>
+|GDP_PPP_per_capita_rank  = <!-- 110 -->
+|GDP_nominal_year         = 2011
+|GDP_nominal              = Rp. 4,821 triliun{{br}}(AS$ 846 miliar)<ref name="IMF"/>
+|GDP_nominal_rank         = 17
+|GDP_nominal_per_capita   = Rp. 36,261 juta{{br}}(AS$ 3.797)<ref name="IMF"/>
+|GDP_nominal_per_capita_rank  = 110
+|currency                 = [[Rupiah]] (Rp)
+|currency_code            = IDR
+|time_zone                = [[WIB]] ([[UTC+7|+7]]), [[WITA]] ([[UTC+8|+8]]), [[WIT]] ([[UTC+9|+9]])
+|utc_offset               = 
+|time_zone_DST            =  
+|utc_offset_DST           =
+|drives_on                = Kiri
+|cctld                    = [[.id]]
+|calling_code             = +62
+|HDI_year                 = 2006
+|HDI                      = {{increase}} 0.734<ref>[http://hdrstats.undp.org/en/indicators/87.html HDR Stats]</ref>
+|HDI_category             = <font color="#ffcc00">menengah</font>
+|HDI_rank                 = 111
+|footnotes                = {{Tnavbar|Indo infobox|plain=1}}
 }}
 '''Indonesia''' adolah nagara kasatuan di [[Asia Tenggara|Asia Tenggara]] nan dilintehan garih [[Khatulistiwa|khatulistiwa]], barado di antaro banua [[Asia|Asia]] jo [[Australia|Australia]] sarato di antaro [[Samudra Pasifik|Samudra Pasifik]] jo [[Samudra Hindia|Samudra Hindia]]. Indonesia marupoan nagara [[kapulauan|kapulauan]] paliang gadang di dunia nan tadiri dari 13.466 pulau, dek itulah inyo disabuik juo jo [[Nusantaro|Nusantaro]]. Salain itu, Indonesia marupoan nagara nan jumlah panduduaknyo paliang banyak kaampek di dunia jo nagara nan jumlah panduduak [[Muslim|Muslim]] paliang banyak di dunia, meskipun sacaro rasmi bukanlah nagara [[Islam|Islam]]. Bantuak pamarintahan Indonesia adolah [[rapublik|rapublik]], jo [[Dewan Pawakilan Rakyat|Dewan Pawakilan Rakyat]], [[Dewan Pawakilan Daerah|Dewan Pawakilan Daerah]], sarato [[Presiden|Presiden]] nan dipiliah lansuang. Ibu kota nagaranyo adolah [[Jakarta|Jakarta]]. Indonesia babatehan jo [[Malaysia|Malaysia]] di [[Pulau Kalimantan|Pulau Kalimantan]], jo [[Papua Nugini|Papua Nugini]] di [[Pulau Papua|Pulau Papua]] sudah itu jo [[Timor Leste|Timor Leste]] di [[Pulau Timor|Pulau Timor]]. Nagara tatangga lainnyo adolah [[Singapura|Singapura]], [[Filipina|Filipina]], [[Australia|Australia]], jo wilayah pasatuan [[Kapulauan Andaman jo Nikobar|Kapulauan Andaman jo Nikobar]] di [[India|India]].
 
