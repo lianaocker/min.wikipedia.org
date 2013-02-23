@@ -1,87 +1,83 @@
-{{Infobox country
-|conventional_long_name = United States of America
-|common_name            = the United States
-|image_flag             = Flag of the United States.svg
-|image_coat             = Great Seal of the United States (obverse).svg
-|length                 = 1776–present
-|symbol_type            = Great Seal
-|national_motto         = <!--Please read the talk page before editing these mottos:-->[[In God We Trust]]{{spaces|2}}<small>(official)</small><br />{{lang|la|''[[E pluribus unum|E Pluribus Unum]]''}}{{spaces|2}}<small>(traditional)</small><br /><small>([[Latin]]: Out of Many, One)</small>
-|image_map              = USA orthographic.svg
-|map_width              = 220px
-|national_anthem        = "[[The Star-Spangled Banner]]"<br/><center>[[File:Star Spangled Banner instrumental.ogg]]
-|official_languages     = None at federal level{{Ref label|engoffbox|a|}}
-|languages_type         = [[National language]]
-|languages              = [[American English|English]] (''[[de facto]]''){{Ref label|engfactobox|b|}}
-|capital                = [[Washington, D.C.]]
-|largest_city           = [[New York City]]
-|latd                   = 38|latm=53|latNS=N|longd=77|longm=01|longEW=W
-|government_type        = [[Federalism|Federal]] [[Presidential system|presidential]] [[constitutional republic]],<br>[[Two-party system]]
-|leader_title1          = [[President of the United States|President]]
-|leader_name1           = [[Barack Obama]] ([[Democratic Party (United States)|D]])
-|leader_title2          = [[Vice President of the United States|Vice President]]
-|leader_name2           = [[Joe Biden]] (D)
-|leader_title3          = {{nowrap|[[Speaker of the United States House of Representatives|Speaker of the House]]}}
-|leader_name3           = [[John Boehner]] ([[Republican Party (United States)|R]])
-|leader_title4          = [[Chief Justice of the United States|Chief Justice]]
-|leader_name4           = [[John Roberts]]
-|legislature            = [[United States Congress|Congress]]
-|upper_house            = [[United States Senate|Senate]]
-|lower_house            = [[United States House of Representatives|House of Representatives]]
-|sovereignty_type       = [[American Revolution|Independence]]
-|sovereignty_note       = from the [[Kingdom of Great Britain]]
-|established_event1     = [[United States Declaration of Independence|Declared]]
-|established_date1      = July 4, 1776
-|established_event2     = [[Treaty of Paris (1783)|Recognized]]
-|established_date2      = September 3, 1783
-|established_event3     = [[United States Constitution|Current constitution]]
-|established_date3      = June 21, 1788
-|area_footnote          = <ref name="WF"/>{{Ref label|areabox|c|}}
-|area_sq_mi             = 3794101
-|area_km2               = 9826675
-|area_rank              = 3rd/4th
-|area_magnitude         = 1 E12
-|percent_water          = 6.76
-|population_estimate    = {{formatnum:{{data United States | Poptoday }} }}<ref name="POP">{{cite web|url=http://www.census.gov/population/www/popclockus.html|publisher=U.S. Census Bureau|title=U.S. POPClock Projection}} Figure updated automatically.</ref>
-|population_estimate_year = 2012
-|population_estimate_rank = 3rd
-|population_density_km2   = 34.2
-|population_density_sq_mi = 88.6
-|GDP_PPP_year             = 2012
-|GDP_PPP                  = $15.6097 trillion<ref name=IMF_GDP>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2012/01/weodata/weorept.aspx?pr.x=56&pr.y=10&sy=2009&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=111&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=|title=United States|publisher=International Monetary Fund|accessdate=January 23, 2013}}</ref>
-|GDP_PPP_rank             = 1st
-|GDP_PPP_per_capita       = $49,601<ref name="IMF_GDP"/>
-|GDP_PPP_per_capita_rank  = 6th
-|GDP_nominal              = $15.6097 trillion<ref name="IMF_GDP"/>
-|GDP_nominal_rank         = 1st
-|GDP_nominal_year         = 2012
-|GDP_nominal_per_capita   = $49,601<ref name="IMF_GDP"/>
-|GDP_nominal_per_capita_rank = 15th
-|HDI_year                 = 2011
-|HDI                      = {{increase}} 0.910<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2011_EN_Table1.pdf|title=Human Development Report 2011|year=2011|publisher=United Nations|accessdate=November 5, 2011}}</ref>
-|HDI_rank                 = 4th
-|HDI_category             = <span style="color:#090;">very&nbsp;high</span>
-|EF_year                  = 2007
-|EF                       = {{decrease}} 8.0 gha<ref name="EF">{{cite
-web|url=http://www.footprintnetwork.org/images/uploads/Ecological_Footprint_Atlas_2010.pdf|title=Ecological Footprint Atlas 2010|publisher=Global Footprint Network|accessdate=July 11, 2011}}</ref>
-|EF_rank                  = 6th
-|Gini                     = 47.7 <ref>{{cite web |url=http://www.census.gov/newsroom/releases/archives/income_wealth/cb12-172.html |title= Income, Poverty and Health Insurance Coverage in the United States: 2011 |work= Newsroom |publisher= [[United States Census Bureau]] |date=September 12, 2012 |accessdate=January 23, 2013}}</ref>
-|Gini_rank                = 39th (2009)
-|Gini_year                = 2011
-|currency                 = [[United States dollar]] ($)
-|currency_code            = USD
-|country_code             = USA
-|utc_offset               = −5 to −10
-|utc_offset_DST           = −4 to −10{{Ref label|UTCbox|e|}}
-|cctld                    = [[.us]] [[.gov]] [[.mil]] [[.edu]]
-|calling_code             = [[North American Numbering Plan|+1]]
-|iso3166code = {{ISO 3166 code United States}}
-|iso3166note = {{Ref label|ISO3166box|f|}}
-|drives_on                = right
-|demonym                  = [[Americans|American]]
-|footnotes                =
-}}<!--
-The opening paragraphs on this subject are a topic of great debate. Check the discussion page before editing. In particular, do ''not'' add mention of the territories to the first sentence: they are possessions of the United States, not part of it.
--->
+{{Infobox Country
+|conventional_long_name=United States of America
+|common_name= Amerika Serikat
+|image_flag=Flag of the United States.svg
+|image_coat=Great Seal of the United States (obverse).svg
+|length=1776–Sekarang
+|symbol_type=Segel kebesaran
+|national_motto=[[In God We Trust]]{{spaces|2}}<small>(resmi)<br />(Kepada Tuhan Kami Percaya)</small><br />''[[E pluribus unum|E Pluribus Unum]]''{{spaces|2}}<small>(tradisional)<br />({{bhs|Latin}}: Dari Banyak Menjadi Satu)</small>
+|image_map=United States (orthographic projection).svg
+|map_width=220px
+|national_anthem="[[The Star-Spangled Banner]]"<br /><small>(Bendera Bertabur Bintang)</small>
+|official_languages=Tidak ada bahasa resmi pada tingkat federal{{Ref label|engoffbox|a|}}
+|languages_type=[[Bahasa nasional]]
+|languages=[[Bahasa Inggris]] (''[[de facto]]''){{Ref label|engfactobox|b|}}
+|capital=[[Washington, D.C.]]
+|largest_city=[[New York City]]
+|latd=38|latm=53|latNS=N|longd=77|longm=01|longEW=W
+|government_type=[[Republik]] [[konstitusional]] [[Republik federal|Federal]]
+|leader_title1=[[Presiden Amerika Serikat|Presiden]]
+|leader_name1=[[Barack Obama]] 
+|leader_title2=[[Wakil Presiden Amerika Serikat|Wakil Presiden]]
+|leader_name2=[[Joe Biden]]
+|leader_title3={{nowrap|[[Dewan Perwakilan Rakyat Amerika Serikat|Juru Bicara Parlemen]]}}
+|leader_name3=[[John Boehner]]
+|leader_title4=[[Ketua Mahkamah Agung Amerika Serikat|Ketua Mahkamah <br>Agung]]
+|leader_name4=[[John G. Roberts|John Roberts]]
+|sovereignty_type=[[Perang Revolusi Amerika|Kemerdekaan]] {{nobold|dari [[Britania Raya]]}}
+|established_event1=Diproklamasikan
+|established_date1=[[4 Juli]] [[1776]]
+|established_event2=Diakui
+|established_date2=[[3 September]] [[1783]]
+|established_event3=[[Konstitusi Amerika Serikat|Konstitusi]]
+|established_date3=[[21 Juni]] [[1788]]
+|area_footnote=
+|area_sq_mi=3794101
+|area_km2=9826675
+|area_rank=ke-3/ke-4
+|area_magnitude=1 E12
+|percent_water=6,76
+|population_estimate=305.711.372
+|population_estimate_year={{CURRENTYEAR}}
+|population_estimate_rank=ke-3{{smallsup|<nowiki>[</nowiki>c<nowiki>]</nowiki>}}
+|population_census=281.421.906<ref>{{cite web|url=http://factfinder.census.gov/servlet/SAFFPopulation?_submenuId=population_0&_sse=on|title=Population Finder: United States|publisher=U.S. Census Bureau|accessdate=2007-12-20|year =2000}}</ref>
+|population_census_year=2000
+|population_density_km2=32
+|population_density_sq_mi=83
+|population_density_rank=ke-178
+|GDP_PPP_year=2008
+|GDP_PPP=$14,441 triliun<ref name=IMF_GDP>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/02/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=111&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=64&pr.y=8|title=United States|publisher=International Monetary Fund|accessdate=2009-10-01}}</ref>
+|GDP_PPP_rank=ke-1
+|GDP_PPP_per_capita=AS$47.440<ref name="IMF_GDP"/>
+|GDP_PPP_per_capita_rank=ke-6
+|GDP_nominal=AS$14,441 triliun<ref name="IMF GDP"/>
+|GDP_nominal_rank=ke-1
+|GDP_nominal_year=2008
+|GDP_nominal_per_capita=AS$47.440<ref name="IMF_GDP"/>
+|GDP_nominal_per_capita_rank=ke-17
+|HDI_year=2007
+|HDI={{increase}} 0,956<ref>[http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf Human Development Report 2009]. The United Nations. Retrieved October 5, 2009</ref>
+|HDI_rank= ke-13
+|HDI_category=<span style="color:#006000;">sangat tinggi</span>
+|Gini=45,0
+|Gini_rank=ke-44
+|Gini_year=2007
+|currency=[[Dolar Amerika Serikat]] ($)
+|currency_code=USD
+|country_code=USA
+|utc_offset=−5 s/d −10
+|utc_offset_DST=−4 s/d −10
+|cctld=[[.us]] [[.gov]] [[.mil]] [[.edu]]
+|calling_code= +1
+|date_format = m/d/yy ([[Anno Domini|AD]])
+|drives_on=kanan
+|footnotes=
+{{note|engoffbox}}a. Bahasa Inggris adalah bahasa resmi di paling tidak 28 negara bagian. Hal ini berbeda-beda tergantung pada definisi kata "resmi". Di negara bagian [[Hawaii]], bahasa Inggris dan [[Bahasa Hawaii|Hawaii]] adalah bahasa resmi.
+
+{{note|engfactobox}}b. Bahasa Inggris secara ''de facto'' merupakan bahasa yang digunakan oleh pemerintah Amerika Serikat dan merupakan satu-satunya bahasa yang dituturkan oleh 80% warga Amerika. Bahasa Spanyol merupakan bahasa kedua terbanyak yang dituturkan.
+
+{{note|popbox}}c. Perkiraan populasi meliputi orang-orang yang tinggal di lima puluh negara bagian dan District of Columbia, termasuk pula yang bukan warga negara. Nilai perkiraan ini tidak meliputi orang yang tinggal di teritorial AS (sekitar 4 juta warga negara AS) maupun warga negara AS yang tinggal di luar negeri.
+}}
 
 '''Amerika Sarikat''' ({{baso-en|'''United States of America'''}}, biaso disingkek '''''USA''''' atau '''''US''''' sajo), adolah sabuah [[republik federasi]] dari 50 [[nagara bagian]].<ref name="WF">{{cite web |url= https://www.cia.gov/library/publications/the-world-factbook/geos/us.html |title=United States |publisher=CIA |work=The World Factbook |date=September 30, 2009 |accessdate=January 5, 2010 (area given in square kilometers)}}</ref> Nagara ko talatak di tangah [[Banua]] [[Amerika]] bagian [[utara]], babateh jo [[Kanada]] di utara dan [[Meksiko]] di [[selatan]], [[Samudra Pasifik]] di [[timur]] dan [[Samudra Atlantik]] di [[barat]]. Kamudian salah satu nagara bagiannyo talatak sabalah utara babateh jo [[Russia]] di [[Selat Bering]]. Samantaro nagara bagian [[Hawaii]] di tangah [[Samudra Pasifik]], tamasuak babarapo daerah teritorinyo nan talatak di [[Lauik Karibian]], sahinggo mamiliki wilayah sekitar 3.79&nbsp;million square miles (9.83&nbsp;million km<sup>2</sup>) dan panduduaknyo sakitar 315 juta urang, Amerika Sarikat adolah nagara tagadang [[Dafta nagara jo wilayah mandat manuruik laweh|katigo atau kaampek manuruik total lawehnyo]], sarato katigo tagadang manuruik laweh daratan jo [[Dafta nagara manuruik populasi|panduduaknyo]]. Nagara ko adolah salah satu nagara nan panduduaknyo paliang banyak babedo-bedo [[Masyarakaik multietnis|etnis]] jo [[Multikulturalisme|budayo]]nyo, sabagai asia dari [[Imigrasi ka Amerika Sarikat|imigrasi dari babagai nagara]].<ref name="DD">Adams, J.Q.; Strother-Adams, Pearlie (2001). ''Dealing with Diversity''. Chicago: Kendall/Hunt. ISBN 0-7872-8145-X.</ref> [[Geografi Amerika Sarikat|Geografi]] jo [[Iklim Amerika Sarikat|iklim]] Amerika Sarikat sangaiklah baragam juo, dan nagara ko adolah tampek babagai macam jinih spesies mukaluak.
 
