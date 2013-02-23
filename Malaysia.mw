@@ -1,45 +1,95 @@
-{{Nagara
-| namorasmi    = Malaysia
-| bandera      = Flag of Malaysia.svg
-| lambang      =
-| lambang_gadang = 85px
-| peta         = Malaysia (orthographic projection).svg
-| motto        = Bersekutu Bertambah Mutu
-| ideologi     = 
-| lagu         = [[Nagaraku]]
-| ibukota      = [[Kuala Lumpur]]
-| pusek_pamarintahan  = [[Putrajaya]]
-| bahaso       = [[Bahasa Melayu]] (Bahaso Malaysia)
-| pamarintahan = 
-| presiden     = 
-| wakil        = 
-| dpr          = 
-| mpr          = 
-| dpd          = 
-| kamardekaan  = [[Britania Rayo]]
-| proklamasi   = 
-| lueh         = 329,847 km<sup>2</sup>
-| aia          = 0,3%
-| panduduak    = 24.821.286 
-| pdb_kkb_tahun = 2008
-| pdb_kkb_total = $384,119 miliar
-| pdb_kkb_parkapita = $14.071
-| pdb_nominal_tahun = 2008
-| pdb_nominal_total = $222,219 miliar
-| pdb_nominal_parkapita = $8.140
-| ipm_tahun     = 2008
-| ipm           = 0,823
-| pitih         = [[Ringgit]]
-| zona_wakatu   = [[Malaysian Standard Time|MST]]
-| internet      = [[.my]]
-| talepon       = +60
+{{Infobox Country
+|native_name              = Malaysia
+|conventional_long_name   = 
+|common_name              = Malaysia
+|image_flag               = Flag of Malaysia.svg
+|image_coat               =
+|symbol_type              = Lambang
+|image_map                = Malaysia (orthographic projection).svg
+|national_motto           = ''"Bersekutu Bertambah Mutu"''{{smallsup|1}}
+|national_anthem          = ''[[Negaraku]]''
+|capital                  = [[Kuala Lumpur]]<br />[[Putrajaya]] (pusat administratif){{smallsup|2}}
+|governing city           = Kuala Lumpur
+|latd=3 |latm=08 |latNS=N |longd=101 |longm=42 |longEW=E 
+|largest_city             = [[Kuala Lumpur]]
+|official_languages       = [[Bahasa Melayu]] (Bahasa Malaysia) {{smallsup|3}}
+|official_religion        = [[Islam]]
+|demonym                  = Bangsa Malaysia
+|government_type          = [[Monarki terpilih]] [[Monarki konstitusional|konstitusional]] [[Federasi|federal]] dan [[demokrasi parlementer]])
+|leader_title1            = [[Yang di-Pertuan Agong]]
+|leader_title2            = [[Perdana Menteri Malaysia|Perdana Menteri]]
+|leader_name1             = [[Mizan Zainal Abidin dari Terengganu|Tuanku Mizan Zainal Abidin]]
+|leader_name2             = [[Najib Tun Razak]]
+|sovereignty_type         = [[Kemerdekaan]]
+|established_event1       = Dari [[Britania Raya]] (hanya [[Federasi Malaya|Malaya]])
+|established_date1        = {{br}}31 Agustus 1957<ref name="am002">The UK Statute Law Database: [http://www.statutelaw.gov.uk/content.aspx?LegType=All+Primary&PageNumber=72&NavFrom=2&parentActiveTextDocId=1118475&ActiveTextDocId=1118475&filesize=15776 Federation of Malaya Independence Act 1957 (c. 60)]</ref>
+|established_event2       = Federasi (dengan [[Sabah]], [[Sarawak]] dan [[Singapura]]{{smallsup|4}})
+|established_date2        = {{br}}16 September 1963<ref name="am001">{{cite web |url=http://untreaty.un.org/unts/1_60000/21/36/00041791.pdf |title=No.10760: Agreement relating to Malaysia |accessdate=2010-07-29 |publisher=United Nations |work=United Nations Treaty Collection |format=pdf |year=1963 |month=July}}</ref>
+|area_rank                = 66
+|area_magnitude           = 1_E+11
+|area_km2                 = 329.847
+|area_sq_mi               = 127.355 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 0,3
+|population_estimate      = 27.730.000<ref>{{cite web
+|url                      = http://www.statistics.gov.my/eng/index.php?option=com_content&view=article&id=50:population&catid=38:kaystats&Itemid=11
+|title                    = Population (Updated 5 September 2008) 
+|publisher                = Department of Statistics Malaysia
+|date                     = 5 September 2008
+|accessdate               = 2008-09-20
+}}</ref> 
+|population_estimate_year = Sep 2008
+|population_estimate_rank = 43
+|population_census_year   = 2000
+|population_census        = 24.821.286
+|population_density_km2   = 84{{smallsup|5}}
+|population_density_sq_mi = 218 
+|population_density_rank  = 114
+|GDP_PPP_year             = 2008
+|GDP_PPP                  = $384,119 miliar<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2009/01/weodata/weorept.aspx?sy=2006&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=548&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=59&pr.y=19 |title=Malaysia|publisher=International Monetary Fund|accessdate=2009-04-22}}</ref>
+|GDP_PPP_rank             = 30 <!---IMF--->
+|GDP_PPP_per_capita       = $14.071<ref name="imf2"/>
+|GDP_PPP_per_capita_rank  = 59 <!---IMF--->
+|GDP_nominal_year         = 2008
+|GDP_nominal              = $222,219 miliar<ref name="imf2"/>
+|GDP_nominal_rank         = 39 <!---IMF--->
+|GDP_nominal_per_capita   = $8.140<ref name="imf2"/>
+|GDP_nominal_per_capita_rank = 63rd <!---IMF--->
+|Gini                     = 40,3
+|Gini_rank                =
+|Gini_year                = 2004
+|HDI_year                 = 2008
+|HDI                      = {{increase}} 0,823
+|HDI_rank                 = 63
+|HDI_category             = {{fontcolor|green|high}}
+|currency                 = [[Ringgit Malaysia|Ringgit]] (RM)
+|currency_code            = MYR
+|time_zone                = [[Malaysian Standard Time|MST]]
+|utc_offset               = +8
+|time_zone_DST            = tidak ada
+|utc_offset_DST           = 
+|drives_on                = kiri
+|cctld                    = [[.my]]
+|calling_code             = 60{{smallsup|6}}
+|ISO_3166-1_alpha2        = MY
+|ISO_3166-1_alpha3        = MYS
+|ISO_3166-1_numeric       = 458
+|sport_code               = [[IOC]]/[[FIFA]]: MAS{{br}}[[ISO]]: MYS 
+|vehicle_code             = MAL
+|footnote1                = [http://www.gov.my/MyGov/BI/Directory/Government/AboutMsianGov/MsianFlagAndCrest/ Malaysian Flag and Crest] dari www.gov.my.
+|footnote2                = [[Kuala Lumpur]] adalah ibu kota Malaysia. Sementara, [[Putrajaya]] adalah pusat pemerintahan Malaysia.
+|footnote3                = Nama kebijakan resmi pemerintah adalah ''Bahasa Malaysia'' (<ref>[[The Star (Malaysia)|The Star Online]]. [http://thestar.com.my/news/story.asp?file=/2007/6/4/nation/17923478&sec=nation Kembali ke Bahasa Malaysia]. Diakses pada 5 Juli 2007</ref> namun undang-undang terus mengacu bahasa resmi sebagai ''Bahasa Melayu'' [[Bahasa Inggris]] masih boleh digunakan untuk sebagian keperluan resmi menurut Undang-Undang Bahasa Nasional 1967.
+|footnote4                = [[Singapura]] menjadi negara merdeka pada 1965
+|footnote5                = Dihitung berdasarkan perkiraan penduduk terakhir
+|footnote6                = 020 dari  Singapura.
 }}
 '''Malaysia''' adolah sabuah [[nagara]] [[federasi]] nan tadiri dari [[Daftar nagara bagian di Malaysia|tigo baleh nagara bagian jo tigo wilayah pasakutuan]] di [[Asia Tenggara]] nan luehnyo 329.847&nbsp;km<sup>2</sup>. Ibu kotanyo adolah [[Kuala Lumpur]], sadangkan pusek pamarintahan pasakutuannyo adolah [[Putrajaya]]. Jumlah panduduak nagara iko malabiahi 27 juta jiwa. Nagara iko wilayahnyo tapisah manjadi duo—[[Malaysia Barat]] jo [[Malaysia Timur]]—dek [[Kapulauan Natuna]], nan ado di wilayah [[Indonesia]] di [[Lauik Cino Selatan]]. Malaysia babatehan jo [[Thailand]], [[Indonesia]], [[Singapura]], [[Brunei]], jo [[Filipina]]. Nagara iko talatak di dakek garih [[khatulistiwa]] nan bariklim [[tropika]]. [[Kapalo nagara]] Malaysia adolah ''[[Yang di-pertuan Agong]]'' (Nan di-patuan Aguang), samantaro itu pamarintahannyo dikapaloi dek saurang pardana manteri. Mode pamarintahan Malaysia sarupo jo [[sistem parlementer]] [[Westminsta]] nan ado di [[London]].
 
-Malaysia sabagai nagara pasakutuan indak parnah ado sampai tahun 1963. Sabalunnyo, sakumpulan [[koloni]] didirian dek [[Britania Rayo]] pado akhia abaik ka-18. Kumpulan wilayah jajahan itu dikenal sabagai [[Malaya Britania]] hinggo pambubarannyo pado 1946, sangkek kumpulan itu disusun baliak sabagai [[Uni Malaya]]. Dek samakin maluehnyo tantangan, kumpulan itu disusun pulo baliak kambali sabagai [[Federasi Malaya]] pado tahun 1948 nan kamudian maraih kamardekaan pado [[31 Agustus]] [[1957]]
+Malaysia sabagai nagara pasakutuan indak parnah ado sampai tahun 1963. Sabalunnyo, sakumpulan [[koloni]] didirian dek [[Britania Rayo]] pado akhia abaik ka-18. Kumpulan wilayah jajahan itu dikenal sabagai [[Malaya Britania]] hinggo pambubarannyo pado 1946, sangkek kumpulan itu disusun baliak sabagai [[Uni Malaya]]. Dek samakin maluehnyo tantangan, kumpulan itu disusun pulo baliak kambali sabagai [[Federasi Malaya]] pado tahun 1948 nan kamudian maraih kamardekaan pado [[31 Agustus]] [[1957]].
+
+== Rujuakan ==
+{{reflist}}
 
 [[Kategori:Nagara]]
-
 
 {{stub}}
 
