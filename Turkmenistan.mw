@@ -12,10 +12,10 @@
 |languages_type           = Bahasa untuk percakapan<br />antarsuku
 |languages                = [[Bahasa Rusia|Rusia]]
 <!--|minority_languages       = [[Bahasa Rusia|Rusia]] -->
-|capital                  = [[Ashgabat|Ashgabat]] 
+|capital                  = [[Ashgabat]] 
 |capitals_coordinates     = [http://kvaleberg.com/extensions/mapsources/index.php?params=37_58_N_58_20_E_ 37°58' LU 58°20' BT]  
-|largest_city             = [[Ashgabat|Ashgabat]] 
-|government_type          = [[Republik|Republik]] <small>(de jure)</small>
+|largest_city             = [[Ashgabat]] 
+|government_type          = [[Republik]] <small>(de jure)</small>
 |leader_title1            = [[Presiden Turkmenistan|Presiden]] 
 |leader_name1 = [[Gurbanguly Berdimuhammedow|G. Berdimuhammedow]]
 |area_rank = 52
@@ -34,9 +34,9 @@
 |GDP_PPP_rank = 86
 |GDP_PPP_per_capita = US$7.266 
 |GDP_PPP_per_capita_rank = 81 
-|sovereignty_type = [[Kemerdekaan|Kemerdekaan]] 
-|established_events = - Dari [[Uni Soviet|Uni Soviet]] 
-|established_dates = {{br}}[[27 Oktober|27 Oktober]] [[1991|1991]] 
+|sovereignty_type = [[Kemerdekaan]] 
+|established_events = - Dari [[Uni Soviet]] 
+|established_dates = {{br}}[[27 Oktober]] [[1991]] 
 |currency = [[Manat Turkmenistan|Manat]] 
 |currency_code = TMM
 |time_zone = 
@@ -47,7 +47,7 @@
 |calling_code = 993
 |footnotes=
 }}
-'''Turkmenistan''' adolah nagara di [[Asia Tengah|Asia Tengah]].
+'''Turkmenistan''' adolah nagara di [[Asia Tengah]].
 
 == Pembagian Wilayah ==
 
@@ -55,9 +55,9 @@ Turkmenistan dibagi menjadi lima provinsi atau ''welayatlar'' (tunggal ''welayat
 
 {{Location map+ |Turkmenistan |width=400 |float=right |caption=Peta Turkmenistan |places=
 {{Location map~ |Turkmenistan |lat=37.93333|long=58.36667 |label=Ashgabat }}
-{{Location map~ |Turkmenistan |lat=39.51667|long=54.36667 |label=Balkanabat <br> |position=left}}
-{{Location map~ |Turkmenistan |lat=41.83333|long=59.96667 |label=Daşoguz <br> |position=left}}
-{{Location map~ |Turkmenistan |lat=39.08333|long=63.56667 |label=Türkmenabat <br> |position=left}}
+{{Location map~ |Turkmenistan |lat=39.51667|long=54.36667 |label=Balkanabat <br /> |position=left}}
+{{Location map~ |Turkmenistan |lat=41.83333|long=59.96667 |label=Daşoguz <br /> |position=left}}
+{{Location map~ |Turkmenistan |lat=39.08333|long=63.56667 |label=Türkmenabat <br /> |position=left}}
 {{Location map~ |Turkmenistan |lat=37.60000|long=61.83333 |label=Mary }}
 {{Location map~ |Turkmenistan |lat=40.01315|long=52.96989 |label=Türkmenbaşy }}
 }}
@@ -66,31 +66,31 @@ Turkmenistan dibagi menjadi lima provinsi atau ''welayatlar'' (tunggal ''welayat
 
 {| class="wikitable sortable"
 |- bgcolor="#efefef"
-! Provinsi !! [[ISO 3166-2|ISO 3166-2]] !! Ibukota!! Luas<ref name=yb2005>''Statistical Yearbook of Turkmenistan 2000-2004'', National Institute of State Statistics and Information of Turkmenistan, Ashgabat, 2005.</ref> !!  Jumlah Penduduk (2005)<ref name=yb2005/>!! Key
+! Provinsi !! [[ISO 3166-2]] !! Ibukota!! Luas<ref name=yb2005>''Statistical Yearbook of Turkmenistan 2000-2004'', National Institute of State Statistics and Information of Turkmenistan, Ashgabat, 2005.</ref> !!  Jumlah Penduduk (2005)<ref name=yb2005/>!! Key
 |-
 ! Kota Ashgabat 
-| || [[Ashgabat|Ashgabat]] ||{{convert|470|km2|sqmi|abbr=on}} || 871,500 ||
+| || [[Ashgabat]] ||{{convert|470|km2|sqmi|abbr=on}} || 871,500 ||
 |-
-! [[Provinsi Ahal|Provinsi Ahal]]
-| TM-A || [[Anau|Anau]] || {{convert|97160|km2|sqmi|abbr=on}} || 939,700 || 1
+! [[Provinsi Ahal]]
+| TM-A || [[Anau]] || {{convert|97160|km2|sqmi|abbr=on}} || 939,700 || 1
 |-
-! [[Provinsi Balkan|Provinsi Balkan]]
-| TM-B || [[Balkanabat|Balkanabat]]　|| {{convert|139270|km2|sqmi|abbr=on}} || 553,500 || 2
+! [[Provinsi Balkan]]
+| TM-B || [[Balkanabat]]　|| {{convert|139270|km2|sqmi|abbr=on}} || 553,500 || 2
 |-
-! [[Provinsi Daşoguz|Provinsi Daşoguz]]
-| TM-D || [[Daşoguz|Daşoguz]] || {{convert|73430|km2|sqmi|abbr=on}} ||1,370,400 ||3
+! [[Provinsi Daşoguz]]
+| TM-D || [[Daşoguz]] || {{convert|73430|km2|sqmi|abbr=on}} ||1,370,400 ||3
 |-
-! [[Provinsi Lebap|Provinsi Lebap]]
-| TM-L || [[Türkmenabat|Türkmenabat]] || {{convert|93730|km2|sqmi|abbr=on}} || 1,334,500 || 4
+! [[Provinsi Lebap]]
+| TM-L || [[Türkmenabat]] || {{convert|93730|km2|sqmi|abbr=on}} || 1,334,500 || 4
 |-
-! [[Provinsi Mary|Provinsi Mary]]
+! [[Provinsi Mary]]
 | TM-M || [[Mary, Turkmenistan|Mary]] ||{{convert|87150|km2|sqmi|abbr=on}} || 1,480,400 || 5
 |}
 
 == Warisan ==
 
 {| class="toc" cellpadding=0 cellspacing=2 width=1000px style="float:center; margin: 0.5em 0.5em 0.5em 1em; padding: 0.5e text-align:left;clear:all; margin-left:3px; font-size:90%"
-|colspan=6 style="background:#black; color:white;" align=center bgcolor="green"|'''Daftar [[Situs Warisan Dunia|Situs Warisan Dunia]] di Turkmenistan'''
+|colspan=6 style="background:#black; color:white;" align=center bgcolor="green"|'''Daftar [[Situs Warisan Dunia]] di Turkmenistan'''
 |-
 ! style="background:#e8e8e8;" | '''Gambar'''
 ! style="background:#e8e8e8;" | '''Nama'''
@@ -99,31 +99,31 @@ Turkmenistan dibagi menjadi lima provinsi atau ''welayatlar'' (tunggal ''welayat
 ! style="background:#e8e8e8;" | '''Tanggal Penambahan'''
 ! style="background:#e8e8e8;" | '''Tipe'''
 |-
-| style="background:#efefef;" align=center|[[File:Cyark merv 3.jpg|80px]]
+| style="background:#efefef;" align=center|[[Berkas:Cyark merv 3.jpg|80px]]
 | style="background:#efefef;" align=left|'''[[Merv|Ancient Merv]]''' 
-| style="background:#efefef;" align=left|[[Mary|Mary]]
-| style="background:#efefef;" align=left|[[Kota|Kota]]-[[Oase|Oase]] utama di [[Asia Tengah|Asia Tengah]], pada masa [[Jalur Sutra|Jalur Sutra]]
+| style="background:#efefef;" align=left|[[Mary]]
+| style="background:#efefef;" align=left|[[Kota]]-[[Oase]] utama di [[Asia Tengah]], pada masa [[Jalur Sutra]]
 | style="background:#efefef;" align=center|1995
 | style="background:#efefef;" | Budaya<ref>UNESCO. ''[http://whc.unesco.org/en/list/886 Ancient Merv State Historical and Cultural Park.]''</ref> 
 |-
-| align=center|[[File:KonyeUrgenchMinaret.jpg|80px]]
-| align=left| '''[[Köneürgenç|Köneürgenç]]'''
-| align=left|[[Köneürgenç|Köneürgenç]]
-| align=left|Reruntuhan ibukota [[Khwarezmia|Khwarezmia]] pada abad ke-XII
+| align=center|[[Berkas:KonyeUrgenchMinaret.jpg|80px]]
+| align=left| '''[[Köneürgenç]]'''
+| align=left|[[Köneürgenç]]
+| align=left|Reruntuhan ibukota [[Khwarezmia]] pada abad ke-XII
 | align=center|2005
 | align=center|Budaya<ref>UNESCO. ''[http://whc.unesco.org/en/list/1199 Köneürgenç.]''</ref> 
 |-
 | style="background:#efefef;" align=center|
-| style="background:#efefef;" align=left| Benteng [[Parthia|Parthia]] '''[[Nisa, Turkmenistan|Nisa]]'''
-| style="background:#efefef;" align=left|[[Bagyr|Bagyr]], [[Provinsi Ahal|Provinsi Ahal]]
-| style="background:#efefef;" align=left|Salah satu ibukota pertama [[Kekaisaran Parthia|Kekaisaran Parthia]]
+| style="background:#efefef;" align=left| Benteng [[Parthia]] '''[[Nisa, Turkmenistan|Nisa]]'''
+| style="background:#efefef;" align=left|[[Bagyr]], [[Provinsi Ahal]]
+| style="background:#efefef;" align=left|Salah satu ibukota pertama [[Kekaisaran Parthia]]
 | style="background:#efefef;" align=center|2007
 | style="background:#efefef;" | Budaya<ref>UNESCO. ''[http://whc.unesco.org/en/list/1242 Nisa Fortress.]''</ref> 
 |-
 |}
 
 == Lihat pula ==
-* [[Daftar negara-negara di dunia|Daftar negara-negara di dunia]]
+* [[Daftar negara-negara di dunia]]
 
 == Rujukan ==
 {{reflist}}
@@ -138,7 +138,7 @@ Turkmenistan dibagi menjadi lima provinsi atau ''welayatlar'' (tunggal ''welayat
 {{Asia Tengah}}
 {{Asia}}
 
-[[Category:Nagara]]
+[[Kategori:Nagara]]
 
 [[ace:Turkmènistan]]
 [[af:Turkmenistan]]
@@ -151,6 +151,7 @@ Turkmenistan dibagi menjadi lima provinsi atau ''welayatlar'' (tunggal ''welayat
 [[arz:توركمينيستان]]
 [[ast:Turkmenistán]]
 [[az:Türkmənistan]]
+[[ba:Төрөкмәнстан]]
 [[bar:Tuakmenien]]
 [[bat-smg:Torkmienėstans]]
 [[bcl:Turkmenistan]]
