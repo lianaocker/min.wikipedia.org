@@ -1,51 +1,27 @@
-{{Infobox kota
-| name                    = Riau
-| native_name             = ''Riau''<!-- If different from name -->
-| native_name_lang        = id<!-- ISO 639 code e.g. "id" for Indonesian -->
-| type                    = [[Provinsi di Indonesia|Provinsi]]
-| image_skyline           = 
-| image_alt               = 
-| image_caption           = 
-| image_seal              = Riau COA.svg
-| seal_alt                = 
-| nickname                = 
-| motto                   = 
-| image_map               = IndonesiaRiau.png
-| map_alt                 = 
-| map_caption             = Lokasi Riau di Indonesia
-| latd  = 0|latm  = 32|lats  = |latNS  = N
-| longd = 101|longm = 27|longs = |longEW = E
-| coor_pinpoint           = 
-| coordinates_type        = region:ID_type:adm1st
-| coordinates_display     = inline,title
-| coordinates_footnotes   = 
-| subdivision_type        = Nagara
-| subdivision_name        = {{Flag|Indonesia}}
-| established_title       = 
-| established_date        = 
-| founder                 = 
-| named_for               = 
-| seat_type               = Ibukota
-| seat                    = Pekanbaru
-| government_footnotes    = 
-| leader_party            = 
-| leader_title            = Gubernur
-| leader_name             = Rusli Zainal
-| unit_pref               = Metric<!-- or US or UK -->
-| area_footnotes          = 
-| area_total_km2          = 72569
-| area_note               = 
-| elevation_footnotes     = 
-| elevation_m             = 
-| population_footnotes    = 
-| population_total        = 6302786
-| population_as_of        = 2010
-| population_density_km2  = auto
-| population_note         = 
-| demographics_type1      = Demografi 
-| demographics1_footnotes = <!-- for references: use <ref> tags -->
-| demographics1_title1    = [[Etnis]]
-| demographics1_info1     = [[Suku Melayu|Melayu]] (38%), [[Suku Jawa|Jawa]] (25%), [[Suku Minangkabau|Minangkabau]] (11%), [[Suku Batak|Batak]] (7%), [[Suku Banjar|Banjar]] (4%), [[Cino-Indonesia|Cino]] (4%), [[Suku Bugis|Bugis]] (2%)<ref>{{Cite book
+{{Kotakinfo provinsi
+|nama=Riau
+|lambang=Riau COA.svg
+|peta=IndonesiaRiau.png
+|koordinat=1º 15' [[Lintang Selatan|LS]] - 4º 45' [[Lintang Utara|LU]]{{br}}100º 03' - 109º 19' [[Bujur Timur|BT]]
+|motto=
+|dasar hukum=
+|tanggal=[[9 Agustus]] [[1957]] (hari jadi)
+|ibukota=[[Pekanbaru]]
+|gubernurlink=Gubernur Riau
+|nama gubernur=[[Rusli Zainal]]
+| dau = Rp. 380.051.123.500,-
+| dauref =(2011)<ref>{{cite web|url=http://www.djpk.depkeu.go.id/regulation/27/tahun/2011/bulan/02/tanggal/17/id/590/|title=Perpres No. 6 Tahun 2011|date=2011-02-17|accessdate=2011-05-23}}</ref>
+|luas=87023,66
+|luasref=<ref>www.depdagri.go.id [http://www.depdagri.go.id/media/documents/2008/03/04/Permen_No.06-2008.doc Permendagri Nomor 6 Tahun 2008]</ref>
+<!-- PERLU UPDATE * Daratan: 94.561,60 km<sup>2</sup> (28,67%)-->
+|penduduk=5543031
+|penduduktahun=2010
+|pendudukref=<ref> Badan Pusat Statistik Riau </ref>
+|kabupaten=10
+|kota=2
+|kecamatan=
+|kelurahan=
+|suku=[[Suku Melayu|Melayu]] (37,74%), [[Suku Jawa|Jawa]] (25,05%), [[Suku Minangkabau|Minangkabau]] (11,26%), [[Suku Batak|Batak]] (7,31%), [[Suku Banjar|Banjar]] (3,78%), [[Tionghoa]] (3,72%), [[Suku Bugis|Bugis]] (2,27%), lain-lain (8,87%) <ref>{{cite book
   | last = 
   | first =
   | publisher=Institute of Southeast Asian Studies
@@ -53,19 +29,12 @@
   | date =
   | year =2003
   | url =
-  | accessdate =  }}</ref>
-| demographics1_title2    = [[Agamo]]
-| demographics1_info2     = [[Islam]] (88%), [[Kristen]] (1%), [[Katolik]] (5%), [[Budha]] (0.6%), [[Hindu]] (0.2%)
-| demographics1_title3    = [[Baso]]
-| demographics1_info3     = [[Baso Melayu|Melayu]], [[Baso Indonesia|Indonesia]], [[Baso Minangkabau|Minangkabau]]
-| timezone1               = [[Pambagian waktu di Indonesia|WIB]] ([[UTC+7]])
-| utc_offset1             = 
-| postal_code_type        = 
-| postal_code             = 
-| area_code_type          = 
-| area_code               = 
-| website                 = [http://www.riau.go.id www.riau.go.id]
-| footnotes               = 
+  | accessdate =  }}</ref> 
+|agama=<!-- PERLU UPDATE -->[[Islam]] (87.98%), [[Protestan]] (8.8%), [[Buddha]] (2.05%),[[Katolik]] (0.9%) , lainnya (0.36%) |web=[http://sp2010.bps.go.id/index.php/site/tabel?tid=321&wid=1400000000] 
+|bahasa=[[Bahasa Melayu]], [[Bahasa Minangkabau]], [[Bahasa Indonesia]]
+|zona=[[WIB]]
+|lagu=Lancang Kuning, Soleram, Langgam Melayu, Kutang Barendo, Lenggang Kangkung, Ayam Putih Pungguk, Hymne Melayu, Satelit Zapin, Zapin Laksmana Raja di Laut, Zapin Pantai Solop, Gulai Kokek Asam Durian, Tuanku Tambusai, Pucuk Pisang, Sekapur Sirih
+|web=[http://www.riau.go.id http://www.riau.go.id]
 }}
 '''Riau''' adolah sabuah provinsi di [[Indonesia]]. Provinsi ko talatak di sabalah timur pulau [[Sumatra]], babateh provinsi [[Kepulauan Riau]] jo Selat Malaka di sabalah utara, [[Sumatra Barat]] jo [[Sumatra Utara]] di sabelah barat, Lauik Cino Selatan (Kep. Riau) di sabalah timur, sarato [[Jambi]] jo Selat Berhala di sabalah selatan. 
 
