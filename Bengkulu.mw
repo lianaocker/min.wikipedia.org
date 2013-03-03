@@ -1,71 +1,38 @@
-{{Infobox kota
-| name                    = Bengkulu
-| native_name             = <!-- If different from name -->
-| native_name_lang        = id<!-- ISO 639 code e.g. "id" for Indonesian -->
-| type                    = [[Provinsi di Indonesia|Provinsi]]
-| image_skyline           = 
-| image_alt               = 
-| image_caption           = 
-| image_seal              = Bengkulu coa.png
-| seal_alt                = 
-| nickname                = 
-| motto                   = 
-| image_map               = IndonesiaBengkulu.png
-| map_alt                 = 
-| map_caption             = Location of Bengkulu in Indonesia
-| latd  = 3|latm  = 48|lats  = |latNS  = S
-| longd = 102|longm = 15|longs = |longEW = E
-| coor_pinpoint           = 
-| coordinates_type        = region:ID_type:adm1st
-| coordinates_display     = inline,title
-| coordinates_footnotes   = 
-| subdivision_type        = Nagara
-| subdivision_name        = Indonesia
-| established_title       = 
-| established_date        = 
-| founder                 = 
-| named_for               = 
-| seat_type               = Ibukota
-| seat                    = Bengkulu
-| government_footnotes    = 
-| leader_party            = 
-| leader_title            = Gubernur
-| leader_name             = Agusrin Maryono Najamuddin
-| unit_pref               = Metric<!-- or US or UK -->
-| area_footnotes          = 
-| area_total_km2          = 21168
-| area_note               = 
-| elevation_footnotes     = 
-| elevation_m             = 
-| population_footnotes    = 
-| population_total        = 1567432
-| population_as_of        = 2000
-| population_density_km2  = auto
-| population_note         = 
-| demographics_type1      = Demografi 
-| demographics1_footnotes = <!-- for references: use <ref> tags -->
-| demographics1_title1    = Kalompok etnik
-| demographics1_info1     = [[Suku Jawa|Jawa]] (22,3%), Rejang (21,4%), Serawai (17,9%), Lembak (4,9%), Pasemah (4,4%), [[Suku Minangkabau|Minangkabau]] (4,3%), [[Suku Melayu|Melayu]] (3,6%), [[Suku Sunda|Sunda]] (3%), [[Suku Batak|Batak]] (2%) <ref>{{Cite web
+{{Kotakinfo provinsi
+| nama=Bengkulu
+| lambang=Bengkulu coa.png
+| peta=Locator bengkulu final.png
+| koordinat=5º 40' - 2º 0' [[Lintang Selatan|LS]]{{br}}100º 40' - 104º 0' [[Bujur Timur|BT]]
+| motto=
+| tanggal=
+| ibukota=[[Kota Bengkulu]]
+| gubernurlink=Gubernur Bengkulu
+| nama gubernur= [[Junaidi Hamzah]] (Plt.)
+| dau = Rp. 854.647.828.000.-
+| dauref = (2013)<ref>{{cite web|url=http://www.djpk.depkeu.go.id/regulation/27/tahun/2013/bulan/02/tanggal/04/id/873/|title=Perpres No. 10 Tahun 2013|date=2013-02-04|accessdate=2013-02-15}}</ref>
+| luas=19788
+| penduduk=1830869
+| penduduktahun=2011
+| penduduref=<ref>Sensus Penduduk 2011</ref>
+| kabupaten=9
+| kota=1
+| suku=[[Suku Rejang|Rejang]] (60,36%)<br />[[Suku Jawa|Jawa]] (22,31%)<br />[[Suku Serawai|Serawai]] (17,87%)<br />[[Melayu Bengkulu]] (7,93%)<br />[[Suku Lembak|Lembak]] (4,95%)<br />[[Suku Minangkabau|Minangkabau]] (4,28%)<br />[[Suku Sunda|Sunda]] (3,01%)<br /> Lain-lain (18,29%) <ref>{{cite book
   | last = 
   | first =
-  | publisher=
-  | title =Bengkulu Lumbung Nasionalis yang Cair
-  | date =February 11
-  | year =2009
-  | url =http://epaper.kompas.com
-  | accessdate =  }}</ref>
-| demographics1_title2    = [[Agamo]]
-| demographics1_info2     = [[Islam]]
-| demographics1_title3    = [[Baso]]
-| demographics1_info3     = [[Baso Indonesia|Indonesia]]
-| timezone1               = [[Pambagian waktu di Indonesia|WIB]] ([[UTC+7]])
-| utc_offset1             = 
-| postal_code_type        = 
-| postal_code             = 
-| area_code_type          = 
-| area_code               = 
-| website                 = [http://www.bengkuluprov.go.id/ bengkuluprov.go.id]
-| footnotes               = 
+  | publisher=Institute of Southeast Asian Studies
+  | title =Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape
+  | date =
+  | year =2003
+  | url =
+  | accessdate =  
+  | isbn = 9812302123}}</ref>
+| agama=[[Islam]]<br />[[Kristen Protestan]]<br />[[Kristen Katolik]]<br />[[Hindu]]<br />[[Buddha]] 
+| bahasa=[[Bahao Rejang|Rejang]]<br />[[Bahaso Melayu|Melayu Bengkulu]]<br />[[Bahaso Serawai|Serawai]]<br />[[Bahasp Pasemah|Pasemah]]<br />[[Bahaso Kaur|Kaur]]<br />[[Bahaso Enggano|Enggano]]<br />[[Bahaso Indonesia|Indonesia]]
+| zona=[[WIB]]
+| web=[http://www.bengkuluprov.go.id/ www.benguluprov.go.id]
+| rumah = Pusako Bubung Limo
+| senjata = Keris Bengkulu
+| Batik = Batik Besurek 
 }}
 
 '''Bengkulu''' adolah sabuah provinsi di [[Indonesia]]. Provinsi ko babateh jo provinsi [[Sumatra Barat]] jo [[Jambi]] di sabalah utara, [[Lampung]] di sabalah selatan, sarato [[Samudra Hindia]] di sabalah barat dan [[Sumatra Selatan]] di sabalah timur. Sadangkan ibukotanyo banamo samo yaitu koto [[Bengkulu (koto)|Bengkulu]].
@@ -74,9 +41,10 @@ Panduduak provinsi ko di tahun 2000 adolah sabanyak 1,567,432<ref>[http://dds.bp
 
 == Rujuakan ==
 {{Reflist}}
-{{stub}}
+{{indo-geo-stub}}
 
 [[Kategori:Provinsi di Indonesia]]
+[[Kategori:Bengkulu]]
 
 [[ace:Bengkulu]]
 [[ar:بنجكولو]]
