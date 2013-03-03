@@ -1,93 +1,45 @@
-{{Infobox kota
-| name                   = Jakarta
-| official_name          = Daerah Khusus Ibukota Jakarta
-| native_name            = Jayakarta
-| image_skyline          =
-| native_name2           =
-| nickname               = 
-| motto                  = ''Jaya Raya''
-| image_skyline          = Jakarta Pictures-3.jpg
-| image_size             =
-| image_caption          = Panorama Jakarta.
-| image_flag             =
-| image_seal             =
-| image_blank_emblem     = Jakarta COA.svg
-| image_shield           =
-| image_map              =
-| mapsize                =
-| map_caption            = Lokasi Jakarta di Indonesia
-| pushpin_map            = Indonesia
-| coordinates_display    = inline,title
-| coordinates_region     = ID
-| subdivision_type       = Nagara
-| subdivision_name       = Indonesia
-| subdivision_type1      = Provinsi
-| subdivision_name1      = Jakarta
-| subdivision_type2      =
-| subdivision_name2      =
-| subdivision_type3      =
-| subdivision_name3      =
-| subdivision_type4      =
-| subdivision_name4      =
-| government_type        = 
-| leader_title           = Gubernur
-| leader_name            = [[Joko Widodo]]
-| leader_title1          = <!-- for places with, say, both a mayor and a city manager -->
-| leader_name1           =
-| leader_title2          =
-| leader_name2           =
-| leader_title3          =
-| leader_name3           =
-| established_title      = <!-- Settled -->
-| established_date       =
-| established_title2     = <!-- Incorporated (town) -->
-| established_date2      =
-| established_title3     = <!-- Incorporated (city) -->
-| established_date3      =
-| area_magnitude         =
-| area_total_km2         = 740.28
-| area_total_sq_mi       =
-| area_land_km2          = 662.33
-| area_land_sq_mi        =
-| area_water_km2         = 6977.5
-| area_water_sq_mi       =
-| area_water_percent     =
-| area_urban_km2         =
-| area_urban_sq_mi       =
-| area_metro_km2         =
-| area_metro_sq_mi       =
-| population_as_of       = 2008
-| population             = 8792000
-| population_footnotes   =
-| population_note                = <ref name="DKCS">{{Cite web|url=http://www.kependudukancapil.go.id/index.php?option=com_content&view=article&id=4&Itemid=63 |title=Penduduk Provinsi DKI Jakarta: Penduduk Provinsi DKI Jakarta Januari 2008 (Demographics and Civil Records Service: Population of the Province of Jakarta January 2008 |publisher=Kependudukancapil.go.id |date= |accessdate=2010-04-27}}</ref>
-| population_total               = 8,500,000
-| population_density_km2         = 12957.31
-| population_metro               = 24,094,000
-| population_density_metro_km2   =
-| population_urban               =
-| population_density_urban_km2   =
-| population_blank1_title        =
-| population_blank1              =
-| population_density_blank1_km2 =
-| timezone               = [[Waktu di Indonesia|WIB]]
-| utc_offset             = +7
-| timezone_DST           =
-| utc_offset_DST         =
-| latd  =   6 | latm  = 12 | lats  =  | latNS  = S
-| longd = 106 | longm = 48 | longs =  | longEW = E
-| elevation_m            = 7
-| elevation_ft           =
-| postal_code_type       = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
-| postal_code            =
-| area_code              = +6221
-| website                = [http://www.jakarta.go.id/ www.jakarta.go.id (official site)]
-[http://jakarta-tourism.go.id/wisatadkiapp/ Enjoy Jakarta (tourism site)]
-| footnotes              =
+{{Kotakinfo provinsi
+| nama             =[[Daerah Khusus Ibukota]] Jakarta
+| foto             =Jakarta Pictures-4.jpg
+| size             =250px
+| caption          =(Dari ateh, kiri ka kanan): [[Kota Tua Jakarta]], [[Hotel Indonesia|Bundaran Hotel Indonesia]], Cakrawala Jakarta, [[Stadion Gelora Bung Karno]], [[Taman Mini Indonesia Indah]], [[Monumen Nasional]], [[Istana Merdeka]], [[Masjid Istiqlal]]
+| lambang          =Jakarta COA.svg
+| peta             =Locator jakarta final.png
+| koordinat        =5° 19' 12" - 6° 23' 54" [[Lintang Selatan|LS]]{{br}}106° 22' 42" - 106° 58' 18" [[Bujur Timur|BT]]
+| motto            ="Jaya Raya"{{br}}<small>("Jaya dan Besar (Agung)")</small>
+| dasar hukum      =UURI Nomor 29 Tahun 2007
+| tanggal          =[[22 Juni]] [[1527]] (hari jadi)
+| ibukota          =Jakarta
+| gubernurlink     =Gubernur DKI Jakarta
+| nama gubernur    =Ir. H. [[Joko Widodo]]
+| wakilgubernurlink =Wakil Gubernur DKI Jakarta
+| nama wakil gubernur =Ir. [[Basuki Tjahaja Purnama]]. M.M
+| dau = Rp. 209.909.442.000,-
+| dauref =(2011)<ref>{{cite web|url=http://www.djpk.depkeu.go.id/regulation/27/tahun/2011/bulan/02/tanggal/17/id/590/|title=Perpres No. 6 Tahun 2011|date=2011-02-17|accessdate=2011-05-23}}</ref>
+| luas             =740,3
+| luasref          =
+|penduduk          =9607787
+|penduduktahun     =2010
+|pendudukref       =<ref name=sensus2010>Badan Pusat Statistik. [http://www.bps.go.id/aboutus.php?sp=0&kota=31 Tabel Hasil Sensus Penduduk 2010 Provinsi DKI JAKARTA], diakses pada 11 Maret 2012</ref>
+| kabupaten        =1
+| kota             =5
+| kecamatan        =44
+| kelurahan        =267
+| agama            =[[Islam]] (83%), [[Protestan]] (6,2%), [[Katolik]] (5,7%), [[Buddha]] (3,5%), [[Hindu]] (1,2%)<ref>Sesuai data resmi Dinas Kependudukan Jakarta tahun 2005)</ref>
+| suku             =[[Suku Jawa|Jawa]] (35,16%), [[Orang Betawi|Betawi]] (27,65%), [[Suku Sunda|Sunda]] (15,27%), [[Tionghoa-Indonesia|Tionghoa]] (5,53%), [[Suku Batak|Batak]] (3,61%), [[Suku Minang|Minang]] (3,18%), [[Suku Melayu|Melayu]] (1,62%), Lain-lain (7,98%).<ref>{{cite book|last=|first=|publisher=Institute of Southeast Asian Studies|title=Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape|date=|year=2003|url=|accessdate=|isbn=9812302123}}</ref>
+| bahasa           =[[Bahaso Indonesia|Indonesia]], [[bahaso Betawi|Betawi]], [[bahaso Jawa|Jawa]], [[bahaso Tionghoa|Tionghoa]], [[bahaso Sunda|Sunda]], [[bahaso Minangkabau|Minangkabau]], [[bahaso Batak|Batak]], [[bahaso Inggris|Inggris]]
+| zona             =[[WIB]] ([[UTC]]+7)
+| lagu             =Kicir-Kicir
+| rumah            =Rumah Bapang/Kebaya
+| senjata          =[[Golok]]
+| web              =[http://www.jakarta.go.id www.jakarta.go.id]
 }}
 '''Jakarta''' atau '''Daerah Khusus Ibukota Jakarta''' marupokan [[ibukota]] dan koto paliang gadang di [[Indonesia]], nan talatak di pantai utara pulau [[Jawa]], Jakarta ko marupokan pusek ekonomi jo politik di Indonesia. Panduduk asli di siko adolah [[urang Betawi]], tapi lah banyak juo [[urang Jawa]] jo [[urang Sunda]] di Jakarta.
 
 ==Rujuakan==
 {{Reflist}}
+
+{{indo-geo-stub}}
 
 [[Kategori:Jakarta| ]]
 [[Kategori:Provinsi di Indonesia]]
