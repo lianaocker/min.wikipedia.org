@@ -1,0 +1,65 @@
+[[Berkas:Geometric progression convergence diagram.svg|thumb|350px|Diagram nan menunjukkan jumalah 1 + 1/2 + 1/4 + 1/8 + ... adolah mendekati 2.]]
+
+'''Deret ukur''' dalam bidang [[matematika]] adolah urutan [[bilangan]] ko mana [[bilangan]] berikutnya adolah perkalian dari bilangan sebelumnya nan suatu bilangan [[rasio]] tertentu. Deret ukur dapat dinyatakan nan rumus sabagai berikut:
+
+:<math>ar^0=a,ar^1=ar,ar^2,ar^3,...\,</math> 
+
+dimana ''r'' ≠ 0 adolah bilangan rasio pengali jo ''a'' adolah faktor skala. Dalam hal ko suku ke-n:
+
+:<math>a_n = a\,r^{n-1}</math>
+
+Jumalah semua suku:
+:<math>
+ \sum_{k=0}^{n-1} ar^k  =  \frac{a(r^{n}-1)}{r-1} </math> untuk r > 1, dan
+<math> 
+\sum_{k=0}^{n-1} ar^k   =  \frac{a(1-r^{n})}{1-r} </math> untuk r < 1.
+
+{{matematika-stub}}
+
+[[Kategori:Matematika]]
+
+[[am:የጆሜትሪክ ድርድር]]
+[[ar:متتالية هندسية]]
+[[az:Həndəsi silsilə]]
+[[be:Геаметрычная прагрэсія]]
+[[bg:Геометрична прогресия]]
+[[bs:Geometrijska progresija]]
+[[ca:Progressió geomètrica]]
+[[cs:Geometrická posloupnost]]
+[[da:Geometrisk række]]
+[[de:Geometrische Folge]]
+[[el:Γεωμετρική πρόοδος]]
+[[en:Geometric progression]]
+[[es:Progresión geométrica]]
+[[et:Geomeetriline jada]]
+[[fa:تصاعد هندسی]]
+[[fi:Geometrinen sarja]]
+[[fr:Suite géométrique]]
+[[he:סדרה הנדסית]]
+[[hi:गुणोत्तर श्रेढ़ी]]
+[[hr:Geometrijski niz]]
+[[hu:Mértani sorozat]]
+[[io:Geometriala progresiono]]
+[[it:Progressione geometrica]]
+[[ja:等比数列]]
+[[ka:გეომეტრიული პროგრესია]]
+[[kk:Геометриялық прогрессия]]
+[[ko:등비수열]]
+[[lt:Geometrinė progresija]]
+[[mk:Геометриска прогресија]]
+[[ms:Janjang geometri]]
+[[nl:Meetkundige rij]]
+[[pl:Szereg geometryczny]]
+[[pms:Progression geométrica]]
+[[pt:Progressão geométrica]]
+[[ru:Геометрическая прогрессия]]
+[[si:ගුණෝත්තර ශ්‍රේණි]]
+[[sk:Geometrická postupnosť]]
+[[sl:Geometrijsko zaporedje]]
+[[sr:Геометријска прогресија]]
+[[sv:Geometrisk funktion]]
+[[ta:பெருக்குத் தொடர்]]
+[[th:การก้าวหน้าเรขาคณิต]]
+[[uk:Геометрична прогресія]]
+[[vi:Cấp số nhân]]
+[[zh:等比数列]]
