@@ -1,14 +1,14 @@
 [[Berkas:Geometric progression convergence diagram.svg|thumb|350px|Diagram nan menunjuakkan jumalah 1 + 1/2 + 1/4 + 1/8 + ... adolah mendekati 2.]]
 
-'''Deret ukur''' dalam bidang [[matematika]] adolah urutan [[bilangan]] ko mana [[bilangan]] berikutnya adolah perkalian dari bilangan sebelumnya nan suatu bilangan [[rasio]] tertentu. Deret ukur dapat dinyatakan nan rumus sabagai berikut:
+'''Deret ukua''' dalam bidang [[matematika]] adolah urutan [[bilangan]] nan [[bilangan]] bilangan barikuiknyo adolah pakalian dari bilangan sabalunnyo. Deret ukua dapek dinyatoan mamakai rumus:
 
 :<math>ar^0=a,ar^1=ar,ar^2,ar^3,...\,</math> 
 
-dimana ''r'' ≠ 0 adolah bilangan rasio pengali jo ''a'' adolah faktor skala. Dalam hal ko suku ke-n:
+dimano ''r'' ≠ 0 adolah bilangan rasio pangali, ''a'' adolah faktor skala. Dalam hal ko suku ke-n:
 
 :<math>a_n = a\,r^{n-1}</math>
 
-Jumalah semua suku:
+Jumlah sadoalah suku:
 :<math>
  \sum_{k=0}^{n-1} ar^k  =  \frac{a(r^{n}-1)}{r-1} </math> untuk r > 1, dan
 <math> 
