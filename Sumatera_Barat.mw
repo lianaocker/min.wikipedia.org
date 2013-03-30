@@ -1,51 +1,28 @@
-{{Infobox kota
-| name                    = Sumatera Barat
-| native_name             =
-| native_name_lang        = id<!-- ISO 639 code e.g. "id" for Indonesian -->
-| type                    = [[Provinsi di Indonesia|Provinsi]]
-| image_skyline           = 
-| image_alt               = 
-| image_caption           = 
-| image_seal              = West Sumatra coa.svg
-| seal_alt                = 
-| nickname                = 
-| motto                   = ''Tuah Sakato''
-| image_map               = Locator west sumatra.png
-| map_alt                 = 
-| map_caption             = Lokasi Sumatra Barat di Indonesia
-| latd  = 1|latm  = 00|lats  = |latNS  = S
-| longd = 100|longm = 30|longs = |longEW = E
-| coor_pinpoint           = 
-| coordinates_type        = region:ID_type:adm1st
-| coordinates_display     = inline,title
-| coordinates_footnotes   = 
-| subdivision_type        = Nagara
-| subdivision_name        = [[Berkas:Flag of Indonesia.svg|border|link=|25px]] Indonesia
-| established_title       = 
-| established_date        = 
-| founder                 = 
-| named_for               = 
-| seat_type               = Ibukota
-| seat                    = Padang
-| government_footnotes    = 
-| leader_party            = 
-| leader_title            = [[Gubernur]]
-| leader_name             = [[Irwan Prayitno|Prof. DR. Irwan Prayitno, M.Sc]]
-| unit_pref               = Metric<!-- or US or UK -->
-| area_footnotes          = 
-| area_total_km2          = 42297.30
-| area_note               = 
-| elevation_footnotes     = 
-| elevation_m             = 
-| population_footnotes    = 
-| population_total        = 4241000
-| population_as_of        = 
-| population_density_km2  = auto
-| population_note         = 
-| demographics_type1      = Demographics 
-| demographics1_footnotes = <!-- for references: use <ref> tags -->
-| demographics1_title1    = [[Ethnic groups]]
-| demographics1_info1     = [[Suku Minangkabau|Minangkabau]] (88%), [[Batak]] (4%), [[Jawa]] (4%), [[Mentawai]] (1%)<ref>{{Cite book
+{{Kotakinfo provinsi
+| nama=Sumatera Barat
+| foto=Sumatera Baratku.png
+| size=244px
+| caption=Dari kiri ke kanan: [[Bandar Udaro Internasional Minangkabau]], [[Jam Gadang]], Kantor Gubernur Sumatera Barat, [[Rumah Gadang]], [[Ngarai Sianok]] dan [[Danau Maninjau]].
+| lambang=West_Sumatra_coa.svg
+| peta=Lokasi Sumatera Barat.png
+| koordinat=3º 50' [[Lintang Selatan|LS]] - 1º 20' [[Lintang Utaro|LU]]{{br}}98º 10' - 102º 10' [[Bujur Timur|BT]]
+| motto=Tuah Sakato{{br}}<!--<small>([[Bahaso Minangkabau]]: Seia Sekata)</small>-->
+| dasar hukum =
+| tanggal =
+| ibukota=[[Koto Padang|Padang]]
+| gubernurlink=Gubernur Sumatera Barat
+| nama gubernur=[[Irwan Prayitno|Prof. DR. Irwan Prayitno, M.Sc]] (2010-2015) 
+| dau = Rp. 764.680.895.000,-
+| dauref =(2011)<ref>{{cite web|url=http://www.djpk.depkeu.go.id/regulation/27/tahun/2011/bulan/02/tanggal/17/id/590/|title=Perpres No. 6 Tahun 2011|date=2011-02-17|accessdate=2011-05-23}}</ref>
+| luas=42297,30
+| penduduk=4845998
+| penduduktahun=2010
+| pendudukref=<ref name="BPS">{{cite web| last = | first = | authorlink = | coauthors = | year = | url = http://sumbar.bps.go.id | title = Jumlah Penduduk Sumatera Barat| format = | work = | publisher = BPS Sumbar| accessdate = 29 September 2010| accessyear = | archiveurl = | archivedate =| quote =}}</ref>
+| kabupaten=12
+| kota=7
+| kecamatan=147
+| kelurahan=877
+| suku=[[Suku Minangkabau|Minangkabau]] (88,35%), [[Suku Batak|Batak]] (4,42%), [[Suku Jawa|Jawa]] (4,15%), [[Suku Mentawai|Mentawai]] (1,28%), Lain-lain (1,8%) <ref>{{cite book
   | last = 
   | first =
   | publisher=Institute of Southeast Asian Studies
@@ -54,18 +31,11 @@
   | year =2003
   | url =
   | accessdate =  }}</ref>
-| demographics1_title2    = [[Agamo]]
-| demographics1_info2     = [[Islam]] (98%), [[Kristen]] (1.6%), [[Hindu]] (0.0032%), [[Budha]] (0.26%)
-| demographics1_title3    = [[Baso]]
-| demographics1_info3     = [[Baso Indonesia|Indonesia]], [[Baso Minangkabau|Minangkabau]], [[Baso Mentawai|Mentawai]]
-| timezone1               = [[Pambagian waktu di Indonesia|WIB]] ([[UTC+7]])
-| utc_offset1             = 
-| postal_code_type        = 
-| postal_code             = 
-| area_code_type          = 0751 - 0759
-| area_code               = 
-| website                 = [http://www.sumbarprov.go.id www.sumbarprov.go.id]
-| footnotes               = 
+| agama=[[Islam]] (97.4%), [[Kristen]] (2.2%), [[Buddha]] (0,26%), [[Hindu]] (0,01%)
+| bahasa=[[Bahaso Minangkabau]], [[Bahaso Melayu]], [[Bahaso Indonesia]]
+| zona=[[WIB]]
+| lagu=[[Ayam Den Lapeh|Ayam Den Lapeh]], [[Kampuang Nan Jauah di Mato|Kampuang Nan Jauah di Mato]], [[Kambanglah Bungo|Kambanglah Bungo]], [[Minangkabau|Minangkabau]], [[Bareh Solok]], [[Tinggalah Kampuang]].
+| web=[http://www.sumbarprov.go.id www.sumbarprov.go.id]
 }}
 '''Sumatera Barat''' nan biaso disingkek '''''Sumbar''''' adolah sabuah provinsi di [[Indonesia]] nan talatak di sabalah baraik pulau [[Sumatra]]. Provinsi iko babatehan jo provinsi [[Sumatra Utara]] di sabalah Utaro, [[Riau]] jo [[Jambi]] di sabalah timua, sarato [[Bengkulu]] di sabalah Salatan. [[Kapulauan Mantawai]] nan ado di [[Samudra Hindia]] masuak kadalam wilayah administratif provinsi iko. Sadangkan [[ibukota]] dari provinsi iko adolah [[Padang]].
 
