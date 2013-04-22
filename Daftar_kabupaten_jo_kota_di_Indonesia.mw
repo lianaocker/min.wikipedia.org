@@ -188,12 +188,16 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |}
 
 == [[Sumatera Barat]] ==
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width= "30" | No
-! width="140" | Kabupaten
-! width="110" | Ibu koto
-! width="175" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Kabupaten Agam|Agam]] || [[Lubuk Basung]] ||
 |-
@@ -206,6 +210,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 5 || [[Kabupaten Padang Pariaman|Padang Pariaman]] || [[Parit Malintang]] ||
 |-
 | 6 || [[Kabupaten Pasaman|Pasaman]] || [[Lubuk Sikaping]] ||
+|-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 7 || [[Kabupaten Sijunjung|Sijunjung]] || [[Muaro Sijunjung]] ||
 |-
@@ -220,12 +233,17 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 12 || [[Kabupaten Pasaman Barat|Pasaman Barat]] || [[Simpang Empat, Pasaman Barat|Simpang Empat]] ||
 |-
 |}
+|}
 
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width= "30" | No
-! width="140" | Koto
-! width="175" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Koto Bukittinggi|Bukittinggi]] ||
 |-
@@ -235,11 +253,20 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 4 || [[Koto Pariaman|Pariaman]] || 
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
+|-
 | 5 || [[Koto Payakumbuh|Payakumbuh]] || 
 |-
 | 6 || [[Koto Sawahlunto|Sawahlunto]] || 
 |-
 | 7 || [[Koto Solok|Solok]] || 
+|}
 |}
 
 == [[Jambi]] ==
