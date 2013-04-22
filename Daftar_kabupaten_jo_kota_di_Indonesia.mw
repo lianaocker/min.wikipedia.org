@@ -3,14 +3,19 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 {{Indonesia/TOC|state=show}}
 
 == [[Aceh]] ==
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width= "30" | No
-! width="140" | Kabupaten
-! width="110" | Ibu koto
-! width="125" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 1 || [[Kabupaten Aceh Besar|Aceh Besar]] || [[Jantho]] || [[Berkas:Lokasi Aceh Kabupaten Aceh Besar.svg|125px|center]]
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
+| 1
+| [[Kabupaten Aceh Besar|Aceh Besar]] || [[Jantho]] || [[Berkas:Lokasi Aceh Kabupaten Aceh Besar.svg|125px|center]]
 |-
 | 2 || [[Kabupaten Aceh Jaya|Aceh Jaya]] || [[Calang]] || [[Berkas:Lokasi Aceh Kabupaten Aceh Jaya.svg|125px|center]]
 |-
@@ -29,6 +34,14 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 9 || [[Kabupaten Gayo Lues|Gayo Lues]] || [[Blangkejeren]] || [[Berkas:Lokasi Aceh Kabupaten Gayo Lues.svg|125px|center]]
 |-
 | 10 || [[Kabupaten Nagan Raya|Nagan Raya]] || [[Suka Makmue]] || [[Berkas:Lokasi Aceh Kabupaten Nagan Raya.svg|125px|center]]
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 11 || [[Kabupaten Aceh Utara|Aceh Utara]] || [[Lhoksukon]] || [[Berkas:Lokasi Aceh Kabupaten Aceh Utara.svg|125px|center]]
 |-
@@ -47,14 +60,18 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 18 || [[Kabupaten Aceh Barat|Aceh Barat]] || [[Meulaboh]] || [[Berkas:Lokasi Aceh Kabupaten Aceh Barat.svg|125px|center]]
 |-
 |}
+|}
 
-{| class="wikitable"
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
 ! width= "30" | No
 ! width="140" | Koto
 ! width="125" | Peta
 |-
-
 | 1 || [[Koto Banda Aceh|Banda Aceh]] || [[Berkas:Lokasi Aceh Kota Banda Aceh.svg|125px|center]]
 |-
 | 2 || [[Koto Langsa|Langsa]] || [[Berkas:Lokasi Aceh Kota Langsa.svg|125px|center]]
@@ -65,14 +82,20 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 5 || [[Koto Subulussalam|Subulussalam]] || [[Berkas:Lokasi Aceh Kota Subulussalam.svg|125px|center]]
 |}
+|}
 
 == [[Sumatera Utaro]] ==
-{| class="wikitable"
+
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Kabupaten
-! width="110" | Ibu koto
-! width="125" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Kabupaten Asahan|Asahan]] || [[Kisaran]] || [[Berkas:Lokasi Sumatera Utara Kabupaten Asahan.svg|125px|center]]
 |-
@@ -100,6 +123,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 13 || [[Kabupaten Nias Utara|Nias Utara]] || [[Lotu]] || [[Berkas:Lokasi Sumatera Utara Kabupaten Nias Utara.svg|125px|center]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 14 || [[Kabupaten Padang Lawas Utara|Padang Lawas Utara]] || [[Gunung Tua]] || [[Berkas:Lokasi Sumatera Utara Kabupaten Padang Lawas Utara.svg|125px|center]]
 |-
 | 15 || [[Kabupaten Tapanuli Utara|Tapanuli Utara]] || [[Tarutung]] || [[Berkas:Lokasi Sumatera Utara Kabupaten Tapanuli Utara.svg|125px|center]]
@@ -125,10 +157,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 25 || [[Kabupaten Nias Barat|Nias Barat]] || [[Lahomi]] || [[Berkas:Lokasi Sumatera Utara Kabupaten Nias Barat.svg|125px|center]]
 |- 
 |}
+|}
 
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+! width= "30" | No
 ! width="140" | Koto
 ! width="125" | Peta
 |-
@@ -147,6 +184,7 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 7 || [[Koto Tanjung Balai|Tanjung Balai]] ||  [[Berkas:Lokasi Sumatera Utara Kota Tanjungbalai.svg|125px|center]]
 |- 
 | 8 || [[Koto Tebing Tinggi|Tebing Tinggi]] ||  [[Berkas:Lokasi Sumatera Utara Kota Tebing Tinggi.svg|125px|center]]
+|}
 |}
 
 == [[Sumatera Barat]] ==
