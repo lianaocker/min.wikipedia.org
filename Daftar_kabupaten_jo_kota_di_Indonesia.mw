@@ -1,5 +1,18 @@
 {{tarjamah|Inggirih}}
-Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan [[koto administrasi]] di [[Indonesia]]. Kabupaten administrasi jo koto administrasi bukanlah daerah otonom, tatapi marupoan kabupaten/koto nan indak punyo DPRD.
+Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan [[koto administrasi]] di [[Indonesia]]. Kabupaten administrasi jo koto administrasi bukanlah daerah otonom, tatapi marupoan kabupaten/koto nan indak punyo DPRD.<ref>{{Cite book
+  | last = Turner
+  | first = Mark
+  | authorlink =
+  | coauthors = Owen Podger, Maria S. Sumardjono, Wayan K. Tirthayasa,
+  | title = Decentralisation in Indonesia: redesigning the state
+  | publisher = Australian National University. Asia Pacific School of Economics and Government
+  | year = 2003
+  | location =
+  | pages =
+  | url = http://books.google.com.my/books?id=50CQe7CwizEC&pg=PR7&dq=indonesian+regency&hl=en&ei=8h_ATM2BBsyecfuW-e8L&sa=X&oi=book_result&ct=result&resnum=11&ved=0CGQQ6AEwCg
+  | doi =
+  | id =
+  | isbn = 0-7315-3697-5}}</ref>
 
 == [[Aceh]] ==
 === Kabupaten ===
@@ -290,12 +303,17 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |}
 
 == [[Jambi]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Kabupaten
-! width="110" | Ibu koto
-! width="125" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Kabupaten Batang Hari|Batang Hari]] || [[Muara Bulian]] ||
 |-
@@ -307,6 +325,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 5 || [[Kabupaten Muaro Jambi|Muaro Jambi]] || [[Sengeti]] ||
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 6 || [[Kabupaten Sarolangun|Sarolangun]] || [[Sarolangun]] ||
 |-
 | 7 || [[Kabupaten Tanjung Jabung Timur|Tanjung Jabung Timur]] || [[Kuala Tungkal]] ||
@@ -316,25 +343,37 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 9 || [[Kabupaten Tebo|Tebo]] || [[Tebo]] ||
 |-
 |}
+|}
 
-{| class="wikitable"
+=== Koto ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Koto
-! width="125" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Koto Jambi|Jambi]] || 
 |-
 | 2 || [[Koto Sungai Penuh|Sungai Penuh]] ||
 |}
+|}
 
 == [[Riau]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Kabupaten
-! width="110" | Ibu koto
-! width="175" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Kabupaten Bengkalis|Bengkalis]] || [[Bengkalis]] ||
 |-
@@ -345,6 +384,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 4 || [[Kabupaten Kampar|Kampar]] || [[Bangkinang]] ||
 |-
 | 5 || [[Kabupaten Kuantan Singingi|Kuantan Singingi]] || [[Teluk Kuantan]] ||
+|-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 6 || [[Kabupaten Kapulauan Meranti|Kapulauan Meranti]] || [[Selat Panjang]] ||
 |-
@@ -357,25 +405,38 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 | 10 || [[Kabupaten Siak|Siak]] || [[Siak Sri Inderapura]] ||
 |-
 |}
+|}
 
-{| class="wikitable"
+=== Koto ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Koto
-! width="175" | Peta
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Koto Dumai|Dumai]] || 
 |-
 | 2 || [[Koto Pekanbaru|Pekanbaru]] || 
 |-
 |}
+|}
 
 == [[Bengkulu]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Central Bengkulu Regency|Central Bengkulu]] || [[Karang Tinggi]]
 |-
@@ -387,6 +448,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 5 || [[Muko-Muko Regency|Muko-Muko]] || [[Muko-Muko (city)|Muko-Muko]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 6 || [[North Bengkulu Regency|North Bengkulu]] || [[Argamakmur]]
 |-
 | 7 || [[Rejang Lebong Regency|Rejang Lebong]] || [[Curup]]
@@ -395,18 +465,36 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 9 || [[South Bengkulu Regency|South Bengkulu]] || [[Manna (city)|Manna]]
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+=== Koto ===
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Bengkulu (city)|Bengkulu]] || [[Bengkulu (city)|Bengkulu]]
 |}
+|}
 
 == [[South Sumatra]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Banyuasin Regency|Banyuasin]] || [[Pangkalan Balai]]
 |-
@@ -420,6 +508,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 6 || [[Musi Banyuasin Regency|Musi Banyuasin]] || [[Sekayu]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 7 || [[Musi Rawas Regency|Musi Rawas]] || [[Muara Beliti Baru]]
 |-
 | 8 || [[Ogan Ilir Regency|Ogan Ilir]] || [[Indralaya]]
@@ -430,24 +527,50 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 11 || [[South Ogan Komering Ulu Regency|South Ogan Komering Ulu]] || [[Muaradua]]
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+=== Koto ===
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Lubuklinggau]] || [[Lubuklinggau]]
 |-
 | 2 || [[Pagar Alam]] || [[Pagar Alam]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Koto
+!|Peta
+|-
 | 3 || [[Palembang]] || [[Palembang]]
 |-
 | 4 || [[Prabumulih]] || [[Prabumulih]]
 |}
+|}
 
 == [[Lampung]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Central Lampung Regency|Central Lampung]] || [[Gunung Sugih]]
 |-
@@ -461,6 +584,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 6 || [[Pringsewu Regency|Pringsewu]] || [[Pringsewu]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 7 || [[South Lampung Regency|South Lampung]] || [[Kalianda]]
 |-
 | 8 || [[Tanggamus Regency|Tanggamus]] || [[Kota Agung]]
@@ -473,20 +605,38 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 12 || [[West Tulang Bawang Regency|West Tulang Bawang]] || [[Central Tulang Bawang]]
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+=== Koto ===
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Bandar Lampung]] || [[Bandar Lampung]]
 |-
 | 2 || [[Metro, Indonesia|Metro]] || [[Metro, Indonesia|Metro]]
 |}
+|}
 
 == [[Bangka–Belitung Islands]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Bangka Regency|Bangka]] || [[Sungai Liat]]
 |-
@@ -494,24 +644,51 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 3 || [[Central Bangka]] || [[Koba, Indonesia|Koba]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 4 || [[East Belitung]] || [[Manggar]]
 |-
 | 5 || [[South Bangka]] || [[Toboali]]
 |-
 | 6 || [[West Bangka]] || [[Mentok]]
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+=== Koto ===
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Pangkal Pinang]] || [[Pangkal Pinang]]
 |}
+|}
 
 == [[Riau Islands]] ==
-{| class="wikitable"
+=== Kabupaten ===
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Anambas Islands]] || [[Tarempa]]
 |-
@@ -519,16 +696,37 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 3 || [[Karimun Regency|Karimun]] || [[Tanjung Balai Karimun]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 4 || [[Lingga Regency|Lingga]] || [[Daik]]
 |-
 | 5 || [[Natuna Regency|Natuna]] || Ranai
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+=== Koto ===
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Batam]] || [[Batam]]
 |-
 | 2 || [[Tanjung Pinang]] || [[Tanjung Pinang]]
+|}
 |}
 
 == [[Jakarta]] ==
@@ -1508,7 +1706,7 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 {{col-end}}
 
 == Catatan ==
-<references/>
+{{Reflist}}
 
 {{Dafta Dati II|state=show}}
 {{Koto di Indonesia}}
