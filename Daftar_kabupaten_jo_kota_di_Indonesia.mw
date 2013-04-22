@@ -208,33 +208,39 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 {| class="wikitable"
 |-
 ! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+! width="140" | Kabupaten
+! width="110" | Ibu koto
+! width="125" | Peta
 |-
-| 1 || [[Batang Hari Regency|Batang Hari]] || [[Muara Bulian]]
+| 1 || [[Kabupaten Batang Hari|Batang Hari]] || [[Muara Bulian]] ||
 |-
-| 2 || [[Bungo Regency|Bungo]] || [[Bungo (city)|Bungo]]
+| 2 || [[Kabupaten Bungo|Bungo]] || [[Bungo]] ||
 |-
-| 3 || [[Kerinci Regency|Kerinci]] || [[Siulak]]
+| 3 || [[Kabupaten Kerinci|Kerinci]] || [[Siulak]] ||
 |-
-| 4 || [[Merangin]] || [[Bangko]]
+| 4 || [[Kabupaten Merangin|Merangin]] || [[Bangko]] ||
 |-
-| 5 || [[Muaro Jambi Regency|Muaro Jambi]] || [[Sengeti]]
+| 5 || [[Kabupaten Muaro Jambi|Muaro Jambi]] || [[Sengeti]] ||
 |-
-| 6 || [[Sarolangun Regency|Sarolangun]] || [[Sarolangun]]
+| 6 || [[Kabupaten Sarolangun|Sarolangun]] || [[Sarolangun]] ||
 |-
-| 7 || [[East Tanjung Jabung]] || [[Kuala Tungkal]]
+| 7 || [[Kabupaten Tanjung Jabung Timur|Tanjung Jabung Timur]] || [[Kuala Tungkal]] ||
 |-
-| 8 || [[West Tanjung Jabung]] || [[Muara Sabak]]
+| 8 || [[Kabupaten Tanjung Jabung Barat|Tanjung Jabung Barat]] || [[Muara Sabak]] ||
 |-
-| 9 || [[Tebo]] || [[Tebo (city)|Tebo]]
+| 9 || [[Kabupaten Tebo|Tebo]] || [[Tebo]] ||
 |-
-! No
-! colspan="2" |City
+|}
+
+{| class="wikitable"
 |-
-| 1 || [[Jambi]] || [[Jambi]]
+! width="30" | No
+! width="140" | Koto
+! width="125" | Peta
 |-
-| 2 || [[Sungai Penuh]] || [[Sungai Penuh]]
+| 1 || [[Koto Jambi|Jambi]] || 
+|-
+| 2 || [[Koto Sungai Penuh|Sungai Penuh]] ||
 |}
 
 == [[Riau]] ==
