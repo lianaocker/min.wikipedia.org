@@ -1,8 +1,30 @@
-[[Berkas:Leucaena leucocephala.jpg|right|thumb|180px|Patai cino]]
+{{Taxobox
+| name               = Lamtoro
+| image              = Leucaena_leucocephala.jpg
+| image_width        = 240px
+| regnum             = [[Plantae]]
+| divisio            = [[Flowering plant|Magnoliophyta]]
+| classis            = [[Magnoliopsida]]
+| ordo               = [[Fabales]]
+| familia            = [[Fabaceae]]
+| subfamilia         = [[Mimosoideae]]
+| genus              = ''[[Leucaena]]''
+| species            = '''''L. leucocephala'''''
+| binomial           = ''Leucaena leucocephala''
+| binomial_authority = ([[Jean-Baptiste Lamarck|Lamk.]]) [[de Wit]], 1961<ref>{{aut|de Wit, H.C.D.}}  1961.  Typification and correct name of ''Acacia villosa'' Willd. and ''Leucaena glauca'' (L.) Bth.  [http://www.jstor.org/discover/10.2307/1217452?uid=3738224&uid=2129&uid=2&uid=70&uid=4&sid=21102025236851 ''Taxon'', '''10'''(2): 54]</ref>
+| synonyms           = 
+* ''Acacia leucocephala'', <small>Lam., 1783</small><ref>{{aut|Lamarck, J.B.}}  1783.  [http://www.biodiversitylibrary.org/item/15259#page/61/mode/1up ''Encycl. Méth. Bot.'' '''1''': 12]</ref><br>
+* ''Mimosa glauca'', <small>Linn., 1763</small><ref>{{aut|Linnaeus, C.}}  1763.  ''Species plantarum: exhibentes plantas ...'' [http://www.biodiversitylibrary.org/item/43462#page/721/mode/1up Ed. 2 T. '''II''': 1504.]</ref> <small>(misappl.)</small><br>
+* ''Acacia glauca'', <small>(Linn.) Willd., 1806</small><ref>{{aut|Willdenow, C.L.}}  1806.  ''Species plantarum: exhibentes plantas ...''  [http://www.biodiversitylibrary.org/item/84239#page/451/mode/1up Ed. 4 T. '''II'''(2): 1075.]</ref> <br>
+* ''Leucaena glauca'', <small>(Linn.) Benth., 1842</small><ref>{{aut|Bentham, G.}}  1842.  Notes on Mimoseae, with a short synopsis of species.  ''The Journal of Botany''. [http://biodiversitylibrary.org/item/6311#page/422/mode/1up v. '''4''': 416.]</ref> 
+}}
 '''Patai cino''', '''petai cina''', atau '''petai selong''' (''Leucaena leucocephala'') adolah [[perdu]]-perduan dari suku [[Fabaceae]] yang sering digunakan untuk penghijauan/pencegah erosi. Bisa juga dimakan.
 
 == Lihat juga ==
 * [[Turi]]
+
+== Rujuakan ==
+{{Reflist}}
 
 == Pautan lua ==
 {{commonscat}}
@@ -12,7 +34,7 @@
 
 {{Wikispecies|Leucaena leucocephala}}
 
-{{stub}}
+{{tumbuhan-stub}}
 
 [[Kategori:Fabaceae]]
 [[Kategori:Flora Indonesia]]
