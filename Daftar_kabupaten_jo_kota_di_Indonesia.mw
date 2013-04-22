@@ -241,35 +241,41 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 {| class="wikitable"
 |-
 ! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+! width="140" | Kabupaten
+! width="110" | Ibu koto
+! width="175" | Peta
 |-
-| 1 || [[Bengkalis Regency]] || [[Bengkalis]]
+| 1 || [[Kabupaten Bengkalis|Bengkalis]] || [[Bengkalis]] ||
 |-
-| 2 || [[Indragiri Hilir]] || [[Tembilahan]]
+| 2 || [[Kabupaten Indragiri Hilir|Indragiri Hilir]] || [[Tembilahan]] ||
 |-
-| 3 || [[Indragiri Hulu Regency]] || [[Rengat]]
+| 3 || [[Kabupaten Indragiri Hulu|Indragiri Hulu]] || [[Rengat]] ||
 |-
-| 4 || [[Kampar Regency]] || [[Bangkinang]]
+| 4 || [[Kabupaten Kampar|Kampar]] || [[Bangkinang]] ||
 |-
-| 5 || [[Kuantan Singingi]] || [[Teluk Kuantan]]
+| 5 || [[Kabupaten Kuantan Singingi|Kuantan Singingi]] || [[Teluk Kuantan]] ||
 |-
-| 6 || [[Meranti Islands]] || [[Selat Panjang]]
+| 6 || [[Kabupaten Kapulauan Meranti|Kapulauan Meranti]] || [[Selat Panjang]] ||
 |-
-| 7 || [[Pelalawan]] || [[Pangkalan Kerinci]]
+| 7 || [[Kabupaten Pelalawan|Pelalawan]] || [[Pangkalan Kerinci]] ||
 |-
-| 8 || [[Rokan Hulu]] || [[Pasir Pangaraian]]
+| 8 || [[Kabupaten Rokan Hulu|Rokan Hulu]] || [[Pasir Pangaraian]] ||
 |-
-| 9 || [[Rokan Hilir]] || [[Bagansiapiapi]]
+| 9 || [[Kabupaten Rokan Hilir|Rokan Hilir]] || [[Bagansiapiapi]] ||
 |-
-| 10 || [[Siak Regency]] || [[Siak Sriindrapura]]
+| 10 || [[Kabupaten Siak|Siak]] || [[Siak Sri Inderapura]] ||
 |-
-! No
-! colspan="2" |City
+|}
+
+{| class="wikitable"
 |-
-| 1 || [[Dumai]] || [[Dumai]]
+! width="30" | No
+! width="140" | Koto
+! width="175" | Peta
 |-
-| 2 || [[Pekanbaru]] || [[Pekanbaru]]
+| 1 || [[Koto Dumai|Dumai]] || 
+|-
+| 2 || [[Koto Pekanbaru|Pekanbaru]] || 
 |-
 |}
 
