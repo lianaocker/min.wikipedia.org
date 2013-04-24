@@ -831,23 +831,23 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 !|Ibu koto
 !|Peta
 |-
-| 1 || [[Bandung Regency|Bandung]] || [[Soreang]]
+| 1 || [[Bandung Regency|Bandung]] || [[Soreang]] ||
 |-
-| 2 || [[Bekasi Regency|Bekasi]] || [[Cikarang]]
+| 2 || [[Bekasi Regency|Bekasi]] || [[Cikarang]] ||
 |-
-| 3 || [[Bogor Regency|Bogor]] || [[Cibinong]]
+| 3 || [[Bogor Regency|Bogor]] || [[Cibinong]] ||
+|- 
+| 4 || [[Ciamis Regency|Ciamis]] || [[Ciamis]] ||
 |-
-| 4 || [[Ciamis Regency|Ciamis]] || [[Ciamis]]
+| 5 || [[Cianjur Regency|Cianjur]] || [[Cianjur]] ||
 |-
-| 5 || [[Cianjur Regency|Cianjur]] || [[Cianjur]]
+| 6 || [[Cirebon Regency|Cirebon]] || [[Sumber]] ||
 |-
-| 6 || [[Cirebon Regency|Cirebon]] || [[Sumber]]
+| 7 || [[Garut Regency|Garut]] || [[Garut]] ||
 |-
-| 7 || [[Garut Regency|Garut]] || [[Garut]]
+| 8 || [[Indramayu Regency|Indramayu]] || [[Indramayu]] ||
 |-
-| 8 || [[Indramayu Regency|Indramayu]] || [[Indramayu]]
-|-
-| 9 || [[Karawang Regency|Karawang]] || [[Karawang]]
+| 9 || [[Karawang Regency|Karawang]] || [[Karawang]] ||
 |-
 |}
 |valign="top"|
@@ -858,21 +858,21 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 !|Ibu koto
 !|Peta
 |-
-| 10 || [[Kuningan Regency|Kuningan]] || [[Kuningan]]
+| 10 || [[Kuningan Regency|Kuningan]] || [[Kuningan]] ||
 |-
-| 11 || [[Majalengka Regency|Majalengka]] || [[Majalengka]]
+| 11 || [[Majalengka Regency|Majalengka]] || [[Majalengka]] ||
 |-
-| 12 || [[Purwakarta Regency|Purwakarta]] || [[Purwakarta]]
+| 12 || [[Purwakarta Regency|Purwakarta]] || [[Purwakarta]] ||
 |-
-| 13 || [[Subang Regency|Subang]] || [[Subang, Indonesia|Subang]]
+| 13 || [[Subang Regency|Subang]] || [[Subang, Indonesia|Subang]] ||
 |-
-| 14 || [[Sukabumi Regency|Sukabumi]] || [[Pelabuhan Ratu]]
+| 14 || [[Sukabumi Regency|Sukabumi]] || [[Pelabuhan Ratu]] ||
 |-
-| 15 || [[Sumedang Regency|Sumedang]] || [[Sumedang]]
+| 15 || [[Sumedang Regency|Sumedang]] || [[Sumedang]] ||
 |-
-| 16 || [[Tasikmalaya Regency|Tasikmalaya]] || [[Singaparna]]
+| 16 || [[Tasikmalaya Regency|Tasikmalaya]] || [[Singaparna]] ||
 |-
-| 17 || [[West Bandung Regency|West Bandung]] || [[Ngamprah]]
+| 17 || [[West Bandung Regency|West Bandung]] || [[Ngamprah]] ||
 |-
 |}
 |}
@@ -887,33 +887,32 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 !| Koto
 !| Peta
 |-
-| 1 || [[Bandung]] || [[Bandung]]
+| 1 || [[Bandung]] ||
 |-
-| 2 || [[Banjar, West Java|Banjar]] || [[Banjar, West Java|Banjar]]
+| 2 || [[Banjar, West Java|Banjar]] || 
 |-
-| 3 || [[Bekasi]] || [[Bekasi]]
+| 3 || [[Bekasi]] || 
 |-
-| 4 || [[Bogor]] || [[Bogor]]
+| 4 || [[Bogor]] || 
 |-
-| 5 || [[Cimahi]] || [[Cimahi]]
+| 5 || [[Cimahi]] || 
 |-
 |}
 |valign="top"|
 {| class="wikitable" style="text-align: center"
 |-
 !|No
-!|Kabupaten
-!|Ibu koto
+!|Koto
 !|Peta
 |-
-| 6 || [[Cirebon]] || [[Cirebon]]
+| 6 || [[Cirebon]] || 
 |-
-| 7 || [[Depok]] || [[Depok]]
+| 7 || [[Depok]] || 
 |-
-| 8 || [[Sukabumi]] || [[Sukabumi]]
+| 8 || [[Sukabumi]] || 
 |-
-| 9 || [[Tasikmalaya]] || [[Tasikmalaya]]
-|}
+| 9 || [[Tasikmalaya]] || 
+|-
 |}
 
 == [[Central Java]] ==
