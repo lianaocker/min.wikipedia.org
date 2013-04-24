@@ -777,30 +777,45 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 
 == [[Banten]] ==
 
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 1 || [[Lebak Regency|Lebak]] || [[Rangkasbitung]]
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
-| 2 || [[Pandeglang Regency|Pandeglang]] || [[Pandeglang]]
+| 1 || [[Lebak Regency|Lebak]] || [[Rangkasbitung]] ||
 |-
-| 3 || [[Serang Regency|Serang]] || [[Baros, Indonesia|Baros]]
+| 2 || [[Pandeglang Regency|Pandeglang]] || [[Pandeglang]] ||
 |-
-| 4 || [[Tangerang Regency|Tangerang]] || [[Tigaraksa]]
+| 3 || [[Serang Regency|Serang]] || [[Baros, Indonesia|Baros]] ||
 |-
-! No
-! colspan="2" |City
+| 4 || [[Tangerang Regency|Tangerang]] || [[Tigaraksa]] ||
 |-
-| 1 || [[Cilegon]] || [[Cilegon]]
+|}
+|}
+
+<div style="font-size:100%">
+{|
 |-
-| 2 || [[Serang]] || [[Serang]]
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 3 || [[Tangerang]] || [[Tangerang]]
+!| No
+!| Koto
+!| Peta
 |-
-| 4 || [[South Tangerang]] || [[Ciputat]]
+| 1 || [[Cilegon]] || 
+|-
+| 2 || [[Serang]] || 
+|-
+| 3 || [[Tangerang]] || 
+|-
+| 4 || [[South Tangerang]] || 
 |-
 |}
 
