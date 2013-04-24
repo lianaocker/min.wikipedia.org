@@ -806,11 +806,16 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |}
 
 == [[West Java]] ==
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
 | 1 || [[Bandung Regency|Bandung]] || [[Soreang]]
 |-
@@ -830,6 +835,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 9 || [[Karawang Regency|Karawang]] || [[Karawang]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 10 || [[Kuningan Regency|Kuningan]] || [[Kuningan]]
 |-
 | 11 || [[Majalengka Regency|Majalengka]] || [[Majalengka]]
@@ -846,8 +860,18 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 17 || [[West Bandung Regency|West Bandung]] || [[Ngamprah]]
 |-
-! No
-! colspan="2" |City
+|}
+|}
+
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!| No
+!| Koto
+!| Peta
 |-
 | 1 || [[Bandung]] || [[Bandung]]
 |-
@@ -859,6 +883,15 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 5 || [[Cimahi]] || [[Cimahi]]
 |-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
+|-
 | 6 || [[Cirebon]] || [[Cirebon]]
 |-
 | 7 || [[Depok]] || [[Depok]]
@@ -867,86 +900,120 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |-
 | 9 || [[Tasikmalaya]] || [[Tasikmalaya]]
 |}
+|}
 
 == [[Central Java]] ==
+<div style="font-size:100%">
+{|
+|-
+|valign="top"|
 {| class="wikitable"
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+!| No
+!| Kabupaten
+!| Ibu koto
+!| Peta
 |-
-| 1 || [[Banjarnegara Regency|Banjarnegara]] || [[Banjarnegara]]
+| 1 || [[Banjarnegara Regency|Banjarnegara]] || [[Banjarnegara]] ||
 |-
-| 2 || [[Banyumas Regency|Banyumas]] || [[Purwokerto]]
+| 2 || [[Banyumas Regency|Banyumas]] || [[Purwokerto]] ||
 |-
-| 3 || [[Batang Regency|Batang]] || [[Batang (city)|Batang]]
+| 3 || [[Batang Regency|Batang]] || [[Batang (city)|Batang]] ||
 |-
-| 4 || [[Blora Regency]] || [[Blora]]
+| 4 || [[Blora Regency]] || [[Blora]] ||
 |-
-| 5 || [[Boyolali Regency|Boyolali]] || [[Boyolali]]
+| 5 || [[Boyolali Regency|Boyolali]] || [[Boyolali]] ||
 |-
-| 6 || [[Brebes Regency|Brebes]] || [[Brebes]]
+| 6 || [[Brebes Regency|Brebes]] || [[Brebes]] ||
 |-
-| 7 || [[Cilacap Regency|Cilacap]] || [[Cilacap]]
+| 7 || [[Cilacap Regency|Cilacap]] || [[Cilacap]] ||
 |-
-| 8 || [[Demak Regency|Demak]] || [[Demak, Indonesia|Demak]]
+| 8 || [[Demak Regency|Demak]] || [[Demak, Indonesia|Demak]] ||
 |-
-| 9 || [[Grobogan Regency|Grobogan]] || [[Purwodadi Grobogan|Purwodadi]]
+| 9 || [[Grobogan Regency|Grobogan]] || [[Purwodadi Grobogan|Purwodadi]] ||
 |-
-| 10 || [[Jepara Regency|Jepara]] || [[Jepara]]
+| 10 || [[Jepara Regency|Jepara]] || [[Jepara]] ||
 |-
-| 11 || [[Karanganyar Regency|Karanganyar]] || [[Karanganyar]]
+| 11 || [[Karanganyar Regency|Karanganyar]] || [[Karanganyar]] ||
 |-
-| 12 || [[Kebumen Regency|Kebumen]] || [[Kebumen]]
+| 12 || [[Kebumen Regency|Kebumen]] || [[Kebumen]] ||
 |-
-| 13 || [[Kendal Regency|Kendal]] || [[Kendal, Indonesia|Kendal]]
+| 13 || [[Kendal Regency|Kendal]] || [[Kendal, Indonesia|Kendal]] ||
 |-
-| 14 || [[Klaten Regency|Klaten]] || [[Klaten]]
+| 14 || [[Klaten Regency|Klaten]] || [[Klaten]] ||
 |-
-| 15 || [[Kudus Regency|Kudus]] || [[Kudus]]
+| 15 || [[Kudus Regency|Kudus]] || [[Kudus]] ||
 |-
-| 16 || [[Magelang Regency|Magelang]] || [[Mungkid]]
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 17 || [[Pati Regency|Pati]] || [[Pati (town)|Pati]]
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
-| 18 || [[Pekalongan Regency|Pekalongan]] || [[Kajen]]
+| 16 || [[Magelang Regency|Magelang]] || [[Mungkid]] ||
 |-
-| 19 || [[Pemalang Regency|Pemalang]] || [[Pemalang]]
+| 17 || [[Pati Regency|Pati]] || [[Pati (town)|Pati]] ||
 |-
-| 20 || [[Purbalingga Regency|Purbalingga]] || [[Purbalingga]]
+| 18 || [[Pekalongan Regency|Pekalongan]] || [[Kajen]] ||
 |-
-| 21 || [[Purworejo Regency|Purworejo]] || [[Purworejo]]
+| 19 || [[Pemalang Regency|Pemalang]] || [[Pemalang]] ||
 |-
-| 22 || [[Rembang Regency|Rembang]] || [[Rembang]]
+| 20 || [[Purbalingga Regency|Purbalingga]] || [[Purbalingga]] ||
 |-
-| 23 || [[Semarang Regency|Semarang]] || [[Ungaran]]
+| 21 || [[Purworejo Regency|Purworejo]] || [[Purworejo]] ||
 |-
-| 24 || [[Sragen Regency|Sragen]] || [[Sragen]]
+| 22 || [[Rembang Regency|Rembang]] || [[Rembang]] ||
 |-
-| 25 || [[Sukoharjo Regency|Sukoharjo]] || [[Sukoharjo]]
+| 23 || [[Semarang Regency|Semarang]] || [[Ungaran]] ||
 |-
-| 26 || [[Tegal Regency|Tegal]] || [[Slawi]]
+| 24 || [[Sragen Regency|Sragen]] || [[Sragen]] ||
 |-
-| 27 || [[Temanggung Regency|Temanggung]] || [[Temanggung]]
+| 25 || [[Sukoharjo Regency|Sukoharjo]] || [[Sukoharjo]] ||
 |-
-| 28 || [[Wonogiri Regency|Wonogiri]] || [[Wonogiri]]
+| 26 || [[Tegal Regency|Tegal]] || [[Slawi]] ||
 |-
-| 29 || [[Wonosobo Regency|Wonosobo]] || [[Wonosobo]]
+| 27 || [[Temanggung Regency|Temanggung]] || [[Temanggung]] ||
 |-
-! No
-! colspan="2" |City
+| 28 || [[Wonogiri Regency|Wonogiri]] || [[Wonogiri]] ||
 |-
-| 1 || [[Magelang]] || [[Magelang]]
+| 29 || [[Wonosobo Regency|Wonosobo]] || [[Wonosobo]] ||
 |-
-| 2 || [[Surakarta]] || [[Surakarta]]
+|}
+|}
+
+<div style="font-size:100%">
+{|
 |-
-| 3 || [[Salatiga]] || [[Salatiga]]
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 4 || [[Semarang]] || [[Semarang]]
+!| No
+!| Koto
+!| Peta
 |-
-| 5 || [[Pekalongan]] || [[Pekalongan]]
+| 1 || [[Magelang]] || 
 |-
-| 6 || [[Tegal, Central Java|Tegal]] || [[Tegal, Central Java|Tegal]]
+| 2 || [[Surakarta]] || 
+|-
+| 3 || [[Salatiga]] || 
+|-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Koto
+!|Peta
+|-
+| 4 || [[Semarang]] || 
+|-
+| 5 || [[Pekalongan]] || 
+|-
+| 6 || [[Tegal, Central Java|Tegal]] || 
+|}
 |}
 
 == [[East Java]] ==
