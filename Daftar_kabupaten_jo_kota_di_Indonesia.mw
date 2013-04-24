@@ -730,27 +730,50 @@ Halaman ko baisi daftar [[kabupaten]], [[kabupaten administrasi]], [[koto]], dan
 |}
 
 == [[Jakarta]] ==
-{| class="wikitable"
+<div style="font-size:100%">
+{|
 |-
-! width="30" | No
-! width="140" | Regency
-! width="110" | Capital
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 1 || [[Thousand Islands (Indonesia)|Kepulauan Seribu]] || [[Pramuka Island]]
+!|No
+!|Kabupaten
+!|Ibu koto
+!|Peta
 |-
-! No
-! colspan="2" |City
+| 1 || [[Thousand Islands (Indonesia)|Kepulauan Seribu]] || [[Pramuka Island]] ||
 |-
-| 1 || [[Central Jakarta]] || [[Menteng]]
+|}
+
+<div style="font-size:100%">
+{|
 |-
-| 2 || [[East Jakarta]] || [[Jatinegara]]
+|valign="top"|
+{| class="wikitable" style="text-align: center"
 |-
-| 3 || [[North Jakarta]] || [[Koja, Jakarta|Koja]]
+!| No
+!| Koto
+!| Peta
 |-
-| 4 || [[South Jakarta]] || [[Kebayoran Baru]]
+| 1 || [[Central Jakarta]] || 
 |-
-| 5 || [[West Jakarta]] || [[Tomang]]
+| 2 || [[East Jakarta]] || 
 |-
+| 3 || [[North Jakarta]] || 
+|-
+|}
+|valign="top"|
+{| class="wikitable" style="text-align: center"
+|-
+!|No
+!|Koto
+!|Peta
+|-
+| 4 || [[South Jakarta]] || 
+|-
+| 5 || [[West Jakarta]] || 
+|-
+|}
 |}
 
 == [[Banten]] ==
