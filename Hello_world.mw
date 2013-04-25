@@ -1,8 +1,8 @@
-'''Hello world''' (tarjamahan: "helo dunia") adolah sabuah [[atur cara]] ringkas nan memaparkan teks "hello world" di skrin [[komputer]]. Biasanya, atur cara ini digunakan sabagai contoh untuak memperkenalkan [[bahasa pengaturcaraan]] nan baru dipelajari.
+'''Hello world''' (tarjamahan: "helo dunia") adolah sabuah [[atur cara]] ringkas nan memaparkan teks "hello world" di skrin [[komputer]]. Biasonyo, atur caro iko digunokan sabagai contoh untuak mampakanakan [[bahaso pengaturcaraan]] nan baru dipelajari.
 
 == Sijarah ==
 
-Atur cara ''hello world'' nan pertama muncul dalam buku ''The C Programming Language'' oleh Kernighan dan Ritchie pado taun 1978.<ref>http://roesler-ac.de/wolfram/hello.htm</ref> Atur cara ini ditulis begini:
+Atur caro ''hello world'' nan partamo muncul dalam buku ''The C Programming Language'' dek Kernighan jo Ritchie pado taun 1978.<ref>http://roesler-ac.de/wolfram/hello.htm</ref> Atur cara ini ditulis begini:
 
 <source lang="c">
 main()
@@ -21,7 +21,7 @@ Sejak dari itu, budaya penulisan atur cara ''hello world'' diikuti oleh ramai pe
 
 == Contoh dalam bahasa lain ==
 
-Berikut adolah contoh bagi atur cara ''hello world'' nan ditulis dalam bahaso-bahaso pengaturcaraan lain.
+Barikuik adolah contoh bagi atur caro ''hello world'' nan ditulih dalam bahaso-bahaso pengaturcaraan lain.
 
 Dalam [[Java]]:
 
