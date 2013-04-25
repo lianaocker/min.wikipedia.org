@@ -1,0 +1,83 @@
+'''Hello world''' (tarjamahan: "helo dunia") adolah sabuah [[atur cara]] ringkas nan memaparkan teks "hello world" di skrin [[komputer]]. Biasanya, atur cara ini digunakan sabagai contoh untuak memperkenalkan [[bahasa pengaturcaraan]] nan baru dipelajari.
+
+== Sijarah ==
+
+Atur cara ''hello world'' nan pertama muncul dalam buku ''The C Programming Language'' oleh Kernighan dan Ritchie pado taun 1978.<ref>http://roesler-ac.de/wolfram/hello.htm</ref> Atur cara ini ditulis begini:
+
+<source lang="c">
+main()
+{
+    printf("hello, world\n");
+}
+</source>
+
+Apabila dikompil dan dijalankan, teks berikut akan dipaparkan di skrin komputer:
+
+<pre>
+hello, world
+</pre>
+
+Sejak dari itu, budaya penulisan atur cara ''hello world'' diikuti oleh ramai pengatur cara dari seluruh dunia. Atur cara ini ditulis dalam hampir setiap bahaso pengaturcaraan nan wujud, bahkan ado juo nan ditulis dalam bahaso pertuturan manusia. Tradisi ko diteruskan sehingga ke hari ini.
+
+== Contoh dalam bahasa lain ==
+
+Berikut adolah contoh bagi atur cara ''hello world'' nan ditulis dalam bahaso-bahaso pengaturcaraan lain.
+
+Dalam [[Java]]:
+
+<source lang="java">
+public class HelloWorld
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello world!" );
+    }
+}
+</source>
+
+Dalam [[PHP]]:
+
+<source lang="php">
+<?php echo "Hello world!"; ?>
+</source>
+
+Dalam [[Python]]:
+
+<source lang="python">
+#!/usr/bin/python
+
+print "Hello world!"
+</source>
+
+Dalam [[Brainfuck]]: 
+
+<source lang="text">
+++++++++++
+[>+++++++>++++++++++>+++>+<<<<-] 
+>++. 
+>+. 
++++++++. 
+. 
++++. 
+>++. 
+<<+++++++++++++++. 
+>. 
++++. 
+------. 
+--------. 
+>+. 
+>. 
+</source>
+
+== Caliak juo ==
+* [[wikibooks:List of hello world programs|Senarai atur cara ''hello world'']] di [[Wikibooks]]
+* [[Pengaturcaraan]]
+
+== Rujuakan ==
+<references />
+
+== Pautan lua ==
+* {{ms}} [http://teknologi-maklumat.com/wiki/Atur_cara_Hello_world Ensiklokamus Teknologi Maklumat: Atur cara ''Hello world'' secara ringkas]
+* [http://www.roesler-ac.de/wolfram/hello.htm Koleksi atur cara ''hello world'']
+
+[[Kategori:Pengaturcaraan]]
