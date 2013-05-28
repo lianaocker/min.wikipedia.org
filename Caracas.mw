@@ -64,15 +64,15 @@
 | coordinates_display     = inline,title
 | coordinates_footnotes   = <!-- for references: use<ref> tags -->
 <!-- location ------------------>
-| subdivision_type        = Country
+| subdivision_type        = Nagara
 | subdivision_name        = {{flagicon|Venezuela}} [[Venezuela]]
-| subdivision_type1       = [[States of Venezuela|State]]
+| subdivision_type1       = [[Propinsi Venezuela|Propinsi]]
 | subdivision_name1       = [[Venezuelan Capital District]]<br />[[Miranda (state)|Miranda]]
-| subdivision_type2       = [[Municipalities of Venezuela|Municipality]]
+| subdivision_type2       = [[Munisipal Venezuela|Munisipal]]
 | subdivision_name2       = [[Libertador Municipality (Venezuelan Capital District)|Libertador]]
 <!-- established --------------->
-| established_title       = Founded
-| established_date        = 25 July 1567
+| established_title       = Badiri
+| established_date        = 25 Juli 1567
 | established_title1      = <!-- Incorporated (town) -->
 | established_date1       =
 | established_title2      = <!-- Incorporated (city) -->
@@ -88,7 +88,7 @@
 | seat                    =
 | parts_type              = Metropolitan
 | parts_style             = para
-| parts                   = Municipalities
+| parts                   = Munisipal
 | p1                      = [[Libertador Municipality (Venezuelan Capital District)|Libertador]]
 | p2                      = [[Chacao Municipality|Chacao]]
 | p3                      = [[Baruta Municipality|Baruta]]
@@ -99,7 +99,7 @@
 | government_type         = [[Mayor-council government|Mayor-council]]
 | governing_body          = Government of the Capital District / Mayorship of the Metropolitan District
 | leader_party            =
-| leader_title            = Chief of Government / Mayor
+| leader_title            = Kapalo Pamarentahan / Walikota
 | leader_name             = Jacqueline Faría / [[Antonio Ledezma]]
 | leader_title1           =
 | leader_name1            = <!-- etc., up to leader_title4 / leader_name4 -->
